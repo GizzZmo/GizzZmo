@@ -2,7 +2,7 @@
 - 👀 I’m interested in you.
 - 🌱 I’m currently learning to know you better.
 - 💞️ I’m looking to collaborate on studio lifestyle 
-- 📫 +47 41349297
+- 📫 +47 478209124
 
 <!---
 GizzZmo/GizzZmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
