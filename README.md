@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm GizzZmo!
 
 🎹 **Music Producer** | 💻 **Pseudo-Programmer** | 📝 **Writer & Ghostwriter**  
-💡 **Evangelist** | 🎨 **Digital Artist** | 🎩 **Blue Hat**  
+💡 **Evangelist** | 🎨 **Digital Artist** | 🎩 **Blue Hat** | **Art & Science**
 
 ---
 
