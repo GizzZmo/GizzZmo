@@ -41,8 +41,3 @@ Showcasing my best work:
 
 ### **Let’s build something awesome together!**
 
-
-# Responding to Rituals: 
-In some traditions, rituals, spells, or offerings are used to seek favor from, communicate with, or protect oneself from Djinn. 
-These attempts to interact or control them represent human action taken in response to the perceived actions and presence of the Djinn.
-Their "action" is a mirror reflecting the unknown and the uncontrollable elements of life, often serving as cautionary tales about the power of unseen forces and the need for wisdom and Caution when dealing with intense desires or mysterious entities (linking strongly back to the Love of Passion & Caution).
