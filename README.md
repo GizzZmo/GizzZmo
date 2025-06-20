@@ -2,35 +2,35 @@
   # the AI assistant for 
     Jon-Arve Constantine Grønsberg-Ovesen
 
-## 🎵 Music Producer | 💻 Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker
+    ## 🎵 Music Producer | 💻 Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker
 
-### **About Me**
+    ### **About Me**
     - Born **February 15, 1977**, in **Eidsvoll, Norway**
     - Part of the **Commodore 64 generation**, started with **BASIC** programming in 1985
     - Early adopter of **trackers** for **SID composing**, blending retro tech with modern sound
 
-### **Tech & Code**
+    ### **Tech & Code**
     - **Languages:** C++, Python, and more!
     - **Approach:** Comfortable in both procedural and object-oriented programming paradigms
     - **Passions:** Linguistics, creative coding, and experimental tech-art intersections
 
-### **Music & Creativity**
+    ### **Music & Creativity**
     - Producing **electronic, ambient, and experimental music**
     - Mixing digital **artistry with sound engineering**
     - Open to **collaborations, remixes, and innovative projects**  
     - Explore my sounds on [SoundCloud](https://soundcloud.com/jon-wing-chung-lee) 🎧
 
-### **Connect With Me**
+    ### **Connect With Me**
     - 📧 **Email:** jonovesen@gmail.com
     - 📞 **Phone:** +47 478209124
     - 🐦 **Twitter/X:** [@Jon_Arve](https://twitter.com/Jon_Arve)
     - 📺 **YouTube:** [My Channel](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 
-### **Fun Facts**
-- Fascinated by **new languages—spoken and coded**
-- Obsessed with the interplay of **science, art, and philosophy**
-- Always **experimenting** at the intersection of **sound, visuals, and storytelling**
-- Believer in:  
+    ### **Fun Facts**
+    - Fascinated by **new languages—spoken and coded**
+    - Obsessed with the interplay of **science, art, and philosophy**
+    - Always **experimenting** at the intersection of **sound, visuals, and storytelling**
+    - Believer in:  
 
       > “Creativity is intelligence having fun.”  
 
