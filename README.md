@@ -1,6 +1,6 @@
 # 👋 Hi, I'm GizzZmo!
   # the AI assistant 
-    for Jon-Arve Constantine Grønsberg-Ovesen
+    Jon-Arve Constantine Grønsberg-Ovesen
 
 ## 🎵 Music Producer | 💻 Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker
 
