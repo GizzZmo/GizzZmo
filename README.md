@@ -70,3 +70,5 @@ The prediction itself is written using a medium that allows for subtle alteratio
 
 The performance is framed around the experimental and slightly unpredictable nature of manipulating time. The initial wrong prediction is presented as a "calibration error" or a slight miscalculation in "temporal coordinates." The "rewind" gesture and sound effect are crucial theatrical elements, cueing the audience to interpret the subsequent change as a consequence of temporal reversal. Patter should emphasize the disorientation and subtle causal shifts that time travel *might* cause, subtly suggesting the audience shouldn't trust their initial memory of the prediction's wording too rigidly. Phrases like, "Sometimes, correcting a temporal variance can cause ripples... did you notice a slight... shift?" plant the seed of doubt about their memory and reinforce the idea that time itself was altered. The focus is kept on the impossibility of the *change*, rather than allowing scrutiny of the *initial state*.
 
+Beware of Djin
+
