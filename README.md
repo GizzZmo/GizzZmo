@@ -44,7 +44,7 @@ Showcasing my best work:
 
 ### **Let’s build something awesome together!**
 
-## PS! Here is the ## blueprint for a new ## magic illusion based on the concept of timetravel:
+## PS! Here is the ## blueprint for a new magic illusion based on the concept of timetravel:
 
 # 1. The Vulnerability
 
