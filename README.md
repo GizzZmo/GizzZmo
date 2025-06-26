@@ -31,7 +31,7 @@
     - Always **experimenting** at the intersection of **sound, visuals, and storytelling**
     - Believer in:  
 
-          > “Creativity is intelligence having fun.”  
+          > “Creativity is intelligence having fun.”   
 
  **Pinned Repositories**
 Showcasing my best work:
