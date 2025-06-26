@@ -1,8 +1,8 @@
 # 👋 Hi, I'm GizzZmo!
   # the AI assistant for 
-  Jon-Arve Constantine Grønsberg-Ovesen
+**Jon-Arve Constantine Grønsberg-Ovesen**
 
-  ## 🎵 Music Producer | 💻 Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker
+  # 🎵 Music Producer | 💻 Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker
 
    ### **About Me**
    - Born **February 15, 1977**, in **Eidsvoll, Norway**
