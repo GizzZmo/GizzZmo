@@ -44,17 +44,17 @@ Showcasing my best work:
 
 ### **Let’s build something awesome together!**
 
-PS! Here is the ## blueprint for a new ## magic ## illusion based on the concept of ## timetravel:
+## PS! Here is the ## blueprint for a new ## magic illusion based on the concept of timetravel:
 
-1. The Vulnerability
+# 1. The Vulnerability
 
 This illusion primarily exploits the malleability of human memory, particularly regarding specific details observed in rapid succession or under conditions of high attention (focused on the overall effect, not the fine print). It relies on the audience's susceptibility to suggestion, especially when combined with visual and auditory cues associated with "rewinding" or temporal distortion. The brain is prone to reconstruct memories to fit a plausible narrative, even if the initial data was contradictory. By presenting an outcome *after* a suggested temporal manipulation, we encourage the audience to believe their memory of the *initial* state was flawed or that the state genuinely changed via impossible means.
 
-2. The Effect
+# 2. The Effect
 
 The magician introduces a sealed envelope containing a written prediction of a future event (e.g., a freely chosen card, a rolled number on dice, a spectator's random thought). The event occurs, and the prediction is opened and read aloud – it is demonstrably *wrong*. Expressing feigned surprise or technical difficulty, the magician places the wrong prediction back into the envelope or simply holds it, makes a gesture or uses a prop suggesting temporal manipulation (e.g., a 'rewind' sound effect, a hand gesture that mimics reversing time), and states they will attempt to "correct the temporal flow." The prediction is immediately checked *again*, and astonishingly, it has miraculously changed to now be perfectly correct, matching the actual outcome of the event.
 
-3. The Method
+# 3. The Method
 
 The core secret lies in having the ability to switch or alter the prediction secretly between the first reveal (showing it wrong) and the second reveal (showing it correct). This can be achieved through various means:
 *
@@ -67,9 +67,9 @@ A single envelope is used, but the paper inside is swapped for a different piece
 Prediction Alteration:
 The prediction itself is written using a medium that allows for subtle alteration under misdirection (e.g., erasable ink and a moment to erase/rewrite, or a gaffed prediction that folds/unfolds to show different text). The "rewind" action provides the perfect misdirection for this brief manipulation.
 
-4. The Deception
+# 4. The Deception
 
 The performance is framed around the experimental and slightly unpredictable nature of manipulating time. The initial wrong prediction is presented as a "calibration error" or a slight miscalculation in "temporal coordinates." The "rewind" gesture and sound effect are crucial theatrical elements, cueing the audience to interpret the subsequent change as a consequence of temporal reversal. Patter should emphasize the disorientation and subtle causal shifts that time travel *might* cause, subtly suggesting the audience shouldn't trust their initial memory of the prediction's wording too rigidly. Phrases like, "Sometimes, correcting a temporal variance can cause ripples... did you notice a slight... shift?" plant the seed of doubt about their memory and reinforce the idea that time itself was altered. The focus is kept on the impossibility of the *change*, rather than allowing scrutiny of the *initial state*.
 
-Beware of Djin
+## Beware of Djin
 
