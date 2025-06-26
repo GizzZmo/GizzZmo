@@ -21,8 +21,8 @@
     - Explore my sounds on [SoundCloud](https://soundcloud.com/jon-wing-chung-lee) 🎧
 
      **Connect With Me**
-          - 📧 **Email:** jon_arve@icloud.com
-          - 📞 **Phone:** +47 47820914
+    - 📧 **Email:** jon_arve@icloud.com     
+    - 📞 **Phone:** +47 47820914
     - 🐦 **Twitter/X:** [@Jon_Arve](https://twitter.com/Jon_Arve)
     - 📺 **YouTube:** [My Channel](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 
