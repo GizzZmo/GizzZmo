@@ -1,30 +1,38 @@
-# This is an optimized GitHub Actions workflow
+# Enhanced GitHub Profile Update Workflow
+# Automatically updates README with dynamic content
 
-name: CI
+name: Update Profile README
 
-# Controls when the action will run. 
+# Controls when the action will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
+  schedule:
+    # Runs at 00:00 UTC daily
+    - cron: '0 0 * * *'
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# A workflow run is made up of one or more jobs
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-
+    
     steps:
-      # Upgraded checkout action to v3
-      - uses: actions/checkout@v3
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      # Improved logging for debugging
-      - name: Debugging Info
-        run: echo "Workflow triggered by ${{ github.event_name }} on branch ${{ github.ref }}"
+      # Setup Node.js for any JavaScript processing
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
 
       # Cache dependencies to speed up builds
       - name: Cache dependencies
@@ -35,34 +43,130 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      # Runs a single command using the runner's shell
-      - name: Run a one-line script
-        run: echo Hello, world! My name is Jon-Arve Constantine. 
-
-      # Runs a set of commands using the runner's shell
-      - name: Run a multi-line script
+      # Update dynamic date in README
+      - name: Update README with current date
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          # Get current date in a nice format
+          CURRENT_DATE=$(date '+%B %d, %Y at %H:%M UTC')
+          
+          # Replace the dynamic date placeholder in README
+          sed -i "s/{{ DATE }}/$CURRENT_DATE/g" README.md
+          
+          echo "Updated README with date: $CURRENT_DATE"
 
-  # Parallelize jobs to reduce execution time
-  test:
+      # Get latest repositories (this would typically use GitHub API)
+      - name: Update repository information
+        run: |
+          echo "Fetching latest repository information..."
+          # This is a placeholder for dynamic repo updates
+          # In a real implementation, you would fetch repo data via GitHub API
+          
+          # For now, we'll just add a timestamp to show the action is working
+          echo "Last updated: $(date)" >> .github/last-update.txt
+
+      # Performance optimization: Compress any images if they exist
+      - name: Optimize images
+        run: |
+          echo "Checking for images to optimize..."
+          # Install imagemin if images exist
+          if find . -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" | grep -q .; then
+            echo "Images found, optimization would happen here"
+            # npm install -g imagemin-cli imagemin-pngquant imagemin-mozjpeg
+            # imagemin images/*.{jpg,png} --out-dir=images/ --plugin=pngquant --plugin=mozjpeg
+          else
+            echo "No images found to optimize"
+          fi
+
+      # Security scan for any sensitive data
+      - name: Security check
+        run: |
+          echo "Running security checks..."
+          # Check for common sensitive patterns
+          if grep -r -i "password\|secret\|key\|token" . --exclude-dir=.git --exclude-dir=node_modules --exclude="*.md" || true; then
+            echo "⚠️ Potential sensitive data found - please review"
+          else
+            echo "✅ No obvious sensitive data detected"
+          fi
+
+      # Commit and push changes if any
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are any changes
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add .
+            git commit -m "🤖 Auto-update profile README - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✅ Successfully updated profile README"
+          fi
+
+  # Performance monitoring job
+  performance-check:
     runs-on: ubuntu-latest
-    needs: build
+    needs: update-readme
+    
     steps:
-      - uses: actions/checkout@v3
-      - name: Run tests
-        run: echo "Running tests..."
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  lint:
+      - name: Monitor workflow performance
+        run: |
+          echo "=== Workflow Performance Report ==="
+          echo "Repository size: $(du -sh . | cut -f1)"
+          echo "File count: $(find . -type f | wc -l)"
+          echo "Largest files:"
+          find . -type f -exec ls -la {} \; | sort -k5 -nr | head -5
+          
+          # Check README.md size
+          if [ -f "README.md" ]; then
+            README_SIZE=$(wc -c < README.md)
+            echo "README.md size: $README_SIZE bytes"
+            
+            if [ $README_SIZE -gt 50000 ]; then
+              echo "⚠️ README.md is quite large ($README_SIZE bytes) - consider optimization"
+            else
+              echo "✅ README.md size is optimal"
+            fi
+          fi
+
+  # Community engagement check
+  community-health:
     runs-on: ubuntu-latest
-    needs: build
+    
     steps:
-      - uses: actions/checkout@v3
-      - name: Run linting
-        run: echo "Linting code..."
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  # Matrix strategy for multi-environment testing
-  strategy:
-    matrix:
-      node-version: [14, 16, 18]
+      - name: Check community health
+        run: |
+          echo "=== Community Health Check ==="
+          
+          # Check for essential community files
+          files=("README.md" "LICENSE" ".gitignore")
+          for file in "${files[@]}"; do
+            if [ -f "$file" ]; then
+              echo "✅ $file exists"
+            else
+              echo "❌ $file missing"
+            fi
+          done
+          
+          # Check for templates directory
+          if [ -d "templates" ]; then
+            echo "✅ Templates directory exists"
+            echo "Template files:"
+            find templates -type f | sort
+          else
+            echo "❌ Templates directory missing"
+          fi
+          
+          # Check for contribution guidelines
+          if [ -f "CONTRIBUTING.md" ] || grep -q -i "contributing" README.md; then
+            echo "✅ Contribution guidelines found"
+          else
+            echo "⚠️ Consider adding contribution guidelines"
+          fi
