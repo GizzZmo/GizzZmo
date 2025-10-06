@@ -1,0 +1,101 @@
+# ===========================
+# GitHub Profile Repository .gitignore
+# ===========================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Temporary folders
+tmp/
+temp/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+
+# Editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.backup
+*.bak
+*.orig
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Build outputs (if any scripts generate them)
+dist/
+build/
+
+# Personal notes and drafts
+notes/
+drafts/
+personal/
+
+# Sensitive or personal files
+secrets/
+private/
+*.key
+*.pem
+*.p12
+*.p8
+*.cer
+*.crt
+*.der
+*.csr
+*.pfx
+
+# Test outputs
+test-results/
+coverage/
+
+# Scripts output
+scripts/output/
+
+# Any local development files
+local/
+dev/
