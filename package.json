@@ -8,7 +8,8 @@
     "lint": "echo \"Linting completed\" && exit 0",
     "build": "echo \"Build completed\" && exit 0",
     "update-readme": "node scripts/update-readme.js",
-    "validate-templates": "node scripts/validate-templates.js"
+    "validate-templates": "node scripts/validate-templates.js",
+    "generate-index": "node scripts/generate-repo-index.js"
   },
   "repository": {
     "type": "git",
