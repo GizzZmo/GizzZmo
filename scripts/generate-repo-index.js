@@ -33,14 +33,14 @@ function execCommand(command) {
 /**
  * Fetch all repositories using GitHub CLI
  */
-function fetchRepositories() {
+async function fetchRepositories() {
   console.log('📚 Fetching repositories from GitHub...');
   
   try {
     // Check if GH_TOKEN is available
     if (!process.env.GH_TOKEN && !process.env.GITHUB_TOKEN) {
       console.log('⚠️ GH_TOKEN not found, using GitHub API fallback...');
-      return fetchRepositoriesViaAPI();
+      return await fetchRepositoriesViaAPI();
     }
     
     // Use gh CLI to fetch repositories
@@ -49,7 +49,7 @@ function fetchRepositories() {
     
     if (!output) {
       console.log('⚠️ gh CLI failed, trying API fallback...');
-      return fetchRepositoriesViaAPI();
+      return await fetchRepositoriesViaAPI();
     }
     
     const repos = JSON.parse(output);
@@ -63,14 +63,14 @@ function fetchRepositories() {
   } catch (error) {
     console.error('❌ Error fetching repositories:', error.message);
     console.log('⚠️ Trying API fallback...');
-    return fetchRepositoriesViaAPI();
+    return await fetchRepositoriesViaAPI();
   }
 }
 
 /**
  * Fallback: Fetch repositories using GitHub API (without authentication)
  */
-function fetchRepositoriesViaAPI() {
+async function fetchRepositoriesViaAPI() {
   console.log('📚 Fetching repositories via GitHub API...');
   
   try {

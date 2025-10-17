@@ -75,7 +75,7 @@ For local testing without GitHub credentials:
 When `GH_TOKEN` is not available, the script uses the GitHub REST API:
 
 ```javascript
-https://api.github.com/users/GizzZmo/repos?per_page=100&sort=updated
+https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated
 ```
 
 This fallback:

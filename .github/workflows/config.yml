@@ -62,7 +62,10 @@ jobs:
           echo "Fetching latest repository information..."
           
           # Run the generate-repo-index script
-          npm run generate-index || echo "⚠️ Repository index generation had issues"
+          if ! npm run generate-index; then
+            echo "⚠️ Repository index generation failed - check logs for details"
+            exit 1
+          fi
           
           echo "Last updated: $(date)" >> .github/last-update.txt
 
