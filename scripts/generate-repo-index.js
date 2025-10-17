@@ -238,9 +238,10 @@ function generateRepoIndex(repos) {
   repos.forEach((repo, index) => {
     const name = repo.name;
     // Properly escape markdown special characters in description
+    // In JS strings: '\\\\' is two backslashes, which produces one escaped backslash in the output
     const description = (repo.description || 'No description')
-      .replace(/\\/g, '\\\\')  // Escape backslashes first
-      .replace(/\|/g, '\\|');  // Then escape pipe characters
+      .replace(/\\/g, '\\\\')  // Escape: \ → \\
+      .replace(/\|/g, '\\|');  // Escape: | → \|
     const language = repo.primaryLanguage ? repo.primaryLanguage.name : 'N/A';
     const stars = repo.stargazerCount || 0;
     const forks = repo.forkCount || 0;
