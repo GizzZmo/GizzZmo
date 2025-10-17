@@ -237,7 +237,10 @@ function generateRepoIndex(repos) {
 
   repos.forEach((repo, index) => {
     const name = repo.name;
-    const description = (repo.description || 'No description').replace(/\|/g, '\\|');
+    // Properly escape markdown special characters in description
+    const description = (repo.description || 'No description')
+      .replace(/\\/g, '\\\\')  // Escape backslashes first
+      .replace(/\|/g, '\\|');  // Then escape pipe characters
     const language = repo.primaryLanguage ? repo.primaryLanguage.name : 'N/A';
     const stars = repo.stargazerCount || 0;
     const forks = repo.forkCount || 0;
