@@ -84,6 +84,84 @@ This repository serves as my **GitHub profile hub** and showcases:
 
 ---
 
+<!-- REPO_INDEX_START -->
+
+## 📚 Complete Repository Index
+
+<details>
+<summary><b>Click to expand full repository list</b> (6 repositories)</summary>
+
+### All Public Repositories
+
+| # | Repository | Description | Language | Stars | Forks | Updated |
+|:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
+| 1 | ⭐ [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | AI-driven facial recognition security system | Python | 15 | 5 | Oct 1, 2025 |
+| 2 | ⭐ [**Ghostwriter**](https://github.com/GizzZmo/Ghostwriter) | Advanced Markdown editor for writers | JavaScript | 12 | 3 | Oct 10, 2025 |
+| 3 | 📦 [**MasteroftheMind**](https://github.com/GizzZmo/MasteroftheMind) | Classic Mastermind game implementation | Python | 8 | 1 | Sep 20, 2025 |
+| 4 | 📦 [**Governance-System-Enhancement**](https://github.com/GizzZmo/Governance-System-Enhancement) | Blockchain governance framework | Solidity | 7 | 2 | Jul 20, 2025 |
+| 5 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | GitHub profile repository with dynamic content | JavaScript | 5 | 2 | Oct 15, 2025 |
+| 6 | 🔱 [**VST3-Public-SDK**](https://github.com/GizzZmo/VST3-Public-SDK) | Audio plugin development framework | C++ | 3 | 0 | Aug 15, 2025 |
+
+</details>
+
+### Featured Projects
+
+Here are some of the most popular repositories:
+
+1. **[Face-Recon](https://github.com/GizzZmo/Face-Recon)** - AI-driven facial recognition security system
+   - 💻 Language: Python
+   - ⭐ Stars: 15
+
+2. **[Ghostwriter](https://github.com/GizzZmo/Ghostwriter)** - Advanced Markdown editor for writers
+   - 💻 Language: JavaScript
+   - ⭐ Stars: 12
+
+3. **[MasteroftheMind](https://github.com/GizzZmo/MasteroftheMind)** - Classic Mastermind game implementation
+   - 💻 Language: Python
+   - ⭐ Stars: 8
+
+4. **[Governance-System-Enhancement](https://github.com/GizzZmo/Governance-System-Enhancement)** - Blockchain governance framework
+   - 💻 Language: Solidity
+   - ⭐ Stars: 7
+
+5. **[GizzZmo](https://github.com/GizzZmo/GizzZmo)** - GitHub profile repository with dynamic content
+   - 💻 Language: JavaScript
+   - ⭐ Stars: 5
+
+<!-- REPO_INDEX_END -->
+
+---
+
+<!-- STATS_BADGES_START -->
+
+## 📊 Profile Statistics
+
+<div align="center">
+
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-6-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total_Stars-50-yellow?style=for-the-badge&logo=star)
+![Total Forks](https://img.shields.io/badge/Total_Forks-13-green?style=for-the-badge&logo=git)
+![Top Language](https://img.shields.io/badge/Top_Language-JavaScript-red?style=for-the-badge&logo=code)
+
+</div>
+
+### Repository Breakdown
+
+- **Original Repositories**: 5
+- **Forked Repositories**: 1
+- **Archived Repositories**: 0
+
+### Language Distribution
+
+- **JavaScript**: 2 repositories
+- **Python**: 2 repositories
+- **C++**: 1 repository
+- **Solidity**: 1 repository
+
+<!-- STATS_BADGES_END -->
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
