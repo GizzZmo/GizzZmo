@@ -139,7 +139,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 42 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Oct 14, 2025 |
 | 43 | 📦 [**Governance-System-Enhancement-Strategy**](https://github.com/GizzZmo/Governance-System-Enhancement-Strategy) | A robust blockchain governance framework with hybrid voting, treasury management, and community engagement via X. Built for decentralization, fairness, and scalability. | Move | 1 | 0 | Oct 16, 2025 |
 | 44 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Oct 17, 2025 |
-| 45 | 🔱 [**etcher**](https://github.com/GizzZmo/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | TypeScript | 0 | 0 | Apr 22, 2025 |
+| 45 | 🔱 [**spark**](https://github.com/GizzZmo/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 1 | 0 | Dec 13, 2023 |
 | 46 | 📦 [**mod-2**](https://github.com/GizzZmo/mod-2) | Anomalities | HTML | 0 | 0 | Apr 20, 2025 |
 | 47 | 📦 [**BlogSite**](https://github.com/GizzZmo/BlogSite) | creating a full-fledged PHP blog site with registration, email confirmation, and individual user blogs | PHP | 0 | 0 | May 31, 2025 |
 | 48 | 🔱 [**luarocks**](https://github.com/GizzZmo/luarocks) | LuaRocks is the package manager for the Lua programming language. | Lua | 0 | 0 | Jun 4, 2025 |
@@ -193,8 +193,8 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 96 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 97 | 📦 [**The-Algorithmic-Canvas-A-Journey-from-Pixels-to-Patterns**](https://github.com/GizzZmo/The-Algorithmic-Canvas-A-Journey-from-Pixels-to-Patterns) | Art and technology are not separate worlds; they are merging. The Algorithmic Canvas is your guide to this exciting intersection, a place where code becomes your paintbrush and the screen your canvas. This book is for the curious artist, the creative programmer, the inquisitive designer, and the curious about art and science. | N/A | 0 | 0 | Oct 13, 2025 |
 | 98 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 0 | 0 | Oct 5, 2025 |
-| 99 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 0 | 0 | Oct 16, 2025 |
-| 100 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 0 | 0 | Oct 17, 2025 |
+| 99 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 0 | 0 | Oct 17, 2025 |
+| 100 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 0 | 0 | Oct 16, 2025 |
 
 </details>
 
@@ -234,7 +234,7 @@ Here are some of the most popular repositories:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-49-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-50-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-6-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-Python-red?style=for-the-badge&logo=code)
 
@@ -249,7 +249,7 @@ Here are some of the most popular repositories:
 ### Language Distribution
 
 - **Python**: 21 repositories
-- **TypeScript**: 20 repositories
+- **TypeScript**: 19 repositories
 - **HTML**: 17 repositories
 - **JavaScript**: 10 repositories
 - **C++**: 7 repositories
