@@ -225,7 +225,8 @@ function generatePinnedReposMarkdown(repos) {
   repos.forEach(repo => {
     const name = repo.name;
     const description = (repo.description || 'No description')
-      .replace(/\|/g, '\\|')
+      .replace(/\\/g, '\\\\')  // Escape backslashes first
+      .replace(/\|/g, '\\|')   // Then escape pipes
       .replace(/\n/g, ' ')
       .substring(0, 100) + (repo.description && repo.description.length > 100 ? '...' : '');
     const language = repo.primaryLanguage ? getLanguageBadge(repo.primaryLanguage.name) : '![N/A](https://img.shields.io/badge/N/A-gray?style=flat-square)';
