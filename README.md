@@ -60,7 +60,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 
 | Platform | Description | Link |
 |:--------:|:-----------:|:----:|
-| 🎧 **SoundCloud** | Electronic, ambient, and experimental music | [Listen Now](https://soundcloud.com/jon-wing-chung-lee) |
+| 🎧 **SoundCloud** | Electronic, ambient, and experimental music | [Listen Now](https://soundcloud.com/jon_arve) |
 | 📺 **YouTube** | Tech tutorials, music production, creative content | [Watch Now](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA) |
 | 🎼 **Collaborations** | Open to remixes and innovative projects | [Contact Me](#-connect-with-me) |
 
@@ -75,11 +75,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 <!-- DYNAMIC_REPOS_START -->
 | Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
-| 📝 **[Ghostwriter](https://github.com/GizzZmo/Ghostwriter)** | Advanced Markdown editor for writers | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Ghostwriter?style=flat-square) |
-| 🎚️ **[VST3 Public SDK](https://github.com/GizzZmo/VST3-Public-SDK)** | Audio plugin development framework | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/VST3-Public-SDK?style=flat-square) |
-| 🧠 **[MasteroftheMind](https://github.com/GizzZmo/MasteroftheMind)** | Classic Mastermind game implementation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/MasteroftheMind?style=flat-square) |
-| 🎭 **[Face-Recon](https://github.com/GizzZmo/Face-Recon)** | AI-driven facial recognition security system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Face-Recon?style=flat-square) |
-| 🏛️ **[Governance-System-Enhancement](https://github.com/GizzZmo/Governance-System-Enhancement-Strategy)** | Blockchain governance framework | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Governance-System-Enhancement-Strategy?style=flat-square) |
+| *No pinned repositories* | Update your pinned repositories on GitHub | - | - |
 <!-- DYNAMIC_REPOS_END -->
 
 ---

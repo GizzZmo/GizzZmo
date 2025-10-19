@@ -120,6 +120,56 @@ The script can be configured by editing `/home/runner/work/GizzZmo/GizzZmo/scrip
 
 ---
 
+### 📌 update-pinned-repos.js
+
+Automatically fetches and updates the pinned repositories section in README.md using the GitHub API. The script uses the GraphQL API when a GitHub token is available, falling back to REST API otherwise.
+
+#### Features
+
+- **GitHub GraphQL API**: Fetches actual pinned repositories from the GitHub profile
+- **REST API Fallback**: Uses top-starred repositories when GraphQL is unavailable
+- **Language Badges**: Automatically generates language badges with appropriate colors
+- **Smart Formatting**: Escapes special characters and truncates long descriptions
+- **Multiple Icons**: Uses appropriate emojis for different repository types
+
+#### Usage
+
+```bash
+npm run update-pinned
+```
+
+This script:
+1. Connects to GitHub API (GraphQL or REST)
+2. Fetches pinned repositories from the user profile
+3. Generates formatted markdown table with:
+   - Repository name and link
+   - Description (truncated to 100 characters)
+   - Language badge with color and logo
+   - Stars badge
+4. Updates the `<!-- DYNAMIC_REPOS_START -->` section in README.md
+
+#### Requirements
+
+- **GitHub Token** (optional but recommended): Set `GH_TOKEN` or `GITHUB_TOKEN` environment variable
+- Without a token, the script uses REST API and shows top-starred repos as "pinned"
+
+#### Example Output
+
+The script updates the README.md pinned repositories section:
+
+```markdown
+| Repository | Description | Language | Stars |
+|:-----------|:------------|:---------|:------|
+| 📝 **[DSP4Guitar](...)** | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin... | ![C++](https://img.shields.io/badge/C++-00599C...) | ![Stars](...) |
+| 📝 **[Ai_shell](...)** | AI Shell is an intelligent, multi-modal command-line assistant... | ![Python](https://img.shields.io/badge/Python-3776AB...) | ![Stars](...) |
+```
+
+#### Integration
+
+This script is automatically run by the GitHub Actions workflow (`.github/workflows/config.yml`) daily to keep the pinned repositories section up to date with your actual GitHub pinned repos.
+
+---
+
 ### 📊 generate-repo-index.js
 
 Generates an automated index of all repositories for inclusion in the README.
