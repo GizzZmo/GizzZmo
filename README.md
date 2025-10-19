@@ -79,7 +79,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 🎚️ **[VST3 Public SDK](https://github.com/GizzZmo/VST3-Public-SDK)** | Audio plugin development framework | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/VST3-Public-SDK?style=flat-square) |
 | 🧠 **[MasteroftheMind](https://github.com/GizzZmo/MasteroftheMind)** | Classic Mastermind game implementation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/MasteroftheMind?style=flat-square) |
 | 🎭 **[Face-Recon](https://github.com/GizzZmo/Face-Recon)** | AI-driven facial recognition security system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Face-Recon?style=flat-square) |
-| 🏛️ **[Governance-System-Enhancement](https://github.com/GizzZmo/Governance-System-Enhancement)** | Blockchain governance framework | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Governance-System-Enhancement?style=flat-square) |
+| 🏛️ **[Governance-System-Enhancement](https://github.com/GizzZmo/Governance-System-Enhancement-Strategy)** | Blockchain governance framework | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Governance-System-Enhancement-Strategy?style=flat-square) |
 <!-- DYNAMIC_REPOS_END -->
 
 ---
@@ -339,7 +339,7 @@ cp .editorconfig-template /your-project/.editorconfig
 | 📞 **Phone** | [+47 47820914](tel:+4747820914) | Direct communication |
 | 🐦 **Twitter/X** | [@Jon_Arve](https://twitter.com/Jon_Arve) | Tech discussions & updates |
 | 📺 **YouTube** | [My Channel](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA) | Tutorials & creative content |
-| 💼 **LinkedIn** | [Connect](https://linkedin.com/in/jon-arve-gizzmo) | Professional networking |
+| 💼 **LinkedIn** | [Connect](https://www.linkedin.com/in/jon-arve-gizzmo) | Professional networking |
 
 </div>
 

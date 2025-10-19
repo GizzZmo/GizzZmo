@@ -38,7 +38,7 @@ Help improve README, guides, and template documentation:
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/GizzZmo.git
+git clone https://github.com/GizzZmo/GizzZmo.git
 cd GizzZmo
 
 # Create a feature branch
@@ -172,7 +172,7 @@ This repository especially welcomes contributions related to:
 ## 📚 Resources
 
 ### Helpful Links
-- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [EditorConfig Specification](https://editorconfig.org/)
 - [VSCode Settings Reference](https://code.visualstudio.com/docs/getstarted/settings)
 - [Gitignore Templates](https://github.com/github/gitignore)
