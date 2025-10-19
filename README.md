@@ -188,13 +188,13 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 91 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
 | 92 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
 | 93 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
-| 94 | 🔱 [**Learn-React-with-TypeScript-2nd-Edition**](https://github.com/GizzZmo/Learn-React-with-TypeScript-2nd-Edition) | Learn React with TypeScript (2nd Edition), published by Packt | TypeScript | 0 | 0 | Jul 7, 2025 |
-| 95 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
-| 96 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
-| 97 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven with AR support | TypeScript | 0 | 0 | Sep 30, 2025 |
-| 98 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
-| 99 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
-| 100 | 📦 [**Fandom-Fusion**](https://github.com/GizzZmo/Fandom-Fusion) | Fandom-Fusion is an innovative web application that leverages Google's Gemini AI to generate creative comic strip prompts for artists and storytellers. Whether you're a comic creator looking for inspiration or a fan fiction writer seeking new ideas, Fandom-Fusion helps you explore endless possibilities across popular fictional universes. | TypeScript | 0 | 0 | Oct 18, 2025 |
+| 94 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
+| 95 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
+| 96 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven with AR support | TypeScript | 0 | 0 | Sep 30, 2025 |
+| 97 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
+| 98 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
+| 99 | 📦 [**Fandom-Fusion**](https://github.com/GizzZmo/Fandom-Fusion) | Fandom-Fusion is an innovative web application that leverages Google's Gemini AI to generate creative comic strip prompts for artists and storytellers. Whether you're a comic creator looking for inspiration or a fan fiction writer seeking new ideas, Fandom-Fusion helps you explore endless possibilities across popular fictional universes. | TypeScript | 0 | 0 | Oct 18, 2025 |
+| 100 | 🔱 [**Learn-React-with-TypeScript-2nd-Edition**](https://github.com/GizzZmo/Learn-React-with-TypeScript-2nd-Edition) | Learn React with TypeScript (2nd Edition), published by Packt | TypeScript | 0 | 0 | Jul 7, 2025 |
 
 </details>
 
