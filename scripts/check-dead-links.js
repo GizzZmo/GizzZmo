@@ -108,17 +108,25 @@ function extractUrls(filePath) {
  */
 function checkUrl(url, redirectCount = 0) {
   return new Promise((resolve) => {
-    // Skip certain URLs that are known to block automated checks
-    if (url.includes('shields.io') || 
-        url.includes('img.shields.io') ||
-        url.includes('komarev.com') ||
-        url.includes('github-readme-stats.vercel.app') ||
-        url.includes('github-readme-streak-stats.herokuapp.com')) {
-      resolve({ url, status: 'skipped', reason: 'Badge/Stats URL (skipped)' });
+    // Parse URL first for security
+    let urlObj;
+    try {
+      urlObj = new URL(url);
+    } catch (e) {
+      resolve({ url, status: 'error', reason: 'Invalid URL' });
       return;
     }
 
-    const urlObj = new URL(url);
+    // Skip certain hostnames that are known to block automated checks
+    const hostname = urlObj.hostname;
+    if (hostname === 'shields.io' || 
+        hostname === 'img.shields.io' ||
+        hostname === 'komarev.com' ||
+        hostname === 'github-readme-stats.vercel.app' ||
+        hostname === 'github-readme-streak-stats.herokuapp.com') {
+      resolve({ url, status: 'skipped', reason: 'Badge/Stats URL (skipped)' });
+      return;
+    }
     const client = urlObj.protocol === 'https:' ? https : http;
 
     const options = {
@@ -160,7 +168,7 @@ function checkUrl(url, redirectCount = 0) {
     req.on('error', (err) => {
       // Check if it's a DNS error for a known good domain
       const hostname = urlObj.hostname;
-      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.includes(hostname)) {
+      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.has(hostname)) {
         resolve({ url, status: 'skipped', reason: `DNS issue (${hostname} is a known good domain)` });
       } else {
         resolve({ url, status: 'error', reason: err.message });
