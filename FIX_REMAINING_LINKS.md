@@ -16,7 +16,7 @@ You have **2 links** that need your attention:
 **Your options:**
 
 #### Option A: Remove the reference (if project no longer exists)
-Delete lines 79 in README.md (the entire table row)
+Delete line 79 in README.md (the entire table row)
 
 #### Option B: Link to official Steinberg SDK
 Replace with:

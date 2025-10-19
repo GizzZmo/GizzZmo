@@ -20,7 +20,7 @@ const TIMEOUT = 10000; // 10 seconds timeout for each request
 const MAX_REDIRECTS = 5;
 
 // Known good domains that may have DNS issues in certain environments
-const KNOWN_GOOD_DOMAINS = [
+const KNOWN_GOOD_DOMAINS = new Set([
   'youtube.com',
   'www.youtube.com',
   'soundcloud.com',
@@ -31,7 +31,7 @@ const KNOWN_GOOD_DOMAINS = [
   'editorconfig.org',
   'code.visualstudio.com',
   'commonmark.org',
-];
+]);
 
 // Colors for terminal output
 const colors = {
@@ -204,7 +204,7 @@ function checkUrlWithGet(url) {
     req.on('error', (err) => {
       // Check if it's a DNS error for a known good domain
       const hostname = urlObj.hostname;
-      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.includes(hostname)) {
+      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.has(hostname)) {
         resolve({ url, status: 'skipped', reason: `DNS issue (${hostname} is a known good domain)` });
       } else {
         resolve({ url, status: 'error', reason: err.message });
