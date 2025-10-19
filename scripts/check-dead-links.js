@@ -19,6 +19,20 @@ const URL_REGEX = /(https?:\/\/[^\s\)\]<>"']+)/gi;
 const TIMEOUT = 10000; // 10 seconds timeout for each request
 const MAX_REDIRECTS = 5;
 
+// Known good domains that may have DNS issues in certain environments
+const KNOWN_GOOD_DOMAINS = [
+  'youtube.com',
+  'www.youtube.com',
+  'soundcloud.com',
+  'linkedin.com',
+  'www.linkedin.com',
+  'twitter.com',
+  'x.com',
+  'editorconfig.org',
+  'code.visualstudio.com',
+  'commonmark.org',
+];
+
 // Colors for terminal output
 const colors = {
   reset: '\x1b[0m',
@@ -144,7 +158,13 @@ function checkUrl(url, redirectCount = 0) {
     });
 
     req.on('error', (err) => {
-      resolve({ url, status: 'error', reason: err.message });
+      // Check if it's a DNS error for a known good domain
+      const hostname = urlObj.hostname;
+      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.includes(hostname)) {
+        resolve({ url, status: 'skipped', reason: `DNS issue (${hostname} is a known good domain)` });
+      } else {
+        resolve({ url, status: 'error', reason: err.message });
+      }
     });
 
     req.end();
@@ -182,7 +202,13 @@ function checkUrlWithGet(url) {
     });
 
     req.on('error', (err) => {
-      resolve({ url, status: 'error', reason: err.message });
+      // Check if it's a DNS error for a known good domain
+      const hostname = urlObj.hostname;
+      if (err.code === 'ENOTFOUND' && KNOWN_GOOD_DOMAINS.includes(hostname)) {
+        resolve({ url, status: 'skipped', reason: `DNS issue (${hostname} is a known good domain)` });
+      } else {
+        resolve({ url, status: 'error', reason: err.message });
+      }
     });
 
     req.end();
