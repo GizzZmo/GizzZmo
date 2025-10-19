@@ -10,6 +10,7 @@
     "update-readme": "node scripts/update-readme.js",
     "validate-templates": "node scripts/validate-templates.js",
     "generate-index": "node scripts/generate-repo-index.js",
+    "update-pinned": "node scripts/update-pinned-repos.js",
     "check-links": "node scripts/check-dead-links.js",
     "check-links:verbose": "node scripts/check-dead-links.js --verbose",
     "fix-links": "node scripts/check-dead-links.js --fix"

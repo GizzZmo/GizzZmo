@@ -61,6 +61,12 @@ jobs:
         run: |
           echo "Fetching latest repository information..."
           
+          # Run the update-pinned-repos script first
+          if ! npm run update-pinned; then
+            echo "⚠️ Pinned repositories update failed - check logs for details"
+            exit 1
+          fi
+          
           # Run the generate-repo-index script
           if ! npm run generate-index; then
             echo "⚠️ Repository index generation failed - check logs for details"
