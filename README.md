@@ -142,11 +142,11 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 43 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven with AR support | TypeScript | 1 | 0 | Oct 22, 2025 |
 | 44 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 1 | 0 | Oct 23, 2025 |
 | 45 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | HTML | 1 | 0 | Oct 23, 2025 |
-| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Oct 27, 2025 |
-| 47 | 📦 [**VerseFlow-**](https://github.com/GizzZmo/VerseFlow-) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Sep 14, 2025 |
-| 48 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 1 | 0 | Oct 18, 2025 |
-| 49 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Oct 11, 2025 |
-| 50 | 📦 [**Samarbeidende-Super-E-Demokrati**](https://github.com/GizzZmo/Samarbeidende-Super-E-Demokrati) | Samarbeidende Super E-Demokrati - En interaktiv webside. | HTML | 0 | 0 | Jun 5, 2025 |
+| 46 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
+| 47 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 1 | 0 | Oct 18, 2025 |
+| 48 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Oct 11, 2025 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Oct 28, 2025 |
+| 50 | 🔱 [**echarts**](https://github.com/GizzZmo/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 1 | 0 | Dec 13, 2023 |
 | 51 | 📦 [**Gitar-DSP-Effektprosessor**](https://github.com/GizzZmo/Gitar-DSP-Effektprosessor) | Dette er et åpen kildekode-prosjekt for å bygge en frittstående gitar-effektprosessor for Windows ved hjelp av C++ og JUCE-rammeverket. | C++ | 0 | 0 | Jun 7, 2025 |
 | 52 | 📦 [**notepad-.dll**](https://github.com/GizzZmo/notepad-.dll) | plug ins for notepad++ | N/A | 0 | 0 | Jun 9, 2025 |
 | 53 | 📦 [**AI-Revolution-in-Health-Welfare**](https://github.com/GizzZmo/AI-Revolution-in-Health-Welfare) | The AI Revolution in Health & Welfare Balancing Transformative Innovation with Ethical Responsibility  Artificial Intelligence represents a frontier of innovation with profound implications for health and social services. Its capacity to interpret complex medical scans, enhance surgical precision, and streamline administrative tasks | HTML | 0 | 0 | Jun 9, 2025 |
@@ -236,7 +236,7 @@ Here are some of the most popular repositories:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-54-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-55-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-6-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -244,15 +244,15 @@ Here are some of the most popular repositories:
 
 ### Repository Breakdown
 
-- **Original Repositories**: 72
-- **Forked Repositories**: 28
+- **Original Repositories**: 71
+- **Forked Repositories**: 29
 - **Archived Repositories**: 0
 
 ### Language Distribution
 
-- **TypeScript**: 24 repositories
+- **TypeScript**: 25 repositories
 - **Python**: 21 repositories
-- **HTML**: 15 repositories
+- **HTML**: 14 repositories
 - **JavaScript**: 10 repositories
 - **C++**: 7 repositories
 - **C#**: 3 repositories
