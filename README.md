@@ -145,7 +145,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 46 | 📦 [**8**](https://github.com/GizzZmo/8) | Perceptive Art: Cognitive Implications & Ethical Challenges | HTML | 1 | 0 | Oct 31, 2025 |
 | 47 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Nov 3, 2025 |
 | 48 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Nov 4, 2025 |
-| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Nov 6, 2025 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Nov 7, 2025 |
 | 50 | 📦 [**Chession**](https://github.com/GizzZmo/Chession) | SJakk nettsted | JavaScript | 0 | 0 | Jun 18, 2025 |
 | 51 | 📦 [**InnerSelf**](https://github.com/GizzZmo/InnerSelf) | Creative Visualization | HTML | 0 | 0 | Jun 18, 2025 |
 | 52 | 📦 [**NaturaLens**](https://github.com/GizzZmo/NaturaLens) | The Strategic Vision: A "Social Lens" on the Natural World | HTML | 0 | 0 | Jun 20, 2025 |
