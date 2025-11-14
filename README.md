@@ -146,7 +146,7 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 47 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 1 | 0 | Oct 18, 2025 |
 | 48 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Nov 3, 2025 |
 | 49 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Nov 11, 2025 |
-| 50 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Nov 12, 2025 |
+| 50 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Nov 13, 2025 |
 | 51 | 📦 [**InnerSelf**](https://github.com/GizzZmo/InnerSelf) | Creative Visualization | HTML | 0 | 0 | Jun 18, 2025 |
 | 52 | 📦 [**NaturaLens**](https://github.com/GizzZmo/NaturaLens) | The Strategic Vision: A "Social Lens" on the Natural World | HTML | 0 | 0 | Jun 20, 2025 |
 | 53 | 🔱 [**cookbook**](https://github.com/GizzZmo/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 0 | 0 | Jun 28, 2025 |
@@ -182,21 +182,21 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 83 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
 | 84 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 85 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
-| 86 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
-| 87 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
-| 88 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 89 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
-| 90 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
-| 91 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
-| 92 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 93 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 94 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 95 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 96 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 97 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
-| 98 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
-| 99 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
-| 100 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
+| 86 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
+| 87 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
+| 88 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
+| 89 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
+| 90 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
+| 91 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 92 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 93 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 94 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 95 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 96 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
+| 97 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
+| 98 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
+| 99 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
+| 100 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
 
 </details>
 
