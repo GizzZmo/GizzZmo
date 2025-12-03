@@ -147,8 +147,8 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 48 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | HTML | 1 | 0 | Oct 23, 2025 |
 | 49 | 🔱 [**systemds**](https://github.com/GizzZmo/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1 | 0 | Dec 13, 2023 |
 | 50 | 📦 [**Lineage-of-the-Arcane**](https://github.com/GizzZmo/Lineage-of-the-Arcane) | # Lineage of the Arcane: The Parents of Magic  > "Magic is not a tool. It is a family tree. And you are the youngest child."  ## 🔮 Project Overview **Lineage of the Arcane** is a gameplay prototype exploring a unique magic system where spells are sentient entities. Players do not cast magic; they negotiate with ancient "Progenitors" (Parents). | C# | 1 | 0 | Nov 30, 2025 |
-| 51 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 1, 2025 |
-| 52 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 1, 2025 |
+| 51 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 2, 2025 |
+| 52 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 2, 2025 |
 | 53 | 📦 [**harmonia_nexus**](https://github.com/GizzZmo/harmonia_nexus) | No description | N/A | 0 | 0 | Jul 21, 2025 |
 | 54 | 📦 [**ToDo**](https://github.com/GizzZmo/ToDo) | The repository serves as a comprehensive implementation of a To-Do List application. According to the README, it is designed using React for building the user interface, TypeScript for ensuring type safety, and Tailwind CSS for styling. The app stores data persistently using the browser's local storage. | N/A | 0 | 0 | Jul 22, 2025 |
 | 55 | 📦 [**Cyber-Sudoku---iOS**](https://github.com/GizzZmo/Cyber-Sudoku---iOS) | Programmed in Swift | Swift | 0 | 0 | Jul 27, 2025 |
