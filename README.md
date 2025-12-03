@@ -269,11 +269,11 @@ Here are some of the most popular repositories:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizzZmo&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GizzZmo&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -383,4 +383,4 @@ This repository is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Last updated: <!-- DYNAMIC_DATE -->October 8, 2025 at 01:32 PM UTC<!-- /DYNAMIC_DATE --> | Auto-generated content via GitHub Actions*
+*Last updated: <!-- DYNAMIC_DATE -->December 3, 2025 at 09:41 PM UTC<!-- /DYNAMIC_DATE --> | Auto-generated content via GitHub Actions*
