@@ -98,8 +98,8 @@ This repository serves as my **GitHub profile hub** and showcases:
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
 | 1 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 3 | 1 | Oct 1, 2025 |
-| 2 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Oct 16, 2025 |
-| 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 2 | 0 | Nov 3, 2025 |
+| 2 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 3 | 0 | Dec 3, 2025 |
+| 3 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Oct 16, 2025 |
 | 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 2 | 2 | Oct 5, 2025 |
 | 5 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
 | 6 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Oct 24, 2025 |
@@ -147,8 +147,8 @@ This repository serves as my **GitHub profile hub** and showcases:
 | 48 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | HTML | 1 | 0 | Oct 23, 2025 |
 | 49 | 🔱 [**systemds**](https://github.com/GizzZmo/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1 | 0 | Dec 13, 2023 |
 | 50 | 📦 [**Lineage-of-the-Arcane**](https://github.com/GizzZmo/Lineage-of-the-Arcane) | # Lineage of the Arcane: The Parents of Magic  > "Magic is not a tool. It is a family tree. And you are the youngest child."  ## 🔮 Project Overview **Lineage of the Arcane** is a gameplay prototype exploring a unique magic system where spells are sentient entities. Players do not cast magic; they negotiate with ancient "Progenitors" (Parents). | C# | 1 | 0 | Nov 30, 2025 |
-| 51 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 2, 2025 |
-| 52 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 2, 2025 |
+| 51 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 3, 2025 |
+| 52 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 3, 2025 |
 | 53 | 📦 [**harmonia_nexus**](https://github.com/GizzZmo/harmonia_nexus) | No description | N/A | 0 | 0 | Jul 21, 2025 |
 | 54 | 📦 [**ToDo**](https://github.com/GizzZmo/ToDo) | The repository serves as a comprehensive implementation of a To-Do List application. According to the README, it is designed using React for building the user interface, TypeScript for ensuring type safety, and Tailwind CSS for styling. The app stores data persistently using the browser's local storage. | N/A | 0 | 0 | Jul 22, 2025 |
 | 55 | 📦 [**Cyber-Sudoku---iOS**](https://github.com/GizzZmo/Cyber-Sudoku---iOS) | Programmed in Swift | Swift | 0 | 0 | Jul 27, 2025 |
@@ -208,12 +208,12 @@ Here are some of the most popular repositories:
    - 💻 Language: C++
    - ⭐ Stars: 3
 
-2. **[Ai_shell](https://github.com/GizzZmo/Ai_shell)** - AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.  
-   - 💻 Language: Python
-   - ⭐ Stars: 2
-
-3. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
+2. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
    - 💻 Language: JavaScript
+   - ⭐ Stars: 3
+
+3. **[Ai_shell](https://github.com/GizzZmo/Ai_shell)** - AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.  
+   - 💻 Language: Python
    - ⭐ Stars: 2
 
 4. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
@@ -236,7 +236,7 @@ Here are some of the most popular repositories:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-59-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-60-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-9-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
