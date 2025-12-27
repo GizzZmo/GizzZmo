@@ -510,8 +510,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 46 | 🔱 [**systemds**](https://github.com/GizzZmo/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1 | 0 | Dec 13, 2023 |
 | 47 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Dec 20, 2025 |
 | 48 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
-| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 26, 2025 |
-| 50 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Dec 26, 2025 |
+| 49 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Dec 26, 2025 |
+| 50 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Dec 27, 2025 |
 | 51 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
 | 52 | 🔱 [**CyberSentinel-AI**](https://github.com/GizzZmo/CyberSentinel-AI) | CyberSentinel AI 是一个自动化安全监控与AI分析系统 | N/A | 0 | 0 | Sep 17, 2025 |
 | 53 | 📦 [**Renewable-Energy**](https://github.com/GizzZmo/Renewable-Energy) | Renewable Energy | HTML | 0 | 0 | Sep 21, 2025 |
@@ -598,52 +598,35 @@ Here are some of the most popular repositories:
 
 <!-- STATS_BADGES_START -->
 
-## 📊 **DATA.MATRIX** → Profile Statistics
+## 📊 Profile Statistics
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║         [ REAL-TIME METRICS • NEURAL ANALYTICS ]         ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### ⚡ Core Metrics
-
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)
-![Total Stars](https://img.shields.io/badge/Total_Stars-61-FFD700?style=for-the-badge&logo=star&logoColor=black&labelColor=0D1117)
-![Total Forks](https://img.shields.io/badge/Total_Forks-9-FF00FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black&labelColor=0D1117)
-
-### 📦 Repository Analytics
-
-```
-┌──────────────────────────────────────────────────────┐
-│  Original Projects    │ ████████████░░░░░  52/100   │
-│  Forked Projects      │ ████████████░░░░░  48/100   │
-│  Archived Projects    │ ░░░░░░░░░░░░░░░░░   0/100   │
-│  Active Development   │ ███████████████░░  75/100   │
-└──────────────────────────────────────────────────────┘
-```
-
-### 💻 Language Distribution Matrix
-
-<div align="center">
-
-| Language | Repos | Percentage | Activity Bar |
-|:---------|:-----:|:----------:|:-------------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 35 | 35% | ████████████████░░░░░░░░░░ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 17 | 17% | ████████░░░░░░░░░░░░░░░░░░ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 13 | 13% | ██████░░░░░░░░░░░░░░░░░░░░ |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 6 | 6% | ███░░░░░░░░░░░░░░░░░░░░░░░ |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | 6 | 6% | ███░░░░░░░░░░░░░░░░░░░░░░░ |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | 5 | 5% | ██░░░░░░░░░░░░░░░░░░░░░░░░ |
-| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 4 | 4% | ██░░░░░░░░░░░░░░░░░░░░░░░░ |
-| 🔮 **Others** | 14 | 14% | ███████░░░░░░░░░░░░░░░░░░░ |
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total_Stars-61-yellow?style=for-the-badge&logo=star)
+![Total Forks](https://img.shields.io/badge/Total_Forks-9-green?style=for-the-badge&logo=git)
+![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
 </div>
 
-</div>
+### Repository Breakdown
+
+- **Original Repositories**: 52
+- **Forked Repositories**: 48
+- **Archived Repositories**: 0
+
+### Language Distribution
+
+- **TypeScript**: 35 repositories
+- **Python**: 17 repositories
+- **JavaScript**: 13 repositories
+- **C++**: 6 repositories
+- **HTML**: 6 repositories
+- **C#**: 5 repositories
+- **Jupyter Notebook**: 4 repositories
+- **Move**: 2 repositories
+- **Java**: 2 repositories
+- **Clojure**: 1 repository
 
 <!-- STATS_BADGES_END -->
 
