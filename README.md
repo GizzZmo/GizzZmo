@@ -1,4 +1,73 @@
-# ⚡ Jon-Arve Constantine Grønsberg-Ovesen | GizzZmo ⚡
+# 👨‍💻 Jon Arve Ovesen (GizzZmo)
+### *Digital Creative | AI Architect | C64 Generation Veteran*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Eidsvoll, Norway-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding_Since-1985-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Exploring the intersection of Art & Logic-purple?style=flat-square" />
+</p>
+
+---
+
+### 📖 The Story
+Born in 1977, I am part of the **Commodore 64 generation**. I’ve been bridging the gap between human creativity and machine logic since 1985. My philosophy is simple: *"Creativity is intelligence having fun."* Today, I build AI systems, develop professional audio plugins, and explore how technology can foster global empathy through projects like **Harmonia Nexus**.
+
+---
+
+### 🛠️ The Tech Stack
+
+| Domain | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JUCE](https://img.shields.io/badge/-JUCE-000000?logo=juce&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **AI & Data** | ![LLMs](https://img.shields.io/badge/-Agentic_AI-FF6F00) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| **Creative** | ![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?logo=soundcloud&logoColor=white) ![Ableton](https://img.shields.io/badge/-Digital_Audio-white?logo=abletonlive&logoColor=black) |
+
+---
+
+### 🌟 Featured Innovations
+
+#### 🧪 [Master-Agentic-AI](https://github.com/GizzZmo/Master-Agentic-AI)
+A sophisticated Multi-Agent System (MAS) featuring a cyberpunk UI. It embodies the "Agentic-Inclusive AI" blueprint, allowing users to orchestrate complex tasks via Gemini.
+
+#### 🎸 [DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)
+A high-performance C++ VST/AU multi-effect plugin built on the JUCE framework. It combines real-time signal processing with custom preset management for professional guitarists.
+
+#### 🎰 [Cassanova Casino](https://github.com/GizzZmo/Cassanova)
+A modern full-stack demonstration platform using **Next.js 15** and **React 19**. Features secure JWT auth, MongoDB integration, and a focus on high-end UI/UX.
+
+#### 🛡️ [Face-Recon](https://github.com/GizzZmo/Face-Recon)
+AI-powered security system utilizing advanced facial recognition for intelligent access control.
+
+---
+
+### 🎵 Creative Outlets
+When I'm not writing code, I'm composing soundscapes:
+- **🎧 SoundCloud:** [Electronic, Ambient & Experimental](https://soundcloud.com/jonarveovesen)
+- **📺 YouTube:** [Tech Tutorials & Creative Content](https://youtube.com/@Jon_Arve)
+- **📖 The Algorithmic Canvas:** Exploring the merging worlds of art and technology.
+
+---
+
+### 📊 Vital Signs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GizzZmo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+* **Blue Hat Thinking:** Open for philosophical tech discussions and AI collaboration.
+* **Remixes:** Open to musical collaborations and creative coding projects.
+* **Location:** Based in Eidsvoll, Norway (UTC+1).
+
+---
+<p align="center">
+  <i>"Peace is not the absence of conflict, but the presence of understanding." — Harmonia Nexus</i>
+</p>
+
+# ⚡ Jon-Arve Constantine Grønsberg-Ovesen | GizzZmo is lazy, and snores all the time, its my AI agent. It knows everything about me. ⚡
 
 <div align="center">
 
