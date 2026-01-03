@@ -2,6 +2,18 @@
 ### *Digital Creative | AI Architect | C64 Generation Veteran*
 
 <p align="left">
+  <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml">
+    <img src="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml/badge.svg?branch=main&label=Update%20Profile%20README&style=flat-square" alt="Update Profile README workflow status" />
+  </a>
+  <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml">
+    <img src="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml/badge.svg?branch=main&label=Performance%20Check&style=flat-square" alt="Performance check workflow status" />
+  </a>
+  <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml">
+    <img src="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml/badge.svg?branch=main&label=Community%20Health&style=flat-square" alt="Community health workflow status" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Location-Eidsvoll, Norway-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Coding_Since-1985-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Exploring the intersection of Art & Logic-purple?style=flat-square" />
