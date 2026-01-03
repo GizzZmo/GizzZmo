@@ -86,7 +86,7 @@ When I'm not writing code, I'm composing soundscapes:
 ### 🌐 Social Matrix
 
 [![GitHub followers](https://img.shields.io/github/followers/GizzZmo?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FF00FF)](https://github.com/GizzZmo)
-[![X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=for-the-badge&logo=x&logoColor=white&color=0D1117&labelColor=00FFFF)](https://x.com/Jon_Arve)
+[![X Follow](https://img.shields.io/badge/Follow-@Jon__Arve-00FFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/Jon_Arve)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpYpA620ufQtnS8RQyu_JA?style=for-the-badge&logo=youtube&logoColor=white&color=0D1117&labelColor=FF0000)](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 
 ### ⚡ Neural Interface Badges
@@ -340,7 +340,7 @@ Omni-Grid 2.0 ──┬──→ Master-Prompt-Editor (AI Toolkit)
 - 🎓 [**Widget Development Guide**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Widget-Dev)
 - 🎨 [**Design System**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Design)
 - 🔧 [**API Reference**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/API)
-- 💬 [**Community Issues**](https://github.com/GizzZmo/Omni-Grid-2.0/issues)
+- 💬 [**Omni-Grid Issues**](https://github.com/GizzZmo/Omni-Grid-2.0/issues)
 
 ```
 ═══════════════════════════════════════════════════════════════════
@@ -817,7 +817,7 @@ cp .editorconfig-template /your-project/.editorconfig
 | 🐦 **X Network** | [@Jon_Arve](https://x.com/Jon_Arve) | Tech discussions, updates, insights |
 | 📺 **Video Stream** | [YouTube Channel](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA) | Tutorials, demos, creative content |
 | 💼 **Professional** | [LinkedIn](https://www.linkedin.com/in/jon-arve-constantine/) | Business networking, partnerships |
-| 💬 **Community (Profile Repo)** | [GitHub Issues](https://github.com/GizzZmo/GizzZmo/issues) | Open dialogue, Q&A, feedback |
+| 💬 **Community (Profile Repo)** | [GitHub Issues](https://github.com/GizzZmo/GizzZmo/issues) | Profile repo Q&A and feedback |
 
 </div>
 
