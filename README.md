@@ -340,7 +340,7 @@ Omni-Grid 2.0 ──┬──→ Master-Prompt-Editor (AI Toolkit)
 - 🎓 [**Widget Development Guide**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Widget-Dev)
 - 🎨 [**Design System**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Design)
 - 🔧 [**API Reference**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/API)
-- 💬 [**Community Forum**](https://github.com/GizzZmo/Omni-Grid-2.0/issues)
+- 💬 [**Community Issues**](https://github.com/GizzZmo/Omni-Grid-2.0/issues)
 
 ```
 ═══════════════════════════════════════════════════════════════════
@@ -817,7 +817,7 @@ cp .editorconfig-template /your-project/.editorconfig
 | 🐦 **X Network** | [@Jon_Arve](https://x.com/Jon_Arve) | Tech discussions, updates, insights |
 | 📺 **Video Stream** | [YouTube Channel](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA) | Tutorials, demos, creative content |
 | 💼 **Professional** | [LinkedIn](https://www.linkedin.com/in/jon-arve-constantine/) | Business networking, partnerships |
-| 💬 **Community** | [GitHub Issues](https://github.com/GizzZmo/GizzZmo/issues) | Open dialogue, Q&A, feedback |
+| 💬 **Community (Profile Repo)** | [GitHub Issues](https://github.com/GizzZmo/GizzZmo/issues) | Open dialogue, Q&A, feedback |
 
 </div>
 
