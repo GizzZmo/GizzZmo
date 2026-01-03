@@ -86,7 +86,7 @@ When I'm not writing code, I'm composing soundscapes:
 ### 🌐 Social Matrix
 
 [![GitHub followers](https://img.shields.io/github/followers/GizzZmo?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FF00FF)](https://github.com/GizzZmo)
-[![X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=for-the-badge&logo=x&logoColor=white&color=0D1117&labelColor=00FFFF)](https://x.com/Jon_Arve)
+[![Twitter/X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=for-the-badge&logo=x&logoColor=white&color=0D1117&labelColor=00FFFF)](https://x.com/Jon_Arve)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpYpA620ufQtnS8RQyu_JA?style=for-the-badge&logo=youtube&logoColor=white&color=0D1117&labelColor=FF0000)](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 
 ### ⚡ Neural Interface Badges
@@ -806,7 +806,7 @@ cp .editorconfig-template /your-project/.editorconfig
 [![Email](https://img.shields.io/badge/Email-jon__arve@icloud.com-00FF41?style=for-the-badge&logo=mail&logoColor=black&labelColor=0D1117)](mailto:jon_arve@icloud.com)
 [![Phone](https://img.shields.io/badge/Phone-+47_47820914-FF00FF?style=for-the-badge&logo=phone&logoColor=white&labelColor=0D1117)](tel:+4747820914)
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-@Jon__Arve-00FFFF?style=for-the-badge&logo=x&logoColor=black&labelColor=0D1117)](https://x.com/Jon_Arve)
+[![X](https://img.shields.io/badge/X-@Jon__Arve-00FFFF?style=for-the-badge&logo=x&logoColor=black&labelColor=0D1117)](https://x.com/Jon_Arve)
 [![YouTube](https://img.shields.io/badge/YouTube-GizzZmo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jon--Arve-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/jon-arve-constantine/)
 
