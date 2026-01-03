@@ -83,7 +83,7 @@ Dead Links Found:
    Found in:
      - README.md
 
-2. https://twitter.com/Jon_Arve
+2. https://x.com/Jon_Arve
    Reason: HTTP 404
    Found in:
      - README.md

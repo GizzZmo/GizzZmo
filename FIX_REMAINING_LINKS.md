@@ -31,18 +31,15 @@ If you moved the project to a different repository, update the link to point to 
 
 ### 2. Twitter/X Profile Link
 
-**Current link in README.md (line 6 and 340):**
+**Updated link in README.md (line 6 and 340):**
 ```markdown
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=social)](https://twitter.com/Jon_Arve)
+[![X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=social)](https://x.com/Jon_Arve)
 ```
 
 **Your options:**
 
-#### Option A: Update to X.com
-If your username is still `Jon_Arve`, replace with:
-```markdown
-[![X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=social)](https://x.com/Jon_Arve)
-```
+#### Option A: Keep the X.com link
+If your username is still `Jon_Arve`, the README now points to `https://x.com/Jon_Arve`.
 
 #### Option B: Update username
 If your username has changed, update both the badge URL and the profile link:
@@ -164,7 +161,7 @@ Enter the correct URL: https://github.com/steinbergmedia/vst3sdk
 ✓ Updated 1 file(s)
 
 Dead Link 2/2:
-https://twitter.com/Jon_Arve
+https://x.com/Jon_Arve
 ...
 
 # 3. Verify all links are fixed
