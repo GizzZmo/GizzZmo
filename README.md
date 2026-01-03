@@ -86,7 +86,7 @@ When I'm not writing code, I'm composing soundscapes:
 ### 🌐 Social Matrix
 
 [![GitHub followers](https://img.shields.io/github/followers/GizzZmo?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FF00FF)](https://github.com/GizzZmo)
-[![Twitter/X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=for-the-badge&logo=x&logoColor=white&color=0D1117&labelColor=00FFFF)](https://x.com/Jon_Arve)
+[![X Follow](https://img.shields.io/twitter/follow/Jon_Arve?style=for-the-badge&logo=x&logoColor=white&color=0D1117&labelColor=00FFFF)](https://x.com/Jon_Arve)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpYpA620ufQtnS8RQyu_JA?style=for-the-badge&logo=youtube&logoColor=white&color=0D1117&labelColor=FF0000)](https://www.youtube.com/channel/UCLpYpA620ufQtnS8RQyu_JA)
 
 ### ⚡ Neural Interface Badges
