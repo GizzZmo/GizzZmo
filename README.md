@@ -340,7 +340,7 @@ Omni-Grid 2.0 ──┬──→ Master-Prompt-Editor (AI Toolkit)
 - 🎓 [**Widget Development Guide**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Widget-Dev)
 - 🎨 [**Design System**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/Design)
 - 🔧 [**API Reference**](https://github.com/GizzZmo/Omni-Grid-2.0/wiki/API)
-- 💬 [**Community Forum**](https://github.com/GizzZmo/Omni-Grid-2.0)
+- 💬 [**Community Forum**](https://github.com/GizzZmo/Omni-Grid-2.0/issues)
 
 ```
 ═══════════════════════════════════════════════════════════════════
