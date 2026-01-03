@@ -715,15 +715,15 @@ Here are some of the most popular repositories:
 
 ### 📈 Performance Metrics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&text_color=00FFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&text_color=00FFFF)
 
 ### 💻 Language Analytics
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF)
 
 ### 🔥 Coding Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizzZmo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=GizzZmo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF)
 
 ### 🏆 Achievement Badges
 
