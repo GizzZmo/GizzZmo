@@ -574,63 +574,63 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 41 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
 | 42 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Dec 26, 2025 |
 | 43 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 1 | 0 | Dec 31, 2025 |
-| 44 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 1, 2026 |
+| 44 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Jan 2, 2026 |
 | 45 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | TypeScript | 1 | 0 | Dec 6, 2025 |
 | 46 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 6, 2025 |
-| 47 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
-| 48 | 🔱 [**CyberSentinel-AI**](https://github.com/GizzZmo/CyberSentinel-AI) | CyberSentinel AI 是一个自动化安全监控与AI分析系统 | N/A | 0 | 0 | Sep 17, 2025 |
-| 49 | 📦 [**Renewable-Energy**](https://github.com/GizzZmo/Renewable-Energy) | Renewable Energy | HTML | 0 | 0 | Sep 21, 2025 |
-| 50 | 🔱 [**pm2**](https://github.com/GizzZmo/pm2) | Node.js Production Process Manager with a built-in Load Balancer. | JavaScript | 0 | 0 | Oct 14, 2025 |
-| 51 | 📦 [**Mysteries-and-the-known**](https://github.com/GizzZmo/Mysteries-and-the-known) | "Mysteries and the Known" is a captivating exploration of eight of history's most enduring unsolved puzzles. This novel takes readers on a journey through time and across the globe, from the disappearance of pioneering aviator Amelia Earhart to the ancient enigma of Stonehenge, from the chilling murders of Jack the Ripper to the legendary lost city | N/A | 0 | 0 | Sep 26, 2025 |
-| 52 | 📦 [**Socialmedia_API**](https://github.com/GizzZmo/Socialmedia_API) | Crafting a Modern Social Media API: A Blueprint for Developers In an increasingly connected world, the backbone of any successful social media platform is a robust and scalable Application Programming Interface (API). This document outlines a comprehensive API design for a hypothetical social media platform. | JavaScript | 0 | 0 | Aug 21, 2025 |
-| 53 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 0 | 0 | Sep 3, 2025 |
-| 54 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
-| 55 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
-| 56 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
-| 57 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
-| 58 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
-| 59 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
-| 60 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
-| 61 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
-| 62 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 63 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
-| 64 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
-| 65 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
-| 66 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 67 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 68 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 69 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 70 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
-| 71 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
-| 72 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
-| 73 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
-| 74 | 🔱 [**web3modal**](https://github.com/GizzZmo/web3modal) | A single Web3 provider solution for all Wallets | TypeScript | 0 | 0 | Sep 17, 2024 |
-| 75 | 🔱 [**content**](https://github.com/GizzZmo/content) | The content behind MDN Web Docs | Markdown | 0 | 0 | Nov 20, 2023 |
-| 76 | 🔱 [**get-version-action**](https://github.com/GizzZmo/get-version-action) | A GitHub Action which extracts the version from github.ref | JavaScript | 0 | 0 | Mar 3, 2024 |
-| 77 | 🔱 [**developers.home-assistant**](https://github.com/GizzZmo/developers.home-assistant) | Developers website for Home Assistant. | JavaScript | 0 | 0 | Feb 16, 2025 |
-| 78 | 🔱 [**move**](https://github.com/GizzZmo/move) | No description | Rust | 0 | 0 | May 12, 2025 |
-| 79 | 🔱 [**Avalonia**](https://github.com/GizzZmo/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. | C# | 0 | 0 | Dec 16, 2023 |
-| 80 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
-| 81 | 🔱 [**vscode-python**](https://github.com/GizzZmo/vscode-python) | Python extension for Visual Studio Code | TypeScript | 0 | 0 | Mar 19, 2025 |
-| 82 | 🔱 [**runner**](https://github.com/GizzZmo/runner) | The Runner for GitHub Actions :rocket: | C# | 0 | 0 | Jan 11, 2022 |
-| 83 | 🔱 [**aws-api-gateway-developer-portal**](https://github.com/GizzZmo/aws-api-gateway-developer-portal) | This application provides a reference implementation that presents APIs on API Gateway as a catalog for 3rd party access | JavaScript | 0 | 0 | Jul 6, 2023 |
-| 84 | 🔱 [**tracee**](https://github.com/GizzZmo/tracee) | Linux Runtime Security and Forensics using eBPF | Go | 0 | 0 | Nov 17, 2025 |
-| 85 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 86 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
-| 87 | 📦 [**data_analytics**](https://github.com/GizzZmo/data_analytics) | No description | Jupyter Notebook | 0 | 0 | Nov 20, 2025 |
-| 88 | 🔱 [**actions-gh-pages**](https://github.com/GizzZmo/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | TypeScript | 0 | 0 | Dec 21, 2025 |
-| 89 | 🔱 [**cookbook**](https://github.com/GizzZmo/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 0 | 0 | Jun 28, 2025 |
-| 90 | 🔱 [**Ai-pentester**](https://github.com/GizzZmo/Ai-pentester) | AI Penetration Testing Assistant License: GPL v3 Python 3.8+  An intelligent desktop application that assists security professionals with penetration testing by leveraging Large Language Models (LLMs) to interpret high-level security goals and suggest specific commands for execution. | Python | 0 | 0 | Dec 7, 2025 |
-| 91 | 📦 [**Marvel-Universe-Idea-Creator-Tool**](https://github.com/GizzZmo/Marvel-Universe-Idea-Creator-Tool) | cartoon generator | TypeScript | 0 | 0 | Dec 13, 2025 |
-| 92 | 🔱 [**crypto_trader**](https://github.com/GizzZmo/crypto_trader) | Crypto trading bot, enhanced with llm | Python | 0 | 0 | Dec 13, 2025 |
-| 93 | 📦 [**Fibonoku**](https://github.com/GizzZmo/Fibonoku) | Sudoku clone | TypeScript | 0 | 0 | Dec 17, 2025 |
-| 94 | 🔱 [**KratosKnife**](https://github.com/GizzZmo/KratosKnife) | KratosKnife is a Advanced BOTNET Written in python 3 for Windows OS. Comes With Lot of Advanced Features such as Persistence & VM Detection Methods, Built-in Binder, etc | Python | 0 | 0 | Dec 21, 2025 |
-| 95 | 📦 [**Omni-Grid**](https://github.com/GizzZmo/Omni-Grid) | No description | Jupyter Notebook | 0 | 0 | Dec 21, 2025 |
-| 96 | 📦 [**literate-octo-pancake**](https://github.com/GizzZmo/literate-octo-pancake) | https://omni-grid-2-0-architect-256533412071.us-west1.run.app | Python | 0 | 0 | Dec 28, 2025 |
-| 97 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | README outlines the implementation of a Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 0 | 0 | Dec 30, 2025 |
-| 98 | 📦 [**Circle-of-Fifths**](https://github.com/GizzZmo/Circle-of-Fifths) | Tool | HTML | 0 | 0 | Dec 31, 2025 |
-| 99 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 1, 2026 |
-| 100 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 0 | 0 | Jan 1, 2026 |
+| 47 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | README outlines the implementation of a Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 2, 2026 |
+| 48 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 2, 2026 |
+| 49 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
+| 50 | 🔱 [**CyberSentinel-AI**](https://github.com/GizzZmo/CyberSentinel-AI) | CyberSentinel AI 是一个自动化安全监控与AI分析系统 | N/A | 0 | 0 | Sep 17, 2025 |
+| 51 | 📦 [**Renewable-Energy**](https://github.com/GizzZmo/Renewable-Energy) | Renewable Energy | HTML | 0 | 0 | Sep 21, 2025 |
+| 52 | 🔱 [**pm2**](https://github.com/GizzZmo/pm2) | Node.js Production Process Manager with a built-in Load Balancer. | JavaScript | 0 | 0 | Oct 14, 2025 |
+| 53 | 📦 [**Mysteries-and-the-known**](https://github.com/GizzZmo/Mysteries-and-the-known) | "Mysteries and the Known" is a captivating exploration of eight of history's most enduring unsolved puzzles. This novel takes readers on a journey through time and across the globe, from the disappearance of pioneering aviator Amelia Earhart to the ancient enigma of Stonehenge, from the chilling murders of Jack the Ripper to the legendary lost city | N/A | 0 | 0 | Sep 26, 2025 |
+| 54 | 📦 [**Socialmedia_API**](https://github.com/GizzZmo/Socialmedia_API) | Crafting a Modern Social Media API: A Blueprint for Developers In an increasingly connected world, the backbone of any successful social media platform is a robust and scalable Application Programming Interface (API). This document outlines a comprehensive API design for a hypothetical social media platform. | JavaScript | 0 | 0 | Aug 21, 2025 |
+| 55 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 0 | 0 | Sep 3, 2025 |
+| 56 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
+| 57 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
+| 58 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
+| 59 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
+| 60 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
+| 61 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
+| 62 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
+| 63 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
+| 64 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
+| 65 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
+| 66 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
+| 67 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
+| 68 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 69 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 70 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 71 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 72 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
+| 73 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
+| 74 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
+| 75 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
+| 76 | 🔱 [**web3modal**](https://github.com/GizzZmo/web3modal) | A single Web3 provider solution for all Wallets | TypeScript | 0 | 0 | Sep 17, 2024 |
+| 77 | 🔱 [**content**](https://github.com/GizzZmo/content) | The content behind MDN Web Docs | Markdown | 0 | 0 | Nov 20, 2023 |
+| 78 | 🔱 [**get-version-action**](https://github.com/GizzZmo/get-version-action) | A GitHub Action which extracts the version from github.ref | JavaScript | 0 | 0 | Mar 3, 2024 |
+| 79 | 🔱 [**developers.home-assistant**](https://github.com/GizzZmo/developers.home-assistant) | Developers website for Home Assistant. | JavaScript | 0 | 0 | Feb 16, 2025 |
+| 80 | 🔱 [**move**](https://github.com/GizzZmo/move) | No description | Rust | 0 | 0 | May 12, 2025 |
+| 81 | 🔱 [**Avalonia**](https://github.com/GizzZmo/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. | C# | 0 | 0 | Dec 16, 2023 |
+| 82 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
+| 83 | 🔱 [**vscode-python**](https://github.com/GizzZmo/vscode-python) | Python extension for Visual Studio Code | TypeScript | 0 | 0 | Mar 19, 2025 |
+| 84 | 🔱 [**runner**](https://github.com/GizzZmo/runner) | The Runner for GitHub Actions :rocket: | C# | 0 | 0 | Jan 11, 2022 |
+| 85 | 🔱 [**aws-api-gateway-developer-portal**](https://github.com/GizzZmo/aws-api-gateway-developer-portal) | This application provides a reference implementation that presents APIs on API Gateway as a catalog for 3rd party access | JavaScript | 0 | 0 | Jul 6, 2023 |
+| 86 | 🔱 [**tracee**](https://github.com/GizzZmo/tracee) | Linux Runtime Security and Forensics using eBPF | Go | 0 | 0 | Nov 17, 2025 |
+| 87 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 88 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
+| 89 | 📦 [**data_analytics**](https://github.com/GizzZmo/data_analytics) | No description | Jupyter Notebook | 0 | 0 | Nov 20, 2025 |
+| 90 | 🔱 [**actions-gh-pages**](https://github.com/GizzZmo/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | TypeScript | 0 | 0 | Dec 21, 2025 |
+| 91 | 🔱 [**cookbook**](https://github.com/GizzZmo/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 0 | 0 | Jun 28, 2025 |
+| 92 | 🔱 [**Ai-pentester**](https://github.com/GizzZmo/Ai-pentester) | AI Penetration Testing Assistant License: GPL v3 Python 3.8+  An intelligent desktop application that assists security professionals with penetration testing by leveraging Large Language Models (LLMs) to interpret high-level security goals and suggest specific commands for execution. | Python | 0 | 0 | Dec 7, 2025 |
+| 93 | 📦 [**Marvel-Universe-Idea-Creator-Tool**](https://github.com/GizzZmo/Marvel-Universe-Idea-Creator-Tool) | cartoon generator | TypeScript | 0 | 0 | Dec 13, 2025 |
+| 94 | 🔱 [**crypto_trader**](https://github.com/GizzZmo/crypto_trader) | Crypto trading bot, enhanced with llm | Python | 0 | 0 | Dec 13, 2025 |
+| 95 | 📦 [**Fibonoku**](https://github.com/GizzZmo/Fibonoku) | Sudoku clone | TypeScript | 0 | 0 | Dec 17, 2025 |
+| 96 | 🔱 [**KratosKnife**](https://github.com/GizzZmo/KratosKnife) | KratosKnife is a Advanced BOTNET Written in python 3 for Windows OS. Comes With Lot of Advanced Features such as Persistence & VM Detection Methods, Built-in Binder, etc | Python | 0 | 0 | Dec 21, 2025 |
+| 97 | 📦 [**Omni-Grid**](https://github.com/GizzZmo/Omni-Grid) | No description | Jupyter Notebook | 0 | 0 | Dec 21, 2025 |
+| 98 | 📦 [**literate-octo-pancake**](https://github.com/GizzZmo/literate-octo-pancake) | https://omni-grid-2-0-architect-256533412071.us-west1.run.app | Python | 0 | 0 | Dec 28, 2025 |
+| 99 | 📦 [**Circle-of-Fifths**](https://github.com/GizzZmo/Circle-of-Fifths) | Tool | HTML | 0 | 0 | Dec 31, 2025 |
+| 100 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 1, 2026 |
 
 </details>
 
@@ -672,7 +672,7 @@ Here are some of the most popular repositories:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-57-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-59-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-9-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
