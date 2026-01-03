@@ -51,8 +51,8 @@ When I'm not writing code, I'm composing soundscapes:
 
 ### 📊 Vital Signs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GizzZmo Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GizzZmo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -715,12 +715,12 @@ Here are some of the most popular repositories:
 
 <h3>📈 Performance Metrics</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&text_color=00FFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&text_color=00FFFF&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <h3>💻 Language Analytics</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <h3>🔥 Coding Streak</h3>
