@@ -586,8 +586,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 47 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | README outlines the implementation of a Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 4, 2026 |
 | 48 | 🔱 [**PS5-IPV6-Kernel-Exploit**](https://github.com/GizzZmo/PS5-IPV6-Kernel-Exploit) | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on <= 4.51FW | JavaScript | 1 | 0 | Jan 5, 2026 |
 | 49 | 📦 [**Comic-Crafter-AI**](https://github.com/GizzZmo/Comic-Crafter-AI) | Cartoon maker | TypeScript | 1 | 0 | Sep 12, 2025 |
-| 50 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 7, 2026 |
-| 51 | 📦 [**Socialmedia_API**](https://github.com/GizzZmo/Socialmedia_API) | Crafting a Modern Social Media API: A Blueprint for Developers In an increasingly connected world, the backbone of any successful social media platform is a robust and scalable Application Programming Interface (API). This document outlines a comprehensive API design for a hypothetical social media platform. | JavaScript | 0 | 0 | Aug 21, 2025 |
+| 50 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 8, 2026 |
+| 51 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
 | 52 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 0 | 0 | Sep 3, 2025 |
 | 53 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
 | 54 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
@@ -678,7 +678,7 @@ Here are some of the most popular repositories:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-61-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-62-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-10-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -686,22 +686,22 @@ Here are some of the most popular repositories:
 
 ### Repository Breakdown
 
-- **Original Repositories**: 54
-- **Forked Repositories**: 46
+- **Original Repositories**: 53
+- **Forked Repositories**: 47
 - **Archived Repositories**: 0
 
 ### Language Distribution
 
 - **TypeScript**: 36 repositories
 - **Python**: 20 repositories
-- **JavaScript**: 12 repositories
+- **JavaScript**: 11 repositories
 - **C++**: 6 repositories
 - **HTML**: 6 repositories
 - **C#**: 5 repositories
 - **Jupyter Notebook**: 4 repositories
 - **Java**: 2 repositories
+- **Rust**: 2 repositories
 - **Clojure**: 1 repository
-- **Swift**: 1 repository
 
 <!-- STATS_BADGES_END -->
 
