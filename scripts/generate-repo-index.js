@@ -188,7 +188,7 @@ function generateStatsBadges(stats) {
   console.log('🎨 Generating statistics badges...');
   
   const badges = `
-## 📊 Profile Statistics
+#### 📊 Vital Signs
 
 <div align="center">
 
@@ -199,13 +199,13 @@ function generateStatsBadges(stats) {
 
 </div>
 
-### Repository Breakdown
+##### Repository Breakdown
 
 - **Original Repositories**: ${stats.originalRepos}
 - **Forked Repositories**: ${stats.forkedRepos}
 - **Archived Repositories**: ${stats.archivedRepos}
 
-### Language Distribution
+##### Language Distribution
 
 ${Object.entries(stats.languages)
   .sort((a, b) => b[1] - a[1])
