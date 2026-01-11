@@ -61,6 +61,40 @@ When I'm not writing code, I'm composing soundscapes:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+<!-- STATS_BADGES_START -->
+
+#### 📊 Vital Signs
+
+<div align="center">
+
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total_Stars-63-yellow?style=for-the-badge&logo=star)
+![Total Forks](https://img.shields.io/badge/Total_Forks-10-green?style=for-the-badge&logo=git)
+![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
+
+</div>
+
+##### Repository Breakdown
+
+- **Original Repositories**: 53
+- **Forked Repositories**: 47
+- **Archived Repositories**: 0
+
+##### Language Distribution
+
+- **TypeScript**: 36 repositories
+- **Python**: 20 repositories
+- **JavaScript**: 11 repositories
+- **C++**: 6 repositories
+- **HTML**: 6 repositories
+- **C#**: 5 repositories
+- **Jupyter Notebook**: 4 repositories
+- **Java**: 2 repositories
+- **Rust**: 2 repositories
+- **Clojure**: 1 repository
+
+<!-- STATS_BADGES_END -->
+
 ---
 
 ### 🤝 Connect With Me
@@ -666,44 +700,6 @@ Here are some of the most popular repositories:
 
 
 <!-- REPO_INDEX_END -->
-
-```
-═══════════════════════════════════════════════════════════════════
-```
-
-<!-- STATS_BADGES_START -->
-
-## 📊 Profile Statistics
-
-<div align="center">
-
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-63-yellow?style=for-the-badge&logo=star)
-![Total Forks](https://img.shields.io/badge/Total_Forks-10-green?style=for-the-badge&logo=git)
-![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
-
-</div>
-
-### Repository Breakdown
-
-- **Original Repositories**: 53
-- **Forked Repositories**: 47
-- **Archived Repositories**: 0
-
-### Language Distribution
-
-- **TypeScript**: 36 repositories
-- **Python**: 20 repositories
-- **JavaScript**: 11 repositories
-- **C++**: 6 repositories
-- **HTML**: 6 repositories
-- **C#**: 5 repositories
-- **Jupyter Notebook**: 4 repositories
-- **Java**: 2 repositories
-- **Rust**: 2 repositories
-- **Clojure**: 1 repository
-
-<!-- STATS_BADGES_END -->
 
 ```
 ═══════════════════════════════════════════════════════════════════
