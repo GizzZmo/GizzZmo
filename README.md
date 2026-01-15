@@ -617,10 +617,10 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 44 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
 | 45 | 📦 [**Comic-Crafter-AI**](https://github.com/GizzZmo/Comic-Crafter-AI) | Cartoon maker | TypeScript | 1 | 0 | Jan 11, 2026 |
 | 46 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
-| 47 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 12, 2026 |
-| 48 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 13, 2026 |
-| 49 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Jan 13, 2026 |
-| 50 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | AI driven DAW and as a VST/AAX plug in. Bring AI to life with your own DAW of choice. | TypeScript | 1 | 0 | Jan 13, 2026 |
+| 47 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | AI driven DAW and as a VST/AAX plug in. Bring AI to life with your own DAW of choice. | TypeScript | 1 | 0 | Jan 13, 2026 |
+| 48 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jan 14, 2026 |
+| 49 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 14, 2026 |
+| 50 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Jan 14, 2026 |
 | 51 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
 | 52 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
 | 53 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
@@ -664,13 +664,13 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 91 | 🔱 [**KratosKnife**](https://github.com/GizzZmo/KratosKnife) | KratosKnife is a Advanced BOTNET Written in python 3 for Windows OS. Comes With Lot of Advanced Features such as Persistence & VM Detection Methods, Built-in Binder, etc | Python | 0 | 0 | Dec 21, 2025 |
 | 92 | 📦 [**Omni-Grid**](https://github.com/GizzZmo/Omni-Grid) | No description | Jupyter Notebook | 0 | 0 | Dec 21, 2025 |
 | 93 | 📦 [**literate-octo-pancake**](https://github.com/GizzZmo/literate-octo-pancake) | https://omni-grid-2-0-architect-256533412071.us-west1.run.app | Python | 0 | 0 | Dec 28, 2025 |
-| 94 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 1, 2026 |
-| 95 | 📦 [**Arena**](https://github.com/GizzZmo/Arena) | This script implements a chess game where Stockfish plays against the Gemini AI. It includes functionality for move generation, game play, and saving the game data in PGN format. | Python | 0 | 0 | Jan 3, 2026 |
-| 96 | 📦 [**the-terminal**](https://github.com/GizzZmo/the-terminal) | python script | HTML | 0 | 0 | Jan 4, 2026 |
-| 97 | 📦 [**GM-3000**](https://github.com/GizzZmo/GM-3000) | Chess | TypeScript | 0 | 0 | Jan 4, 2026 |
-| 98 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Jan 5, 2026 |
-| 99 | 📦 [**Circse-of-Fifths**](https://github.com/GizzZmo/Circse-of-Fifths) | Music Theory | TypeScript | 0 | 0 | Jan 11, 2026 |
-| 100 | 📦 [**Lumina**](https://github.com/GizzZmo/Lumina) | Din AI assistent koblet til verdenskunnskapen | TypeScript | 0 | 0 | Jan 11, 2026 |
+| 94 | 📦 [**Arena**](https://github.com/GizzZmo/Arena) | This script implements a chess game where Stockfish plays against the Gemini AI. It includes functionality for move generation, game play, and saving the game data in PGN format. | Python | 0 | 0 | Jan 3, 2026 |
+| 95 | 📦 [**the-terminal**](https://github.com/GizzZmo/the-terminal) | python script | HTML | 0 | 0 | Jan 4, 2026 |
+| 96 | 📦 [**GM-3000**](https://github.com/GizzZmo/GM-3000) | Chess | TypeScript | 0 | 0 | Jan 4, 2026 |
+| 97 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Jan 5, 2026 |
+| 98 | 📦 [**Circse-of-Fifths**](https://github.com/GizzZmo/Circse-of-Fifths) | Music Theory | TypeScript | 0 | 0 | Jan 11, 2026 |
+| 99 | 📦 [**Lumina**](https://github.com/GizzZmo/Lumina) | Din AI assistent koblet til verdenskunnskapen | TypeScript | 0 | 0 | Jan 11, 2026 |
+| 100 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 14, 2026 |
 
 </details>
 
