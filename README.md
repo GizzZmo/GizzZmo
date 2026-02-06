@@ -68,7 +68,7 @@ When I'm not writing code, I'm composing soundscapes:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-63-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-64-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-15-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -83,13 +83,13 @@ When I'm not writing code, I'm composing soundscapes:
 ##### Language Distribution
 
 - **TypeScript**: 37 repositories
-- **Python**: 21 repositories
+- **Python**: 20 repositories
 - **JavaScript**: 10 repositories
 - **C++**: 6 repositories
 - **HTML**: 6 repositories
 - **C#**: 5 repositories
 - **Jupyter Notebook**: 4 repositories
-- **Rust**: 2 repositories
+- **Rust**: 3 repositories
 - **Swift**: 1 repository
 - **Move**: 1 repository
 
@@ -593,33 +593,33 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 20 | 📦 [**TABFRET**](https://github.com/GizzZmo/TABFRET) | **MidiGuitarTab**  A Windows desktop application that displays MIDI files as guitar tablature and visualizes notes on a virtual guitar neck. | C# | 1 | 0 | Oct 31, 2025 |
 | 21 | 📦 [**8**](https://github.com/GizzZmo/8) | Perceptive Art: Cognitive Implications & Ethical Challenges | HTML | 1 | 0 | Oct 31, 2025 |
 | 22 | 🔱 [**bootstrap**](https://github.com/GizzZmo/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | JavaScript | 1 | 0 | Oct 7, 2022 |
-| 23 | 🔱 [**spark**](https://github.com/GizzZmo/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 1 | 0 | Oct 19, 2025 |
-| 24 | 🔱 [**r2frida**](https://github.com/GizzZmo/r2frida) | Radare2 and Frida better together. | TypeScript | 1 | 0 | Aug 20, 2023 |
-| 25 | 🔱 [**mre-chess**](https://github.com/GizzZmo/mre-chess) | Chess game written using the Mixed Reality Extension SDK | TypeScript | 1 | 0 | Oct 1, 2025 |
-| 26 | 🔱 [**Stockfish**](https://github.com/GizzZmo/Stockfish) | This repository is a public fork of the official Stockfish project, reimagined to include a complete cyberpunk-themed GUI built with Electron and React.  It serves as a dynamic development environment for creating and optimizing user interfaces for the Stockfish chess engine. The project's main features include:  A full-featured, visually striking  | C++ | 1 | 0 | Oct 31, 2025 |
-| 27 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 1 | 0 | Nov 20, 2025 |
-| 28 | 📦 [**Lineage-of-the-Arcane**](https://github.com/GizzZmo/Lineage-of-the-Arcane) | # Lineage of the Arcane: The Parents of Magic  > "Magic is not a tool. It is a family tree. And you are the youngest child."  ## 🔮 Project Overview **Lineage of the Arcane** is a gameplay prototype exploring a unique magic system where spells are sentient entities. Players do not cast magic; they negotiate with ancient "Progenitors" (Parents). | C# | 1 | 0 | Nov 30, 2025 |
-| 29 | 🔱 [**u-boot**](https://github.com/GizzZmo/u-boot) | "Das U-Boot" Source Tree | C | 1 | 0 | Aug 20, 2023 |
-| 30 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven with AR support | TypeScript | 1 | 0 | Dec 6, 2025 |
-| 31 | 📦 [**CoreTex**](https://github.com/GizzZmo/CoreTex) | CORTEX ANOMALITY DETECTOR empowers organizations to proactively identify threats and anomalies in real time, ensuring trust and safety at the highest standard. The project focused on identifying irregularities within datasets or systems. Built primarily with HTML. | HTML | 1 | 0 | Dec 6, 2025 |
-| 32 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Dec 7, 2025 |
-| 33 | 📦 [**CC**](https://github.com/GizzZmo/CC) | CC (Cyberchess) is a modern chess platform designed to provide an advanced chess-playing experience. This project aims to deliver a comprehensive chess solution with features including game play, analysis, and training capabilities. | Python | 1 | 0 | Dec 20, 2025 |
-| 34 | 🔱 [**systemds**](https://github.com/GizzZmo/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1 | 0 | Dec 13, 2023 |
-| 35 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Dec 20, 2025 |
-| 36 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Dec 26, 2025 |
-| 37 | 📦 [**Circle-of-Fifths**](https://github.com/GizzZmo/Circle-of-Fifths) | Tool | HTML | 1 | 0 | Jan 5, 2026 |
-| 38 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 1 | 0 | Dec 31, 2025 |
-| 39 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | TypeScript | 1 | 0 | Dec 6, 2025 |
-| 40 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 6, 2025 |
-| 41 | 🔱 [**PS5-IPV6-Kernel-Exploit**](https://github.com/GizzZmo/PS5-IPV6-Kernel-Exploit) | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on <= 4.51FW | JavaScript | 1 | 0 | Jan 5, 2026 |
-| 42 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
-| 43 | 📦 [**Comic-Crafter-AI**](https://github.com/GizzZmo/Comic-Crafter-AI) | Cartoon maker | TypeScript | 1 | 0 | Jan 11, 2026 |
-| 44 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | AI driven DAW and as a VST/AAX plug in. Bring AI to life with your own DAW of choice. | TypeScript | 1 | 0 | Jan 13, 2026 |
-| 45 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 17, 2026 |
-| 46 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Jan 14, 2026 |
-| 47 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
-| 48 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 4, 2026 |
-| 49 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
+| 23 | 🔱 [**r2frida**](https://github.com/GizzZmo/r2frida) | Radare2 and Frida better together. | TypeScript | 1 | 0 | Aug 20, 2023 |
+| 24 | 🔱 [**mre-chess**](https://github.com/GizzZmo/mre-chess) | Chess game written using the Mixed Reality Extension SDK | TypeScript | 1 | 0 | Oct 1, 2025 |
+| 25 | 🔱 [**Stockfish**](https://github.com/GizzZmo/Stockfish) | This repository is a public fork of the official Stockfish project, reimagined to include a complete cyberpunk-themed GUI built with Electron and React.  It serves as a dynamic development environment for creating and optimizing user interfaces for the Stockfish chess engine. The project's main features include:  A full-featured, visually striking  | C++ | 1 | 0 | Oct 31, 2025 |
+| 26 | 📦 [**Cortex-Anomality-Detector-v8.0**](https://github.com/GizzZmo/Cortex-Anomality-Detector-v8.0) | **Cortex Anomaly Detector v8.0** is a real-time threat and anomaly detection system designed to enhance organizational security and safety. By identifying irregularities within datasets and systems, this project provides a proactive approach to ensuring trust and maintaining high safety standards. | JavaScript | 1 | 0 | Nov 20, 2025 |
+| 27 | 📦 [**Lineage-of-the-Arcane**](https://github.com/GizzZmo/Lineage-of-the-Arcane) | # Lineage of the Arcane: The Parents of Magic  > "Magic is not a tool. It is a family tree. And you are the youngest child."  ## 🔮 Project Overview **Lineage of the Arcane** is a gameplay prototype exploring a unique magic system where spells are sentient entities. Players do not cast magic; they negotiate with ancient "Progenitors" (Parents). | C# | 1 | 0 | Nov 30, 2025 |
+| 28 | 🔱 [**u-boot**](https://github.com/GizzZmo/u-boot) | "Das U-Boot" Source Tree | C | 1 | 0 | Aug 20, 2023 |
+| 29 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven with AR support | TypeScript | 1 | 0 | Dec 6, 2025 |
+| 30 | 📦 [**CoreTex**](https://github.com/GizzZmo/CoreTex) | CORTEX ANOMALITY DETECTOR empowers organizations to proactively identify threats and anomalies in real time, ensuring trust and safety at the highest standard. The project focused on identifying irregularities within datasets or systems. Built primarily with HTML. | HTML | 1 | 0 | Dec 6, 2025 |
+| 31 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Dec 7, 2025 |
+| 32 | 📦 [**CC**](https://github.com/GizzZmo/CC) | CC (Cyberchess) is a modern chess platform designed to provide an advanced chess-playing experience. This project aims to deliver a comprehensive chess solution with features including game play, analysis, and training capabilities. | Python | 1 | 0 | Dec 20, 2025 |
+| 33 | 🔱 [**systemds**](https://github.com/GizzZmo/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1 | 0 | Dec 13, 2023 |
+| 34 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Dec 20, 2025 |
+| 35 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Dec 26, 2025 |
+| 36 | 📦 [**Circle-of-Fifths**](https://github.com/GizzZmo/Circle-of-Fifths) | Tool | HTML | 1 | 0 | Jan 5, 2026 |
+| 37 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 1 | 0 | Dec 31, 2025 |
+| 38 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | TypeScript | 1 | 0 | Dec 6, 2025 |
+| 39 | 📦 [**Generative-Pop-Song-Studio**](https://github.com/GizzZmo/Generative-Pop-Song-Studio) | Generative Pop Song Studio | TypeScript | 1 | 0 | Dec 6, 2025 |
+| 40 | 🔱 [**PS5-IPV6-Kernel-Exploit**](https://github.com/GizzZmo/PS5-IPV6-Kernel-Exploit) | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on <= 4.51FW | JavaScript | 1 | 0 | Jan 5, 2026 |
+| 41 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
+| 42 | 📦 [**Comic-Crafter-AI**](https://github.com/GizzZmo/Comic-Crafter-AI) | Cartoon maker | TypeScript | 1 | 0 | Jan 11, 2026 |
+| 43 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | AI driven DAW and as a VST/AAX plug in. Bring AI to life with your own DAW of choice. | TypeScript | 1 | 0 | Jan 13, 2026 |
+| 44 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Jan 17, 2026 |
+| 45 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Jan 14, 2026 |
+| 46 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
+| 47 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 5, 2026 |
+| 48 | 🔱 [**chainsaw**](https://github.com/GizzZmo/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | Rust | 1 | 0 | Aug 20, 2023 |
+| 49 | 🔱 [**spark**](https://github.com/GizzZmo/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 1 | 0 | Oct 19, 2025 |
 | 50 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
 | 51 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 52 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
