@@ -619,7 +619,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 46 | 📦 [**VerseFlow_Proposal**](https://github.com/GizzZmo/VerseFlow_Proposal) | An interactive web application that visualizes the proposed software architecture for the VerseFlow music platform. This tool provides a comprehensive overview of the technology stack, architectural patterns, and design decisions that power a modern music streaming and collaboration platform. | TypeScript | 1 | 0 | Oct 28, 2025 |
 | 47 | 🔱 [**chainsaw**](https://github.com/GizzZmo/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | Rust | 1 | 0 | Aug 20, 2023 |
 | 48 | 🔱 [**spark**](https://github.com/GizzZmo/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 1 | 0 | Oct 19, 2025 |
-| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 12, 2026 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 13, 2026 |
 | 50 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
 | 51 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 52 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
