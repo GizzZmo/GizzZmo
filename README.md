@@ -617,9 +617,9 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 44 | 🔱 [**chainsaw**](https://github.com/GizzZmo/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | Rust | 1 | 0 | Aug 20, 2023 |
 | 45 | 🔱 [**spark**](https://github.com/GizzZmo/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 1 | 0 | Oct 19, 2025 |
 | 46 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Feb 18, 2026 |
-| 47 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 20, 2026 |
-| 48 | 🔱 [**metabase**](https://github.com/GizzZmo/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 1 | 0 | Sep 13, 2025 |
-| 49 | 📦 [**Decentralized-Governance-System**](https://github.com/GizzZmo/Decentralized-Governance-System) | Here’s a basic main.py file for your Decentralized Governance System, integrating object-oriented principles for structured modularity while using procedural logic for key operations like voting execution and treasury management. | Python | 1 | 0 | Oct 19, 2025 |
+| 47 | 🔱 [**metabase**](https://github.com/GizzZmo/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 1 | 0 | Sep 13, 2025 |
+| 48 | 📦 [**Decentralized-Governance-System**](https://github.com/GizzZmo/Decentralized-Governance-System) | Here’s a basic main.py file for your Decentralized Governance System, integrating object-oriented principles for structured modularity while using procedural logic for key operations like voting execution and treasury management. | Python | 1 | 0 | Oct 19, 2025 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 21, 2026 |
 | 50 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 51 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
 | 52 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
@@ -668,9 +668,9 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 95 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Jan 5, 2026 |
 | 96 | 🔱 [**cua**](https://github.com/GizzZmo/cua) | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | Python | 0 | 0 | Jan 25, 2026 |
 | 97 | 🔱 [**fossology**](https://github.com/GizzZmo/fossology) | FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. | PHP | 0 | 0 | Dec 22, 2023 |
-| 98 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
-| 99 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 100 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
+| 98 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
+| 99 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
+| 100 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
 
 </details>
 
