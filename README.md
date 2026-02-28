@@ -68,7 +68,7 @@ When I'm not writing code, I'm composing soundscapes:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-63-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-64-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -571,7 +571,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 7 | 10 | Feb 16, 2026 |
+| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 8 | 10 | Feb 27, 2026 |
 | 2 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 3 | 0 | Dec 3, 2025 |
 | 3 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 3 | 2 | Dec 29, 2025 |
 | 4 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
@@ -619,7 +619,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 46 | 🔱 [**Learn-React-with-TypeScript-2nd-Edition**](https://github.com/GizzZmo/Learn-React-with-TypeScript-2nd-Edition) | This repository contains all the code examples and exercises from the book "Learn React with TypeScript - Second Edition" by Carl Rippon, published by Packt Publishing. It serves as a comprehensive learning resource for developers who want to build modern, type-safe web applications using React 18 and TypeScript. | TypeScript | 1 | 0 | Oct 19, 2025 |
 | 47 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Feb 18, 2026 |
 | 48 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | AI driven DAW and as a VST/AAX plug in. Bring AI to life with your own DAW of choice. | TypeScript | 1 | 0 | Jan 13, 2026 |
-| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 26, 2026 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Feb 27, 2026 |
 | 50 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
 | 51 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
 | 52 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
@@ -680,7 +680,7 @@ Here are some of the most popular repositories:
 
 1. **[Cassanova](https://github.com/GizzZmo/Cassanova)** - Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more
    - 💻 Language: TypeScript
-   - ⭐ Stars: 7
+   - ⭐ Stars: 8
 
 2. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
    - 💻 Language: JavaScript
