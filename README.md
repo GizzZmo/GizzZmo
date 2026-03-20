@@ -69,7 +69,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-66-yellow?style=for-the-badge&logo=star)
-![Total Forks](https://img.shields.io/badge/Total_Forks-18-green?style=for-the-badge&logo=git)
+![Total Forks](https://img.shields.io/badge/Total_Forks-19-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
 </div>
@@ -571,7 +571,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 8 | 12 | Mar 6, 2026 |
+| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 8 | 13 | Mar 6, 2026 |
 | 2 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 4 | 0 | Mar 9, 2026 |
 | 3 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 3 | 2 | Dec 29, 2025 |
 | 4 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
@@ -619,7 +619,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 46 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
 | 47 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
 | 48 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Feb 18, 2026 |
-| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Mar 18, 2026 |
+| 49 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Mar 19, 2026 |
 | 50 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
 | 51 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
 | 52 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
