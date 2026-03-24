@@ -616,10 +616,10 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 43 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven code reviewer with AR support | TypeScript | 1 | 0 | Mar 3, 2026 |
 | 44 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
 | 45 | 🔱 [**tensorzero**](https://github.com/GizzZmo/tensorzero) | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. | Rust | 1 | 0 | Dec 24, 2024 |
-| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Mar 22, 2026 |
-| 47 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid A local-first, privacy-centric Super App designed to replace fragmented browser tools. It uses a "Bento Box" grid layout to host multiple isolated "Widgets". | TypeScript | 1 | 0 | Mar 22, 2026 |
-| 48 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | TypeScript | 1 | 0 | Mar 22, 2026 |
-| 49 | 📦 [**CoreTex**](https://github.com/GizzZmo/CoreTex) | CORTEX ANOMALITY DETECTOR empowers organizations to proactively identify threats and anomalies in real time, ensuring trust and safety at the highest standard. The project focused on identifying irregularities within datasets or systems. Built primarily with HTML. | HTML | 1 | 0 | Mar 22, 2026 |
+| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Mar 23, 2026 |
+| 47 | 📦 [**M.A.V.E.R.I.C.K.**](https://github.com/GizzZmo/M.A.V.E.R.I.C.K.) | Marvel Animated Verse & Entity Resource for Ideation & Creative Kickstart | TypeScript | 1 | 0 | Mar 23, 2026 |
+| 48 | 📦 [**CoreTex**](https://github.com/GizzZmo/CoreTex) | CORTEX ANOMALITY DETECTOR empowers organizations to proactively identify threats and anomalies in real time, ensuring trust and safety at the highest standard. The project focused on identifying irregularities within datasets or systems. Built primarily with HTML. | HTML | 1 | 0 | Mar 23, 2026 |
+| 49 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | Mar 23, 2026 |
 | 50 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
 | 51 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
 | 52 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
@@ -669,8 +669,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 96 | 🔱 [**glasnost**](https://github.com/GizzZmo/glasnost) | Parsing and working with the data from the glasnost measurement lab test. | Python | 0 | 0 | Apr 20, 2025 |
 | 97 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
 | 98 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 99 | 🔱 [**etcher**](https://github.com/GizzZmo/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | TypeScript | 0 | 0 | Mar 22, 2026 |
-| 100 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Mar 22, 2026 |
+| 99 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Mar 22, 2026 |
+| 100 | 🔱 [**etcher**](https://github.com/GizzZmo/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | TypeScript | 0 | 0 | Mar 23, 2026 |
 
 </details>
 
