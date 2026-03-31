@@ -111,8 +111,24 @@ jobs:
           else
             git add .
             git commit -m "🤖 Auto-update profile README - $(date '+%Y-%m-%d %H:%M:%S')"
-            git push origin HEAD:main
-            echo "✅ Successfully updated profile README"
+            
+            CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+            if [ "$CURRENT_BRANCH" != "main" ]; then
+              echo "::warning::Skipping push: current branch is '$CURRENT_BRANCH' (not 'main'). Commit created locally but not pushed to remote."
+              exit 0
+            fi
+            
+            # Pull latest changes from remote to avoid push conflicts
+            if REBASE_OUTPUT=$(git pull --rebase origin main 2>&1); then
+              git push origin HEAD:main
+              echo "✅ Successfully updated profile README"
+            else
+              echo "$REBASE_OUTPUT"
+              echo "❌ Rebase failed; aborting push to avoid conflicts."
+              echo "::error::Rebase failed. Resolve conflicts on 'main' (pull, fix, push) and re-run the workflow."
+              git rebase --abort
+              exit 1
+            fi
           fi
 
   # Performance monitoring job
