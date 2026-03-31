@@ -33,6 +33,7 @@ const KNOWN_GOOD_DOMAINS = new Set([
   'commonmark.org',
   'github-profile-trophy.vercel.app',
   'streak-stats.demolab.com',
+  'github-readme-stats-git-masterrstaa-rickstaa.vercel.app',
 ]);
 
 // Colors for terminal output
@@ -125,6 +126,7 @@ function checkUrl(url, redirectCount = 0) {
         hostname === 'img.shields.io' ||
         hostname === 'komarev.com' ||
         hostname === 'github-readme-stats.vercel.app' ||
+        hostname === 'github-readme-stats-git-masterrstaa-rickstaa.vercel.app' ||
         hostname === 'github-readme-streak-stats.herokuapp.com') {
       resolve({ url, status: 'skipped', reason: 'Badge/Stats URL (skipped)' });
       return;
