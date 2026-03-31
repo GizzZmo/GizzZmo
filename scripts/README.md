@@ -14,6 +14,7 @@ A comprehensive dead link checker that scans all markdown, HTML, and JSON files 
 - **Smart URL Checking**: Uses HEAD requests for efficiency, falls back to GET when needed
 - **Redirect Following**: Automatically follows redirects (up to 5 levels)
 - **Badge URL Skipping**: Automatically skips checking badge URLs (shields.io, komarev.com, etc.) that often block automated checks
+- **Known-Good Stats Domains**: Treats GitHub Profile Trophy and Streak Stats domains as known-good to avoid DNS-related false positives
 - **Interactive Fix Mode**: Allows you to correct dead links directly
 - **Detailed Reporting**: Shows which files contain each broken URL
 - **Colored Output**: Easy-to-read terminal output with color-coded results

@@ -31,6 +31,8 @@ const KNOWN_GOOD_DOMAINS = new Set([
   'editorconfig.org',
   'code.visualstudio.com',
   'commonmark.org',
+  'github-profile-trophy.vercel.app',
+  'streak-stats.demolab.com',
 ]);
 
 // Colors for terminal output
