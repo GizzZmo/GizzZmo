@@ -49,7 +49,7 @@ AI-powered security system utilizing advanced facial recognition for intelligent
 
 ### 🎵 Creative Outlets
 When I'm not writing code, I'm composing soundscapes:
-- **🎧 SoundCloud:** [Electronic, Ambient & Experimental](https://soundcloud.com/jonarveovesen)
+- **🎧 SoundCloud:** [Electronic, Ambient & Experimental]([https://soundcloud.com/jon_arve](https://soundcloud.com/jon_arve))
 - **📺 YouTube:** [Tech Tutorials & Creative Content](https://youtube.com/@Jon_Arve)
 - **📖 The Algorithmic Canvas:** Exploring the merging worlds of art and technology.
 
