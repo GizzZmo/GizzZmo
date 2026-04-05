@@ -617,7 +617,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 44 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
 | 45 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Mar 31, 2026 |
 | 46 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
-| 47 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 3, 2026 |
+| 47 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 4, 2026 |
 | 48 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
 | 49 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
 | 50 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
