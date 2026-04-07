@@ -614,10 +614,10 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 41 | 🔱 [**echarts**](https://github.com/GizzZmo/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 1 | 0 | Dec 13, 2023 |
 | 42 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | Mar 30, 2026 |
 | 43 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Mar 31, 2026 |
-| 44 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
-| 45 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
-| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 5, 2026 |
-| 47 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Apr 5, 2026 |
+| 44 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
+| 45 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Apr 5, 2026 |
+| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 6, 2026 |
+| 47 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
 | 48 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
 | 49 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
 | 50 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
@@ -667,10 +667,10 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 94 | 📦 [**PR**](https://github.com/GizzZmo/PR) | Simply PR | HTML | 0 | 0 | Mar 26, 2026 |
 | 95 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
 | 96 | 🔱 [**maven**](https://github.com/GizzZmo/maven) | Apache Maven core | Java | 0 | 0 | Jul 7, 2024 |
-| 97 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 98 | 📦 [**HoverMind**](https://github.com/GizzZmo/HoverMind) | HoverMind: The AI-Powered Windows Cursor. HoverMind turns your standard Windows mouse pointer into a context-aware AI assistant. Simply hold down `Alt + Shift` and hover over any image, block of code, foreign text, or complex UI element to instantly get an AI-generated explanation of what you are looking at. | Python | 0 | 0 | Mar 29, 2026 |
-| 99 | 🔱 [**mitreattack-python**](https://github.com/GizzZmo/mitreattack-python) | A python module for working with ATT&CK | HTML | 0 | 0 | Apr 1, 2026 |
-| 100 | 📦 [**Codex**](https://github.com/GizzZmo/Codex) | No description | HTML | 0 | 0 | Apr 6, 2026 |
+| 97 | 📦 [**HoverMind**](https://github.com/GizzZmo/HoverMind) | HoverMind: The AI-Powered Windows Cursor. HoverMind turns your standard Windows mouse pointer into a context-aware AI assistant. Simply hold down `Alt + Shift` and hover over any image, block of code, foreign text, or complex UI element to instantly get an AI-generated explanation of what you are looking at. | Python | 0 | 0 | Mar 29, 2026 |
+| 98 | 🔱 [**mitreattack-python**](https://github.com/GizzZmo/mitreattack-python) | A python module for working with ATT&CK | HTML | 0 | 0 | Apr 1, 2026 |
+| 99 | 📦 [**Codex**](https://github.com/GizzZmo/Codex) | No description | HTML | 0 | 0 | Apr 6, 2026 |
+| 100 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
 
 </details>
 
