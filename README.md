@@ -68,7 +68,7 @@ When I'm not writing code, I'm composing soundscapes:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-61-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-63-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-23-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -76,21 +76,21 @@ When I'm not writing code, I'm composing soundscapes:
 
 ##### Repository Breakdown
 
-- **Original Repositories**: 51
-- **Forked Repositories**: 49
+- **Original Repositories**: 50
+- **Forked Repositories**: 50
 - **Archived Repositories**: 0
 
 ##### Language Distribution
 
-- **TypeScript**: 33 repositories
+- **TypeScript**: 32 repositories
 - **Python**: 20 repositories
 - **JavaScript**: 12 repositories
 - **HTML**: 9 repositories
 - **Jupyter Notebook**: 4 repositories
 - **C#**: 4 repositories
 - **C++**: 4 repositories
+- **Java**: 3 repositories
 - **Rust**: 3 repositories
-- **Java**: 2 repositories
 - **C**: 1 repository
 
 <!-- STATS_BADGES_END -->
@@ -571,7 +571,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 9 | 17 | Apr 5, 2026 |
+| 1 | 📦 [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 10 | 17 | Apr 11, 2026 |
 | 2 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 3 | 2 | Dec 29, 2025 |
 | 3 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
 | 4 | 📦 [**Matrix-Suduko**](https://github.com/GizzZmo/Matrix-Suduko) | A stunning Matrix-themed Sudoku game with exceptional UI/UX, built with HTML5, Node.js, and Electron for cross-platform deployment. | JavaScript | 2 | 1 | Jan 22, 2026 |
@@ -616,8 +616,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 43 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
 | 44 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
 | 45 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Apr 8, 2026 |
-| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 9, 2026 |
-| 47 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 46 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Apr 10, 2026 |
+| 47 | 🔱 [**dubbo**](https://github.com/GizzZmo/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 1 | 0 | Dec 13, 2023 |
 | 48 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
 | 49 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
 | 50 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
@@ -669,8 +669,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 96 | 📦 [**Master-Chess**](https://github.com/GizzZmo/Master-Chess) | The Hybrid Search-Transformer Paradigm: Engineering Gemini for Elite Chess PerformanceThe historical trajectory of computer chess has reached a critical juncture where the raw calculative power of traditional engines is encountering the sophisticated, albeit computationally intensive, intuition of large-scale transformer models.  | Makefile | 0 | 0 | Apr 8, 2026 |
 | 97 | 📦 [**Ledger_Mechanics**](https://github.com/GizzZmo/Ledger_Mechanics) | Lumina Ledger is a decentralised impact-accounting system that lets users submit verifiable sustainability actions (energy saved, capital redirected, behaviour changes) to the blockchain and receive an on-chain reputation score via a soulbound NFT. | JavaScript | 0 | 0 | Apr 8, 2026 |
 | 98 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 99 | 📦 [**Infinity**](https://github.com/GizzZmo/Infinity) | No description | N/A | 0 | 0 | Apr 9, 2026 |
-| 100 | 📦 [**Infiniti**](https://github.com/GizzZmo/Infiniti) | # The Art of the Infinite: A Manifesto for the Silicon Renaissance **By the Architect of Integrated Realities** | C++ | 0 | 0 | Apr 9, 2026 |
+| 99 | 📦 [**Infinity**](https://github.com/GizzZmo/Infinity) | No description | N/A | 0 | 0 | Apr 10, 2026 |
+| 100 | 📦 [**Infiniti**](https://github.com/GizzZmo/Infiniti) | Infiniti A UCI chess engine written in C++20, featuring bitboard-based move generation, a tapered hand-crafted evaluator with NNUE support, and an alpha-beta search with modern pruning techniques. | C++ | 0 | 0 | Apr 10, 2026 |
 
 </details>
 
@@ -680,7 +680,7 @@ Here are some of the most popular repositories:
 
 1. **[Cassanova](https://github.com/GizzZmo/Cassanova)** - Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more
    - 💻 Language: TypeScript
-   - ⭐ Stars: 9
+   - ⭐ Stars: 10
 
 2. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
    - 💻 Language: TypeScript
