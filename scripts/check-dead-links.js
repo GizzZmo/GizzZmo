@@ -33,7 +33,7 @@ const KNOWN_GOOD_DOMAINS = new Set([
   'commonmark.org',
   'github-profile-trophy.vercel.app',
   'streak-stats.demolab.com',
-  'github-readme-stats-git-masterrstaa-rickstaa.vercel.app',
+  'github-readme-stats.vercel.app',
 ]);
 
 // Colors for terminal output
