@@ -1,3 +1,6 @@
+╔═══════════════════════════════════════════════════════════════╗
+║ ▓▓▓  CYBERPUNK DEVELOPER • ARCHITECT OF THE DIGITAL REALM ▓▓▓ ║
+╚═══════════════════════════════════════════════════════════════╝
 ## 🌐 **PROJECT.SHOWCASE** → Selected Neural Constructs
 
 <div align="center">
