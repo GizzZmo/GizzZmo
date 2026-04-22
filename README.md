@@ -1,4 +1,21 @@
-# 👾 GizzZmo — Jon-Arve Constantine Grønsberg-Ovesen
+## 🌐 **PROJECT.SHOWCASE** → Selected Neural Constructs
+
+<div align="center">
+
+| Project | Core Function | Tech Matrix | Status |
+|---------|---------------|-------------|--------|
+| **[Omni-Grid 2.0](https://github.com/GizzZmo/Omni-Grid-2.0)** | Local-first cyberpunk super app with bento widget system | TypeScript, React, Electron, Neon UI | 🟢 Core Live • Plugin Arch in Dev |
+| **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** | Professional JUCE VST/AU multi-effect for guitar | C++, JUCE, Real-time DSP | 🟢 Released • 4★ |
+| **[Master-Agentic-AI](https://github.com/GizzZmo/Master-Agentic-AI)** | Cyberpunk Multi-Agent System powered by Gemini | Python/TS, LLM Orchestration | 🟢 Active |
+| **[AutoSec](https://github.com/GizzZmo/AutoSec)** | AI-driven enterprise cybersecurity platform | JavaScript, Threat Detection | 🟢 Enterprise Ready |
+| **[Face-Recon](https://github.com/GizzZmo/Face-Recon)** | Privacy-first AI facial recognition security | Python, Computer Vision | 🟢 Prototype → Production |
+| **[Ai_shell](https://github.com/GizzZmo/Ai_shell)** | Local LLM-powered terminal assistant | Python | 🟢 Daily Driver |
+
+</div>
+
+> *“These are not just repositories — they are fragments of the digital realm I’m architecting.”*
+>
+> # 👾 GizzZmo — Jon-Arve Constantine Grønsberg-Ovesen
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Digital+Creative+%7C+AI+Architect;Commodore+64+Generation+Veteran;C64+since+1985+%E2%9C%A6+Neon+Code+Architect" alt="Typing SVG" />
