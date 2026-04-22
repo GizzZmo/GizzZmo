@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 
-║ ▓▓▓  CYBERPUNK DEVELOPER • ARCHITECT OF THE DIGITAL REALM ▓▓▓ ║
+║     ▓▓▓  CYBERPUNK DEVELOPER • ARCHITECT OF THE DIGITAL REALM ▓▓▓     ║
 
 ╚═══════════════════════════════════════════════════════════════╝
 
