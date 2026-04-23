@@ -162,7 +162,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-62-yellow?style=for-the-badge&logo=star)
-![Total Forks](https://img.shields.io/badge/Total_Forks-23-green?style=for-the-badge&logo=git)
+![Total Forks](https://img.shields.io/badge/Total_Forks-22-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
 </div>
@@ -664,13 +664,13 @@ DSP ──────── Custom VST/AU • Real-time Processing
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 12 | 17 | Apr 19, 2026 |
+| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 12 | 16 | Apr 19, 2026 |
 | 2 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 3 | 2 | Apr 20, 2026 |
 | 3 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
 | 4 | 📦 [**Matrix-Suduko**](https://github.com/GizzZmo/Matrix-Suduko) | A stunning Matrix-themed Sudoku game with exceptional UI/UX, built with HTML5, Node.js, and Electron for cross-platform deployment. | JavaScript | 2 | 1 | Jan 22, 2026 |
-| 5 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Oct 24, 2025 |
-| 6 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Jan 9, 2026 |
-| 7 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 2 | 0 | Mar 10, 2026 |
+| 5 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Jan 9, 2026 |
+| 6 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 2 | 0 | Mar 10, 2026 |
+| 7 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Apr 22, 2026 |
 | 8 | 🔱 [**bootstrap**](https://github.com/GizzZmo/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | JavaScript | 1 | 0 | Oct 7, 2022 |
 | 9 | 🔱 [**r2frida**](https://github.com/GizzZmo/r2frida) | Radare2 and Frida better together. | TypeScript | 1 | 0 | Aug 20, 2023 |
 | 10 | 🔱 [**mre-chess**](https://github.com/GizzZmo/mre-chess) | Chess game written using the Mixed Reality Extension SDK | TypeScript | 1 | 0 | Oct 1, 2025 |
@@ -763,7 +763,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 97 | 📦 [**InkSync**](https://github.com/GizzZmo/InkSync) | The Modern Tattoo Workshop Platform.  InkSync is a comprehensive digital ecosystem designed to bridge the gap between tattoo artists and clients. It combines creative portfolio management with clinical-grade scheduling and health compliance.  features, move them to a "Completed" section or check them off to keep stakeholders informed. | Python | 0 | 0 | Apr 20, 2026 |
 | 98 | 📦 [**GENAI**](https://github.com/GizzZmo/GENAI) | GENAI is the home base of the Constantine Universe — a creative, technical, and open-source ecosystem built by GizzZmo. It spans AI tooling, cybersecurity research, game development, music technology, blockchain governance, and generative art — all woven together into one living, breathing hidden network. | HTML | 0 | 0 | Apr 20, 2026 |
 | 99 | 📦 [**JonArveSymphonyOfOrder**](https://github.com/GizzZmo/JonArveSymphonyOfOrder) | **“JonArveSymphonyOfOrder”** — the GitHub repository that transforms raw data of power consumption and water-saving metrics into generative melodies. This is no mere code. This is **sonic alchemy**: turning kilowatts saved and liters of clean water protected into audible beauty that inspires millions to join the Order. | Python | 0 | 0 | Apr 22, 2026 |
-| 100 | 📦 [**loven**](https://github.com/GizzZmo/loven) | No description | Python | 0 | 0 | Apr 21, 2026 |
+| 100 | 📦 [**loven**](https://github.com/GizzZmo/loven) | No description | Python | 0 | 0 | Apr 22, 2026 |
 
 </details>
 
@@ -787,8 +787,8 @@ Here are some of the most popular repositories:
    - 💻 Language: JavaScript
    - ⭐ Stars: 2
 
-5. **[AutoSec](https://github.com/GizzZmo/AutoSec)** - AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence.
-   - 💻 Language: JavaScript
+5. **[Ai_shell](https://github.com/GizzZmo/Ai_shell)** - AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.  
+   - 💻 Language: Python
    - ⭐ Stars: 2
 
 
