@@ -163,7 +163,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-290-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-62-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-22-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
@@ -234,7 +234,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 ![Since](https://img.shields.io/badge/Coding_Since-1985-FFD700?style=for-the-badge&logo=commodore&logoColor=black)
 ![Generation](https://img.shields.io/badge/Generation-C64-8B00FF?style=for-the-badge&logo=retro&logoColor=white)
-![Projects](https://img.shields.io/badge/Active_Projects-100+-00FF41?style=for-the-badge&logo=github&logoColor=black)
+![Projects](https://img.shields.io/badge/Active_Projects-290+-00FF41?style=for-the-badge&logo=github&logoColor=black)
 ![Innovation](https://img.shields.io/badge/Innovation_Level-Maximum-FF1493?style=for-the-badge&logo=rocket&logoColor=white)
 
 **⚡ Music Producer | 💻 Full-Stack Developer | ✍️ Writer & Ghostwriter | 🎨 Digital Artist | 🧠 Blue Hat Thinker | 🔮 AI Innovator**
@@ -661,7 +661,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (100 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (290 repositories)</summary>
 
 ### All Public Repositories
 
