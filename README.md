@@ -151,7 +151,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-100-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-290-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-66-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-22-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
@@ -661,7 +661,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (100 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (290 repositories)</summary>
 
 ### All Public Repositories
 
