@@ -44,7 +44,7 @@ async function fetchRepositories() {
     }
     
     // Use gh CLI to fetch repositories
-    const command = `gh repo list ${USERNAME} --limit 100 --json name,description,url,stargazerCount,forkCount,primaryLanguage,isPrivate,isFork,isArchived,updatedAt,createdAt,pushedAt --jq 'sort_by(.stargazerCount) | reverse'`;
+    const command = `gh repo list ${USERNAME} --limit 1000 --json name,description,url,stargazerCount,forkCount,primaryLanguage,isPrivate,isFork,isArchived,updatedAt,createdAt,pushedAt --jq 'sort_by(.stargazerCount) | reverse'`;
     const output = execCommand(command);
     
     if (!output) {
@@ -73,74 +73,82 @@ async function fetchRepositories() {
 async function fetchRepositoriesViaAPI() {
   console.log('📚 Fetching repositories via GitHub API...');
   
-  try {
-    const https = require('https');
-    
+  const https = require('https');
+
+  function fetchPage(page) {
     return new Promise((resolve, reject) => {
       const options = {
         hostname: 'api.github.com',
-        path: `/users/${USERNAME}/repos?per_page=100&sort=updated`,
+        path: `/users/${USERNAME}/repos?per_page=100&sort=updated&page=${page}`,
         method: 'GET',
         headers: {
           'User-Agent': 'GizzZmo-Profile-Generator'
         }
       };
-      
+
       const req = https.request(options, (res) => {
         let data = '';
-        
-        res.on('data', (chunk) => {
-          data += chunk;
-        });
-        
+        res.on('data', (chunk) => { data += chunk; });
         res.on('end', () => {
           try {
             const repos = JSON.parse(data);
-            
             if (!Array.isArray(repos)) {
               console.error('❌ Invalid response from GitHub API');
               resolve([]);
-              return;
+            } else {
+              resolve(repos);
             }
-            
-            // Map API response to our format
-            const mappedRepos = repos
-              .filter(repo => !repo.private)
-              .map(repo => ({
-                name: repo.name,
-                description: repo.description,
-                url: repo.html_url,
-                stargazerCount: repo.stargazers_count,
-                forkCount: repo.forks_count,
-                primaryLanguage: repo.language ? { name: repo.language } : null,
-                isPrivate: repo.private,
-                isFork: repo.fork,
-                isArchived: repo.archived,
-                updatedAt: repo.updated_at,
-                createdAt: repo.created_at,
-                pushedAt: repo.pushed_at
-              }))
-              .sort((a, b) => b.stargazerCount - a.stargazerCount);
-            
-            console.log(`✅ Fetched ${mappedRepos.length} public repositories via API`);
-            resolve(mappedRepos);
           } catch (error) {
             console.error('❌ Error parsing API response:', error.message);
             resolve([]);
           }
         });
       });
-      
+
       req.on('error', (error) => {
         console.error('❌ Error fetching from API:', error.message);
         resolve([]);
       });
-      
+
       req.end();
     });
+  }
+
+  try {
+    let allRepos = [];
+    let page = 1;
+
+    while (true) {
+      const repos = await fetchPage(page);
+      if (repos.length === 0) break;
+      allRepos = allRepos.concat(repos);
+      if (repos.length < 100) break;
+      page++;
+    }
+
+    const mappedRepos = allRepos
+      .filter(repo => !repo.private)
+      .map(repo => ({
+        name: repo.name,
+        description: repo.description,
+        url: repo.html_url,
+        stargazerCount: repo.stargazers_count,
+        forkCount: repo.forks_count,
+        primaryLanguage: repo.language ? { name: repo.language } : null,
+        isPrivate: repo.private,
+        isFork: repo.fork,
+        isArchived: repo.archived,
+        updatedAt: repo.updated_at,
+        createdAt: repo.created_at,
+        pushedAt: repo.pushed_at
+      }))
+      .sort((a, b) => b.stargazerCount - a.stargazerCount);
+
+    console.log(`✅ Fetched ${mappedRepos.length} public repositories via API`);
+    return mappedRepos;
   } catch (error) {
     console.error('❌ Error in API fallback:', error.message);
-    return Promise.resolve([]);
+    return [];
   }
 }
 
