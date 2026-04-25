@@ -266,7 +266,7 @@ I'm **Jon-Arve Constantine Grønsberg-Ovesen** (GizzZmo) - a cyberpunk-era digit
 ```
 [ DEVELOPER ]───────┬─────[ MUSIC PRODUCER ]
                     │
-        [ AI ARCHITECT ]─────[ DIGITAL ARTIST ]
+  [ AI ARCHITECT ]─────[ DIGITAL ARTIST ]
                     │
       [ WRITER ]────┴──────[ INNOVATOR ]
 ```
