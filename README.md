@@ -151,7 +151,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-291-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-292-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-153-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-24-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-Python-red?style=for-the-badge&logo=code)
@@ -161,13 +161,13 @@ When I'm not writing code, I'm composing soundscapes:
 ##### Repository Breakdown
 
 - **Original Repositories**: 120
-- **Forked Repositories**: 171
+- **Forked Repositories**: 172
 - **Archived Repositories**: 0
 
 ##### Language Distribution
 
 - **Python**: 49 repositories
-- **TypeScript**: 46 repositories
+- **TypeScript**: 47 repositories
 - **C++**: 38 repositories
 - **HTML**: 32 repositories
 - **JavaScript**: 22 repositories
@@ -661,7 +661,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (291 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (292 repositories)</summary>
 
 ### All Public Repositories
 
@@ -671,13 +671,13 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 2 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 4 | 2 | Apr 30, 2026 |
 | 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 4 | 0 | Apr 25, 2026 |
 | 4 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 4 | 1 | May 3, 2026 |
-| 5 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | Apr 19, 2026 |
+| 5 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
 | 6 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
 | 7 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
 | 8 | 📦 [**Matrix-Suduko**](https://github.com/GizzZmo/Matrix-Suduko) | A stunning Matrix-themed Sudoku game with exceptional UI/UX, built with HTML5, Node.js, and Electron for cross-platform deployment. | JavaScript | 2 | 1 | Jan 22, 2026 |
-| 9 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Jan 9, 2026 |
-| 10 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 2 | 0 | Mar 10, 2026 |
-| 11 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Apr 22, 2026 |
+| 9 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 2 | 0 | Mar 10, 2026 |
+| 10 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Apr 22, 2026 |
+| 11 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | May 4, 2026 |
 | 12 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 13 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 14 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -790,8 +790,8 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 121 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Mar 31, 2026 |
 | 122 | 🔱 [**dubbo**](https://github.com/GizzZmo/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 1 | 0 | Apr 25, 2026 |
 | 123 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Apr 25, 2026 |
-| 124 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | Apr 30, 2026 |
-| 125 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | May 3, 2026 |
+| 124 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | May 4, 2026 |
+| 125 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | May 4, 2026 |
 | 126 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 127 | 🔱 [**openal-source**](https://github.com/GizzZmo/openal-source) | Embeds OpenAL inside of the Source Engine, as well as some extra related audio formats and functionality. | C++ | 0 | 0 | Jan 11, 2022 |
 | 128 | 🔱 [**IPinfo**](https://github.com/GizzZmo/IPinfo) | Searches various online resources to try and get as much info about an IP/domain as possible. | Python | 0 | 0 | Feb 16, 2025 |
@@ -958,6 +958,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 289 | 📦 [**InkSync**](https://github.com/GizzZmo/InkSync) | The Modern Tattoo Workshop Platform.  InkSync is a comprehensive digital ecosystem designed to bridge the gap between tattoo artists and clients. It combines creative portfolio management with clinical-grade scheduling and health compliance.  features, move them to a "Completed" section or check them off to keep stakeholders informed. | TypeScript | 0 | 0 | Apr 25, 2026 |
 | 290 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
 | 291 | 🔱 [**laps3c0re**](https://github.com/GizzZmo/laps3c0re) | Lapse + Mast1c0re = Laps3c0re! | C++ | 0 | 0 | May 4, 2026 |
+| 292 | 🔱 [**vue-after-free**](https://github.com/GizzZmo/vue-after-free) | PlayStation Vue code execution exploit | TypeScript | 0 | 0 | May 4, 2026 |
 
 </details>
 
