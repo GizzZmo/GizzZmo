@@ -152,7 +152,7 @@ When I'm not writing code, I'm composing soundscapes:
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-294-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-155-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-157-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-25-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-Python-red?style=for-the-badge&logo=code)
 
@@ -668,9 +668,9 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
 | 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 12 | 16 | Apr 19, 2026 |
-| 2 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 5 | 1 | May 14, 2026 |
-| 3 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 4 | 2 | Apr 30, 2026 |
-| 4 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 4 | 1 | Apr 25, 2026 |
+| 2 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 5 | 1 | May 15, 2026 |
+| 3 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 5 | 1 | May 14, 2026 |
+| 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 4 | 2 | Apr 30, 2026 |
 | 5 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
 | 6 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
 | 7 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 2 | 0 | Nov 11, 2025 |
@@ -781,172 +781,172 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 112 | 🔱 [**frida-ios-hook**](https://github.com/GizzZmo/frida-ios-hook) | A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform | JavaScript | 1 | 0 | Dec 13, 2023 |
 | 113 | 📦 [**Code-ReViewer**](https://github.com/GizzZmo/Code-ReViewer) | AI Driven code reviewer with AR support | TypeScript | 1 | 0 | Mar 3, 2026 |
 | 114 | 🔱 [**metabase**](https://github.com/GizzZmo/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | Clojure | 1 | 0 | Sep 13, 2025 |
-| 115 | 🔱 [**echarts**](https://github.com/GizzZmo/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 1 | 0 | Dec 13, 2023 |
-| 116 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Apr 8, 2026 |
-| 117 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Apr 11, 2026 |
-| 118 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
-| 119 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Mar 31, 2026 |
-| 120 | 🔱 [**dubbo**](https://github.com/GizzZmo/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 1 | 0 | Apr 25, 2026 |
-| 121 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Apr 25, 2026 |
-| 122 | 📦 [**ps4**](https://github.com/GizzZmo/ps4) | **PS4 Mach-O Loader** is a proof-of-concept that demonstrates how a Mach-O 64-bit binary — normally only executable on macOS/Darwin — can be mapped and run on the PS4's FreeBSD-based kernel. It is intended purely for educational and research purposes, showing how binary loaders work at the OS level and how CPU-architecture compatibility works. | C | 1 | 0 | May 5, 2026 |
-| 123 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | May 4, 2026 |
-| 124 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | May 14, 2026 |
+| 115 | 📦 [**HoverMind**](https://github.com/GizzZmo/HoverMind) | HoverMind: The AI-Powered Windows Cursor. HoverMind turns your standard Windows mouse pointer into a context-aware AI assistant. Simply hold down `Alt + Shift` and hover over any image, block of code, foreign text, or complex UI element to instantly get an AI-generated explanation of what you are looking at. | Python | 1 | 0 | May 15, 2026 |
+| 116 | 🔱 [**echarts**](https://github.com/GizzZmo/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 1 | 0 | Dec 13, 2023 |
+| 117 | 📦 [**Cyberchess-Dojo**](https://github.com/GizzZmo/Cyberchess-Dojo) | Cyberchess Dojo is an automated chess training pipeline with classical chess engine (Stockfish) and a large language model (LLM) compete against each other game after game, recording each game and learning from it.  | Python | 1 | 0 | Apr 8, 2026 |
+| 118 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Apr 11, 2026 |
+| 119 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
+| 120 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Mar 31, 2026 |
+| 121 | 🔱 [**dubbo**](https://github.com/GizzZmo/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 1 | 0 | Apr 25, 2026 |
+| 122 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Apr 25, 2026 |
+| 123 | 📦 [**ps4**](https://github.com/GizzZmo/ps4) | **PS4 Mach-O Loader** is a proof-of-concept that demonstrates how a Mach-O 64-bit binary — normally only executable on macOS/Darwin — can be mapped and run on the PS4's FreeBSD-based kernel. It is intended purely for educational and research purposes, showing how binary loaders work at the OS level and how CPU-architecture compatibility works. | C | 1 | 0 | May 5, 2026 |
+| 124 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 1 | 0 | May 4, 2026 |
 | 125 | 📦 [**FIG---Future-Idenity-Generator**](https://github.com/GizzZmo/FIG---Future-Idenity-Generator) | Choose only Region and sex and it will generate a new Identity every time | TypeScript | 1 | 0 | Sep 12, 2025 |
 | 126 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
-| 127 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
-| 128 | 🔱 [**openal-source**](https://github.com/GizzZmo/openal-source) | Embeds OpenAL inside of the Source Engine, as well as some extra related audio formats and functionality. | C++ | 0 | 0 | Jan 11, 2022 |
-| 129 | 🔱 [**IPinfo**](https://github.com/GizzZmo/IPinfo) | Searches various online resources to try and get as much info about an IP/domain as possible. | Python | 0 | 0 | Feb 16, 2025 |
-| 130 | 🔱 [**bpm**](https://github.com/GizzZmo/bpm) | A lightweight beats-per-minute tapper for the Mac status bar. | Swift | 0 | 0 | May 31, 2025 |
-| 131 | 🔱 [**awsdatapipelinetaskrunner**](https://github.com/GizzZmo/awsdatapipelinetaskrunner) | Java Taskrunner for AWS Datapipeline | Shell | 0 | 0 | Mar 10, 2025 |
-| 132 | 🔱 [**python-pentest-tools**](https://github.com/GizzZmo/python-pentest-tools) | Python tools for penetration testers | N/A | 0 | 0 | Apr 16, 2020 |
-| 133 | 🔱 [**Apktool**](https://github.com/GizzZmo/Apktool) | A tool for reverse engineering Android apk files | Java | 0 | 0 | May 31, 2025 |
-| 134 | 🔱 [**AdColony-Unity-SDK-3**](https://github.com/GizzZmo/AdColony-Unity-SDK-3) | AdColony SDK 3 Plug-In for Unity | C# | 0 | 0 | May 14, 2017 |
-| 135 | 🔱 [**UnityDeeplinks**](https://github.com/GizzZmo/UnityDeeplinks) | A set of tools for Unity to allow handling deeplink activation from within Unity scripts | Objective-C++ | 0 | 0 | May 11, 2017 |
-| 136 | 🔱 [**android-obd-reader**](https://github.com/GizzZmo/android-obd-reader) | Android OBD-II Reader application that uses pure OBD-II PID's Java API. | Java | 0 | 0 | Apr 5, 2023 |
-| 137 | 🔱 [**obd-java-api**](https://github.com/GizzZmo/obd-java-api) | OBD-II Java API | Java | 0 | 0 | Apr 5, 2023 |
-| 138 | 🔱 [**PowerGist**](https://github.com/GizzZmo/PowerGist) | An addin for the Powershell ISE to allow quick access, update and creation of Gists | C# | 0 | 0 | Dec 23, 2023 |
-| 139 | 🔱 [**facebook**](https://github.com/GizzZmo/facebook) | A Facebook Graph API SDK For Go. | Go | 0 | 0 | Feb 13, 2019 |
-| 140 | 🔱 [**Mastermind-Engine-and-Solver**](https://github.com/GizzZmo/Mastermind-Engine-and-Solver) | Board Game | C# | 0 | 0 | Feb 6, 2024 |
-| 141 | 🔱 [**midi-karaoke**](https://github.com/GizzZmo/midi-karaoke) | Play mid, kar, midi in chrome browser | JavaScript | 0 | 0 | Jan 10, 2025 |
-| 142 | 🔱 [**PS4-5.05-Kernel-Exploit**](https://github.com/GizzZmo/PS4-5.05-Kernel-Exploit) | A fully implemented kernel exploit for the PS4 on 5.05FW | JavaScript | 0 | 0 | Dec 6, 2023 |
-| 143 | 🔱 [**sphinx**](https://github.com/GizzZmo/sphinx) | Sphinx search server | C++ | 0 | 0 | Jan 10, 2022 |
-| 144 | 🔱 [**sudoku_solver**](https://github.com/GizzZmo/sudoku_solver) | An automatic sudoku solver code written in C++ | C++ | 0 | 0 | Oct 22, 2024 |
-| 145 | 🔱 [**terraform-aws-acm-certificate**](https://github.com/GizzZmo/terraform-aws-acm-certificate) | A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation. | HCL | 0 | 0 | May 25, 2025 |
-| 146 | 🔱 [**printbf**](https://github.com/GizzZmo/printbf) | Brainfuck interpreter inside printf | Brainfuck | 0 | 0 | Sep 14, 2022 |
-| 147 | 🔱 [**vst3_public_sdk**](https://github.com/GizzZmo/vst3_public_sdk) | VST 3 Implementation Helper Classes And Examples | C++ | 0 | 0 | May 20, 2021 |
-| 148 | 🔱 [**kfr**](https://github.com/GizzZmo/kfr) | Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON) | C++ | 0 | 0 | May 20, 2021 |
-| 149 | 🔱 [**h264ify**](https://github.com/GizzZmo/h264ify) | A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos | JavaScript | 0 | 0 | Nov 5, 2023 |
-| 150 | 🔱 [**EtherMIDI**](https://github.com/GizzZmo/EtherMIDI) | Ethernet to MIDI bridge using libfluidsynth | C | 0 | 0 | Feb 13, 2024 |
-| 151 | 🔱 [**MixedReality-WebRTC**](https://github.com/GizzZmo/MixedReality-WebRTC) | MixedReality-WebRTC is a collection of components to help mixed reality app developers integrate audio and video real-time communication into their application and improve their collaborative experience | C# | 0 | 0 | Nov 1, 2022 |
-| 152 | 🔱 [**bravura**](https://github.com/GizzZmo/bravura) | Bravura music font, reference font for SMuFL (Standard Music Font Layout) | Inno Setup | 0 | 0 | Oct 15, 2023 |
-| 153 | 🔱 [**design-principles**](https://github.com/GizzZmo/design-principles) | A small-but-growing set of design principles collected by the TAG while reviewing specifications | Bikeshed | 0 | 0 | Jul 11, 2022 |
-| 154 | 🔱 [**analytics-ios**](https://github.com/GizzZmo/analytics-ios) | The hassle-free way to integrate analytics into any iOS application.  | Objective-C | 0 | 0 | Aug 24, 2022 |
-| 155 | 🔱 [**public-draft**](https://github.com/GizzZmo/public-draft) | Repository for the public drafts of the C2PA Specifications | N/A | 0 | 0 | Nov 27, 2025 |
-| 156 | 🔱 [**SmartTubeNext**](https://github.com/GizzZmo/SmartTubeNext) | Ad free app for watching tube videos on Android TV boxes | Java | 0 | 0 | May 25, 2025 |
-| 157 | 🔱 [**ExplorerFrame**](https://github.com/GizzZmo/ExplorerFrame) | ExplorerFrame is a program that resolves some improper behaviors caused by File Explorer regarding extending DWM frames into its client area. | C++ | 0 | 0 | Mar 3, 2024 |
-| 158 | 🔱 [**luacheck**](https://github.com/GizzZmo/luacheck) |  A tool for linting and static analysis of Lua code.  | Lua | 0 | 0 | Jun 4, 2025 |
-| 159 | 🔱 [**gsUnitTest**](https://github.com/GizzZmo/gsUnitTest) | A modified version of UnitTest++ for use in testing G+Smo libraries | C++ | 0 | 0 | Dec 1, 2024 |
-| 160 | 🔱 [**sidtool**](https://github.com/GizzZmo/sidtool) | Convert Commodore 64 (SID) music to other formats | Ruby | 0 | 0 | Jul 21, 2024 |
-| 161 | 🔱 [**supertinycron**](https://github.com/GizzZmo/supertinycron) | Cron expression parsing in ANSI C with tinycron tool | C | 0 | 0 | Oct 3, 2023 |
-| 162 | 🔱 [**data-analytics-project-template**](https://github.com/GizzZmo/data-analytics-project-template) | A python project starter template for data-analytics and data-science.  | Jupyter Notebook | 0 | 0 | Jun 27, 2025 |
-| 163 | 🔱 [**Packet-Sniffer**](https://github.com/GizzZmo/Packet-Sniffer) | A Network Packet Sniffing tool developed in Python 3. | Python | 0 | 0 | Feb 3, 2024 |
-| 164 | 🔱 [**openpwnage**](https://github.com/GizzZmo/openpwnage) | 8.4b4-9.3.6 open source jailbreak | Objective-C | 0 | 0 | Aug 1, 2025 |
-| 165 | 🔱 [**winget-pkgs**](https://github.com/GizzZmo/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | N/A | 0 | 0 | Mar 3, 2024 |
-| 166 | 🔱 [**PyCartoon-Python_ImageCartoonization_and_ComicPDFGenerator**](https://github.com/GizzZmo/PyCartoon-Python_ImageCartoonization_and_ComicPDFGenerator) | No description | Jupyter Notebook | 0 | 0 | Aug 13, 2025 |
-| 167 | 🔱 [**gsPolynomial**](https://github.com/GizzZmo/gsPolynomial) | Polynomials for G+Smo | C++ | 0 | 0 | Dec 1, 2024 |
-| 168 | 🔱 [**cpp_sudoku_solver**](https://github.com/GizzZmo/cpp_sudoku_solver) | A sudoku solver in c++. | C++ | 0 | 0 | Oct 22, 2024 |
-| 169 | 🔱 [**SpeechT5**](https://github.com/GizzZmo/SpeechT5) | Unified-Modal Speech-Text Pre-Training for Spoken Language Processing | Python | 0 | 0 | Dec 15, 2025 |
-| 170 | 🔱 [**mimikatz**](https://github.com/GizzZmo/mimikatz) | A little tool to play with Windows security | C | 0 | 0 | Mar 18, 2025 |
-| 171 | 🔱 [**xbmc**](https://github.com/GizzZmo/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | C++ | 0 | 0 | Jul 7, 2024 |
-| 172 | 🔱 [**hifi-gan**](https://github.com/GizzZmo/hifi-gan) | HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | Python | 0 | 0 | Dec 15, 2025 |
-| 173 | 🔱 [**hydrafw**](https://github.com/GizzZmo/hydrafw) | HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware | C | 0 | 0 | Mar 18, 2025 |
-| 174 | 📦 [**suduko**](https://github.com/GizzZmo/suduko) | No description | N/A | 0 | 0 | Sep 18, 2024 |
-| 175 | 🔱 [**WhiteRabbitNeo**](https://github.com/GizzZmo/WhiteRabbitNeo) | This guide provides various prompt examples for using WhiteRabbitNeo in different cybersecurity scenarios. Each table focuses on a specific objective and contains prompts that help maximize the tool's effectiveness for learning, testing, and applying cybersecurity techniques. | N/A | 0 | 0 | Jun 25, 2025 |
-| 176 | 🔱 [**CopilotForXcode**](https://github.com/GizzZmo/CopilotForXcode) | Xcode extension for GitHub Copilot | Swift | 0 | 0 | Jan 23, 2025 |
-| 177 | 🔱 [**gismo.github.io**](https://github.com/GizzZmo/gismo.github.io) | Documentation for G+Smo | HTML | 0 | 0 | Dec 1, 2024 |
-| 178 | 🔱 [**gismo**](https://github.com/GizzZmo/gismo) | G+Smo (pronounced gismo or gizmo) is a C++ library for isogeometric analysis (IGA). Geometry plus simulation modules aims at the seamless integration of Computer-aided Design (CAD) and Finite Element Analysis (FEA). | C++ | 0 | 0 | Dec 1, 2024 |
-| 179 | 🔱 [**Cpp-Refresher**](https://github.com/GizzZmo/Cpp-Refresher) | No description | C++ | 0 | 0 | Dec 16, 2024 |
-| 180 | 📦 [**discretemath**](https://github.com/GizzZmo/discretemath) | Discrete Math with Python | N/A | 0 | 0 | Dec 16, 2024 |
-| 181 | 🔱 [**Learn**](https://github.com/GizzZmo/Learn) | No description | Python | 0 | 0 | Dec 16, 2024 |
-| 182 | 📦 [**Python-to-C-parser**](https://github.com/GizzZmo/Python-to-C-parser) | Automatic Python to C++ converter/parser | C++ | 0 | 0 | Jan 23, 2025 |
-| 183 | 🔱 [**geogram**](https://github.com/GizzZmo/geogram) | a programming library with geometric algorithms | C++ | 0 | 0 | Feb 12, 2025 |
-| 184 | 🔱 [**Incompact3d**](https://github.com/GizzZmo/Incompact3d) | Current CPU version of our solver for the Navier-Stokes equations | Fortran | 0 | 0 | Feb 25, 2025 |
-| 185 | 🔱 [**list_of_recommender_systems**](https://github.com/GizzZmo/list_of_recommender_systems) | A List of Recommender Systems and Resources | N/A | 0 | 0 | Apr 13, 2025 |
-| 186 | 🔱 [**GSL**](https://github.com/GizzZmo/GSL) | Guidelines Support Library | C++ | 0 | 0 | Mar 18, 2025 |
-| 187 | 🔱 [**semantic-kernel**](https://github.com/GizzZmo/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C# | 0 | 0 | Mar 18, 2025 |
-| 188 | 📦 [**mod-2**](https://github.com/GizzZmo/mod-2) | Anomalities | HTML | 0 | 0 | Apr 20, 2025 |
-| 189 | 📦 [**BlogSite**](https://github.com/GizzZmo/BlogSite) | creating a full-fledged PHP blog site with registration, email confirmation, and individual user blogs | PHP | 0 | 0 | May 31, 2025 |
-| 190 | 🔱 [**luarocks**](https://github.com/GizzZmo/luarocks) | LuaRocks is the package manager for the Lua programming language. | Lua | 0 | 0 | Jun 4, 2025 |
-| 191 | 📦 [**WOW**](https://github.com/GizzZmo/WOW) | This page is about the Lionheart Love Patch, a community-driven modification for World of Warcraft Classic that introduces love-themed quests, matchmaking mechanics, seasonal events, and unique romantic rewards | Lua | 0 | 0 | Jun 4, 2025 |
-| 192 | 📦 [**Samarbeidende-Super-E-Demokrati**](https://github.com/GizzZmo/Samarbeidende-Super-E-Demokrati) | Samarbeidende Super E-Demokrati - En interaktiv webside. | HTML | 0 | 0 | Jun 5, 2025 |
-| 193 | 📦 [**Gitar-DSP-Effektprosessor**](https://github.com/GizzZmo/Gitar-DSP-Effektprosessor) | Dette er et åpen kildekode-prosjekt for å bygge en frittstående gitar-effektprosessor for Windows ved hjelp av C++ og JUCE-rammeverket. | C++ | 0 | 0 | Jun 7, 2025 |
-| 194 | 📦 [**notepad-.dll**](https://github.com/GizzZmo/notepad-.dll) | plug ins for notepad++ | N/A | 0 | 0 | Jun 9, 2025 |
-| 195 | 📦 [**AI-Revolution-in-Health-Welfare**](https://github.com/GizzZmo/AI-Revolution-in-Health-Welfare) | The AI Revolution in Health & Welfare Balancing Transformative Innovation with Ethical Responsibility  Artificial Intelligence represents a frontier of innovation with profound implications for health and social services. Its capacity to interpret complex medical scans, enhance surgical precision, and streamline administrative tasks | HTML | 0 | 0 | Jun 9, 2025 |
-| 196 | 📦 [**CyberPrompt2.0**](https://github.com/GizzZmo/CyberPrompt2.0) | Interaktiv KI-generativ "CyberPrompt"" med cyberpunk stil. | Python | 0 | 0 | Jun 9, 2025 |
-| 197 | 🔱 [**LUA-Lapse**](https://github.com/GizzZmo/LUA-Lapse) | No description | Lua | 0 | 0 | May 3, 2026 |
-| 198 | 📦 [**StockView**](https://github.com/GizzZmo/StockView) | StockView is a concept for the finance sector in form of a Stock and Market Share visualizer | Python | 0 | 0 | Jun 18, 2025 |
-| 199 | 📦 [**InnerSelf**](https://github.com/GizzZmo/InnerSelf) | Creative Visualization | HTML | 0 | 0 | Jun 18, 2025 |
-| 200 | 📦 [**NaturaLens**](https://github.com/GizzZmo/NaturaLens) | The Strategic Vision: A "Social Lens" on the Natural World | HTML | 0 | 0 | Jun 20, 2025 |
-| 201 | 📦 [**Codename-Kaito**](https://github.com/GizzZmo/Codename-Kaito) | ai driven multi tool | Python | 0 | 0 | Jun 26, 2025 |
-| 202 | 📦 [**Windows-11-pentest**](https://github.com/GizzZmo/Windows-11-pentest) | Windows 11 Penetration test | N/A | 0 | 0 | Jun 26, 2025 |
-| 203 | 📦 [**HMK**](https://github.com/GizzZmo/HMK) | HMK | N/A | 0 | 0 | Jun 28, 2025 |
-| 204 | 📦 [**Cyber_Suduko**](https://github.com/GizzZmo/Cyber_Suduko) | Antoher suduko alternative | HTML | 0 | 0 | Jul 3, 2025 |
-| 205 | 📦 [**Cybersjakk**](https://github.com/GizzZmo/Cybersjakk) | Cybersjakk | JavaScript | 0 | 0 | Jul 4, 2025 |
-| 206 | 📦 [**Project-Chimera**](https://github.com/GizzZmo/Project-Chimera) | No description | TypeScript | 0 | 0 | Jul 7, 2025 |
-| 207 | 📦 [**satellite-tracker**](https://github.com/GizzZmo/satellite-tracker) | Satellittsporing og Visualiseringssystem Dette prosjektet er et komplett system for sanntidssporing og 3D-visualisering av satellitter i bane rundt jorden. Det er bygget på en tre-lags arkitektur. | Python | 0 | 0 | Jul 12, 2025 |
-| 208 | 📦 [**SimpleCyberEditor**](https://github.com/GizzZmo/SimpleCyberEditor) | simply ai text edit | N/A | 0 | 0 | Jul 14, 2025 |
-| 209 | 📦 [**harmonia_nexus**](https://github.com/GizzZmo/harmonia_nexus) | No description | N/A | 0 | 0 | Jul 21, 2025 |
-| 210 | 📦 [**ToDo**](https://github.com/GizzZmo/ToDo) | The repository serves as a comprehensive implementation of a To-Do List application. According to the README, it is designed using React for building the user interface, TypeScript for ensuring type safety, and Tailwind CSS for styling. The app stores data persistently using the browser's local storage. | N/A | 0 | 0 | Jul 22, 2025 |
-| 211 | 📦 [**Cyber-Sudoku---iOS**](https://github.com/GizzZmo/Cyber-Sudoku---iOS) | Programmed in Swift | Swift | 0 | 0 | Jul 27, 2025 |
-| 212 | 📦 [**Cyber-Sudoku-win-x64**](https://github.com/GizzZmo/Cyber-Sudoku-win-x64) | Cyber Suduko for Windows  | C# | 0 | 0 | Jul 27, 2025 |
-| 213 | 🔱 [**PS4JbEmu**](https://github.com/GizzZmo/PS4JbEmu) | PS4 9.00, 10.0x & 11.00 PPPwn auto jailbreak using Raspberry Pi. PS4 Webkit exploit host and USB Emulator on Raspberry Pi for PS4 9.00 | N/A | 0 | 0 | May 3, 2026 |
-| 214 | 🔱 [**BD-JB-1250**](https://github.com/GizzZmo/BD-JB-1250) | BD-JB for up to PS4 12.50 | Java | 0 | 0 | May 6, 2026 |
-| 215 | 📦 [**CyberEditor-AI_**](https://github.com/GizzZmo/CyberEditor-AI_) | This project, "CyberEditor AI", is a web-based, AI-powered integrated development environment (IDE) that allows users to create, modify, and manage code projects. It leverages Google's Gemini AI for code generation, explanation, refactoring, and debugging, and integrates with GitHub for version control. | TypeScript | 0 | 0 | Aug 27, 2025 |
-| 216 | 🔱 [**Megatron-LM**](https://github.com/GizzZmo/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 0 | Sep 6, 2025 |
-| 217 | 🔱 [**CyberSentinel-AI**](https://github.com/GizzZmo/CyberSentinel-AI) | CyberSentinel AI 是一个自动化安全监控与AI分析系统 | N/A | 0 | 0 | Sep 17, 2025 |
-| 218 | 📦 [**Renewable-Energy**](https://github.com/GizzZmo/Renewable-Energy) | Renewable Energy | HTML | 0 | 0 | Sep 21, 2025 |
-| 219 | 🔱 [**pm2**](https://github.com/GizzZmo/pm2) | Node.js Production Process Manager with a built-in Load Balancer. | JavaScript | 0 | 0 | Oct 14, 2025 |
-| 220 | 📦 [**Mysteries-and-the-known**](https://github.com/GizzZmo/Mysteries-and-the-known) | "Mysteries and the Known" is a captivating exploration of eight of history's most enduring unsolved puzzles. This novel takes readers on a journey through time and across the globe, from the disappearance of pioneering aviator Amelia Earhart to the ancient enigma of Stonehenge, from the chilling murders of Jack the Ripper to the legendary lost city | N/A | 0 | 0 | Sep 26, 2025 |
-| 221 | 📦 [**Socialmedia_API**](https://github.com/GizzZmo/Socialmedia_API) | Crafting a Modern Social Media API: A Blueprint for Developers In an increasingly connected world, the backbone of any successful social media platform is a robust and scalable Application Programming Interface (API). This document outlines a comprehensive API design for a hypothetical social media platform. | JavaScript | 0 | 0 | Aug 21, 2025 |
-| 222 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 0 | 0 | Sep 3, 2025 |
-| 223 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
-| 224 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
-| 225 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
-| 226 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
-| 227 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
-| 228 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
-| 229 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
-| 230 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
-| 231 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
-| 232 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
-| 233 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 234 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
-| 235 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 236 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 237 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
-| 238 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
-| 239 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
-| 240 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
-| 241 | 🔱 [**web3modal**](https://github.com/GizzZmo/web3modal) | A single Web3 provider solution for all Wallets | TypeScript | 0 | 0 | Sep 17, 2024 |
-| 242 | 🔱 [**content**](https://github.com/GizzZmo/content) | The content behind MDN Web Docs | Markdown | 0 | 0 | Nov 20, 2023 |
-| 243 | 🔱 [**get-version-action**](https://github.com/GizzZmo/get-version-action) | A GitHub Action which extracts the version from github.ref | JavaScript | 0 | 0 | Mar 3, 2024 |
-| 244 | 🔱 [**developers.home-assistant**](https://github.com/GizzZmo/developers.home-assistant) | Developers website for Home Assistant. | JavaScript | 0 | 0 | Feb 16, 2025 |
-| 245 | 🔱 [**move**](https://github.com/GizzZmo/move) | No description | Rust | 0 | 0 | May 12, 2025 |
-| 246 | 🔱 [**Avalonia**](https://github.com/GizzZmo/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. | C# | 0 | 0 | Dec 16, 2023 |
-| 247 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
-| 248 | 🔱 [**vscode-python**](https://github.com/GizzZmo/vscode-python) | Python extension for Visual Studio Code | TypeScript | 0 | 0 | Mar 19, 2025 |
-| 249 | 🔱 [**runner**](https://github.com/GizzZmo/runner) | The Runner for GitHub Actions :rocket: | C# | 0 | 0 | Jan 11, 2022 |
-| 250 | 🔱 [**aws-api-gateway-developer-portal**](https://github.com/GizzZmo/aws-api-gateway-developer-portal) | This application provides a reference implementation that presents APIs on API Gateway as a catalog for 3rd party access | JavaScript | 0 | 0 | Jul 6, 2023 |
-| 251 | 🔱 [**tracee**](https://github.com/GizzZmo/tracee) | Linux Runtime Security and Forensics using eBPF | Go | 0 | 0 | Nov 17, 2025 |
-| 252 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
-| 253 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
-| 254 | 📦 [**data_analytics**](https://github.com/GizzZmo/data_analytics) | No description | Jupyter Notebook | 0 | 0 | Nov 20, 2025 |
-| 255 | 🔱 [**actions-gh-pages**](https://github.com/GizzZmo/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | TypeScript | 0 | 0 | Dec 21, 2025 |
-| 256 | 🔱 [**cookbook**](https://github.com/GizzZmo/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 0 | 0 | Jun 28, 2025 |
-| 257 | 🔱 [**Ai-pentester**](https://github.com/GizzZmo/Ai-pentester) | AI Penetration Testing Assistant License: GPL v3 Python 3.8+  An intelligent desktop application that assists security professionals with penetration testing by leveraging Large Language Models (LLMs) to interpret high-level security goals and suggest specific commands for execution. | Python | 0 | 0 | Dec 7, 2025 |
-| 258 | 📦 [**Marvel-Universe-Idea-Creator-Tool**](https://github.com/GizzZmo/Marvel-Universe-Idea-Creator-Tool) | cartoon generator | TypeScript | 0 | 0 | Dec 13, 2025 |
-| 259 | 🔱 [**crypto_trader**](https://github.com/GizzZmo/crypto_trader) | Crypto trading bot, enhanced with llm | Python | 0 | 0 | Dec 13, 2025 |
-| 260 | 📦 [**Fibonoku**](https://github.com/GizzZmo/Fibonoku) | Sudoku clone | TypeScript | 0 | 0 | Dec 17, 2025 |
-| 261 | 🔱 [**KratosKnife**](https://github.com/GizzZmo/KratosKnife) | KratosKnife is a Advanced BOTNET Written in python 3 for Windows OS. Comes With Lot of Advanced Features such as Persistence & VM Detection Methods, Built-in Binder, etc | Python | 0 | 0 | Dec 21, 2025 |
-| 262 | 📦 [**Omni-Grid**](https://github.com/GizzZmo/Omni-Grid) | No description | Jupyter Notebook | 0 | 0 | Dec 21, 2025 |
-| 263 | 📦 [**literate-octo-pancake**](https://github.com/GizzZmo/literate-octo-pancake) | https://omni-grid-2-0-architect-256533412071.us-west1.run.app | Python | 0 | 0 | Dec 28, 2025 |
-| 264 | 📦 [**Arena**](https://github.com/GizzZmo/Arena) | This script implements a chess game where Stockfish plays against the Gemini AI. It includes functionality for move generation, game play, and saving the game data in PGN format. | Python | 0 | 0 | Jan 3, 2026 |
-| 265 | 📦 [**the-terminal**](https://github.com/GizzZmo/the-terminal) | python script | HTML | 0 | 0 | Jan 4, 2026 |
-| 266 | 📦 [**GM-3000**](https://github.com/GizzZmo/GM-3000) | Chess | TypeScript | 0 | 0 | Jan 4, 2026 |
-| 267 | 📦 [**Circse-of-Fifths**](https://github.com/GizzZmo/Circse-of-Fifths) | Music Theory | TypeScript | 0 | 0 | Jan 11, 2026 |
-| 268 | 📦 [**Lumina**](https://github.com/GizzZmo/Lumina) | Din AI assistent koblet til verdenskunnskapen | TypeScript | 0 | 0 | Jan 11, 2026 |
-| 269 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 14, 2026 |
-| 270 | 🔱 [**gemma_pytorch**](https://github.com/GizzZmo/gemma_pytorch) | The official PyTorch implementation of Google's Gemma models | Python | 0 | 0 | Feb 23, 2024 |
-| 271 | 🔱 [**cua**](https://github.com/GizzZmo/cua) | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | Python | 0 | 0 | Jan 25, 2026 |
-| 272 | 🔱 [**fossology**](https://github.com/GizzZmo/fossology) | FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. | PHP | 0 | 0 | Dec 22, 2023 |
-| 273 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
-| 274 | 🔱 [**glasnost**](https://github.com/GizzZmo/glasnost) | Parsing and working with the data from the glasnost measurement lab test. | Python | 0 | 0 | Apr 20, 2025 |
-| 275 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Mar 22, 2026 |
-| 276 | 🔱 [**etcher**](https://github.com/GizzZmo/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | TypeScript | 0 | 0 | Mar 23, 2026 |
-| 277 | 📦 [**PR**](https://github.com/GizzZmo/PR) | Simply PR | HTML | 0 | 0 | Mar 26, 2026 |
-| 278 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
-| 279 | 🔱 [**maven**](https://github.com/GizzZmo/maven) | Apache Maven core | Java | 0 | 0 | Jul 7, 2024 |
-| 280 | 📦 [**HoverMind**](https://github.com/GizzZmo/HoverMind) | HoverMind: The AI-Powered Windows Cursor. HoverMind turns your standard Windows mouse pointer into a context-aware AI assistant. Simply hold down `Alt + Shift` and hover over any image, block of code, foreign text, or complex UI element to instantly get an AI-generated explanation of what you are looking at. | Python | 0 | 0 | Mar 29, 2026 |
+| 127 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | May 15, 2026 |
+| 128 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
+| 129 | 🔱 [**openal-source**](https://github.com/GizzZmo/openal-source) | Embeds OpenAL inside of the Source Engine, as well as some extra related audio formats and functionality. | C++ | 0 | 0 | Jan 11, 2022 |
+| 130 | 🔱 [**IPinfo**](https://github.com/GizzZmo/IPinfo) | Searches various online resources to try and get as much info about an IP/domain as possible. | Python | 0 | 0 | Feb 16, 2025 |
+| 131 | 🔱 [**bpm**](https://github.com/GizzZmo/bpm) | A lightweight beats-per-minute tapper for the Mac status bar. | Swift | 0 | 0 | May 31, 2025 |
+| 132 | 🔱 [**awsdatapipelinetaskrunner**](https://github.com/GizzZmo/awsdatapipelinetaskrunner) | Java Taskrunner for AWS Datapipeline | Shell | 0 | 0 | Mar 10, 2025 |
+| 133 | 🔱 [**python-pentest-tools**](https://github.com/GizzZmo/python-pentest-tools) | Python tools for penetration testers | N/A | 0 | 0 | Apr 16, 2020 |
+| 134 | 🔱 [**Apktool**](https://github.com/GizzZmo/Apktool) | A tool for reverse engineering Android apk files | Java | 0 | 0 | May 31, 2025 |
+| 135 | 🔱 [**AdColony-Unity-SDK-3**](https://github.com/GizzZmo/AdColony-Unity-SDK-3) | AdColony SDK 3 Plug-In for Unity | C# | 0 | 0 | May 14, 2017 |
+| 136 | 🔱 [**UnityDeeplinks**](https://github.com/GizzZmo/UnityDeeplinks) | A set of tools for Unity to allow handling deeplink activation from within Unity scripts | Objective-C++ | 0 | 0 | May 11, 2017 |
+| 137 | 🔱 [**android-obd-reader**](https://github.com/GizzZmo/android-obd-reader) | Android OBD-II Reader application that uses pure OBD-II PID's Java API. | Java | 0 | 0 | Apr 5, 2023 |
+| 138 | 🔱 [**obd-java-api**](https://github.com/GizzZmo/obd-java-api) | OBD-II Java API | Java | 0 | 0 | Apr 5, 2023 |
+| 139 | 🔱 [**PowerGist**](https://github.com/GizzZmo/PowerGist) | An addin for the Powershell ISE to allow quick access, update and creation of Gists | C# | 0 | 0 | Dec 23, 2023 |
+| 140 | 🔱 [**facebook**](https://github.com/GizzZmo/facebook) | A Facebook Graph API SDK For Go. | Go | 0 | 0 | Feb 13, 2019 |
+| 141 | 🔱 [**Mastermind-Engine-and-Solver**](https://github.com/GizzZmo/Mastermind-Engine-and-Solver) | Board Game | C# | 0 | 0 | Feb 6, 2024 |
+| 142 | 🔱 [**midi-karaoke**](https://github.com/GizzZmo/midi-karaoke) | Play mid, kar, midi in chrome browser | JavaScript | 0 | 0 | Jan 10, 2025 |
+| 143 | 🔱 [**PS4-5.05-Kernel-Exploit**](https://github.com/GizzZmo/PS4-5.05-Kernel-Exploit) | A fully implemented kernel exploit for the PS4 on 5.05FW | JavaScript | 0 | 0 | Dec 6, 2023 |
+| 144 | 🔱 [**sphinx**](https://github.com/GizzZmo/sphinx) | Sphinx search server | C++ | 0 | 0 | Jan 10, 2022 |
+| 145 | 🔱 [**sudoku_solver**](https://github.com/GizzZmo/sudoku_solver) | An automatic sudoku solver code written in C++ | C++ | 0 | 0 | Oct 22, 2024 |
+| 146 | 🔱 [**terraform-aws-acm-certificate**](https://github.com/GizzZmo/terraform-aws-acm-certificate) | A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation. | HCL | 0 | 0 | May 25, 2025 |
+| 147 | 🔱 [**printbf**](https://github.com/GizzZmo/printbf) | Brainfuck interpreter inside printf | Brainfuck | 0 | 0 | Sep 14, 2022 |
+| 148 | 🔱 [**vst3_public_sdk**](https://github.com/GizzZmo/vst3_public_sdk) | VST 3 Implementation Helper Classes And Examples | C++ | 0 | 0 | May 20, 2021 |
+| 149 | 🔱 [**kfr**](https://github.com/GizzZmo/kfr) | Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON) | C++ | 0 | 0 | May 20, 2021 |
+| 150 | 🔱 [**h264ify**](https://github.com/GizzZmo/h264ify) | A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos | JavaScript | 0 | 0 | Nov 5, 2023 |
+| 151 | 🔱 [**EtherMIDI**](https://github.com/GizzZmo/EtherMIDI) | Ethernet to MIDI bridge using libfluidsynth | C | 0 | 0 | Feb 13, 2024 |
+| 152 | 🔱 [**MixedReality-WebRTC**](https://github.com/GizzZmo/MixedReality-WebRTC) | MixedReality-WebRTC is a collection of components to help mixed reality app developers integrate audio and video real-time communication into their application and improve their collaborative experience | C# | 0 | 0 | Nov 1, 2022 |
+| 153 | 🔱 [**bravura**](https://github.com/GizzZmo/bravura) | Bravura music font, reference font for SMuFL (Standard Music Font Layout) | Inno Setup | 0 | 0 | Oct 15, 2023 |
+| 154 | 🔱 [**design-principles**](https://github.com/GizzZmo/design-principles) | A small-but-growing set of design principles collected by the TAG while reviewing specifications | Bikeshed | 0 | 0 | Jul 11, 2022 |
+| 155 | 🔱 [**analytics-ios**](https://github.com/GizzZmo/analytics-ios) | The hassle-free way to integrate analytics into any iOS application.  | Objective-C | 0 | 0 | Aug 24, 2022 |
+| 156 | 🔱 [**public-draft**](https://github.com/GizzZmo/public-draft) | Repository for the public drafts of the C2PA Specifications | N/A | 0 | 0 | Nov 27, 2025 |
+| 157 | 🔱 [**SmartTubeNext**](https://github.com/GizzZmo/SmartTubeNext) | Ad free app for watching tube videos on Android TV boxes | Java | 0 | 0 | May 25, 2025 |
+| 158 | 🔱 [**ExplorerFrame**](https://github.com/GizzZmo/ExplorerFrame) | ExplorerFrame is a program that resolves some improper behaviors caused by File Explorer regarding extending DWM frames into its client area. | C++ | 0 | 0 | Mar 3, 2024 |
+| 159 | 🔱 [**luacheck**](https://github.com/GizzZmo/luacheck) |  A tool for linting and static analysis of Lua code.  | Lua | 0 | 0 | Jun 4, 2025 |
+| 160 | 🔱 [**gsUnitTest**](https://github.com/GizzZmo/gsUnitTest) | A modified version of UnitTest++ for use in testing G+Smo libraries | C++ | 0 | 0 | Dec 1, 2024 |
+| 161 | 🔱 [**sidtool**](https://github.com/GizzZmo/sidtool) | Convert Commodore 64 (SID) music to other formats | Ruby | 0 | 0 | Jul 21, 2024 |
+| 162 | 🔱 [**supertinycron**](https://github.com/GizzZmo/supertinycron) | Cron expression parsing in ANSI C with tinycron tool | C | 0 | 0 | Oct 3, 2023 |
+| 163 | 🔱 [**data-analytics-project-template**](https://github.com/GizzZmo/data-analytics-project-template) | A python project starter template for data-analytics and data-science.  | Jupyter Notebook | 0 | 0 | Jun 27, 2025 |
+| 164 | 🔱 [**Packet-Sniffer**](https://github.com/GizzZmo/Packet-Sniffer) | A Network Packet Sniffing tool developed in Python 3. | Python | 0 | 0 | Feb 3, 2024 |
+| 165 | 🔱 [**openpwnage**](https://github.com/GizzZmo/openpwnage) | 8.4b4-9.3.6 open source jailbreak | Objective-C | 0 | 0 | Aug 1, 2025 |
+| 166 | 🔱 [**winget-pkgs**](https://github.com/GizzZmo/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | N/A | 0 | 0 | Mar 3, 2024 |
+| 167 | 🔱 [**PyCartoon-Python_ImageCartoonization_and_ComicPDFGenerator**](https://github.com/GizzZmo/PyCartoon-Python_ImageCartoonization_and_ComicPDFGenerator) | No description | Jupyter Notebook | 0 | 0 | Aug 13, 2025 |
+| 168 | 🔱 [**gsPolynomial**](https://github.com/GizzZmo/gsPolynomial) | Polynomials for G+Smo | C++ | 0 | 0 | Dec 1, 2024 |
+| 169 | 🔱 [**cpp_sudoku_solver**](https://github.com/GizzZmo/cpp_sudoku_solver) | A sudoku solver in c++. | C++ | 0 | 0 | Oct 22, 2024 |
+| 170 | 🔱 [**SpeechT5**](https://github.com/GizzZmo/SpeechT5) | Unified-Modal Speech-Text Pre-Training for Spoken Language Processing | Python | 0 | 0 | Dec 15, 2025 |
+| 171 | 🔱 [**mimikatz**](https://github.com/GizzZmo/mimikatz) | A little tool to play with Windows security | C | 0 | 0 | Mar 18, 2025 |
+| 172 | 🔱 [**xbmc**](https://github.com/GizzZmo/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | C++ | 0 | 0 | Jul 7, 2024 |
+| 173 | 🔱 [**hifi-gan**](https://github.com/GizzZmo/hifi-gan) | HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | Python | 0 | 0 | Dec 15, 2025 |
+| 174 | 🔱 [**hydrafw**](https://github.com/GizzZmo/hydrafw) | HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware | C | 0 | 0 | Mar 18, 2025 |
+| 175 | 📦 [**suduko**](https://github.com/GizzZmo/suduko) | No description | N/A | 0 | 0 | Sep 18, 2024 |
+| 176 | 🔱 [**WhiteRabbitNeo**](https://github.com/GizzZmo/WhiteRabbitNeo) | This guide provides various prompt examples for using WhiteRabbitNeo in different cybersecurity scenarios. Each table focuses on a specific objective and contains prompts that help maximize the tool's effectiveness for learning, testing, and applying cybersecurity techniques. | N/A | 0 | 0 | Jun 25, 2025 |
+| 177 | 🔱 [**CopilotForXcode**](https://github.com/GizzZmo/CopilotForXcode) | Xcode extension for GitHub Copilot | Swift | 0 | 0 | Jan 23, 2025 |
+| 178 | 🔱 [**gismo.github.io**](https://github.com/GizzZmo/gismo.github.io) | Documentation for G+Smo | HTML | 0 | 0 | Dec 1, 2024 |
+| 179 | 🔱 [**gismo**](https://github.com/GizzZmo/gismo) | G+Smo (pronounced gismo or gizmo) is a C++ library for isogeometric analysis (IGA). Geometry plus simulation modules aims at the seamless integration of Computer-aided Design (CAD) and Finite Element Analysis (FEA). | C++ | 0 | 0 | Dec 1, 2024 |
+| 180 | 🔱 [**Cpp-Refresher**](https://github.com/GizzZmo/Cpp-Refresher) | No description | C++ | 0 | 0 | Dec 16, 2024 |
+| 181 | 📦 [**discretemath**](https://github.com/GizzZmo/discretemath) | Discrete Math with Python | N/A | 0 | 0 | Dec 16, 2024 |
+| 182 | 🔱 [**Learn**](https://github.com/GizzZmo/Learn) | No description | Python | 0 | 0 | Dec 16, 2024 |
+| 183 | 📦 [**Python-to-C-parser**](https://github.com/GizzZmo/Python-to-C-parser) | Automatic Python to C++ converter/parser | C++ | 0 | 0 | Jan 23, 2025 |
+| 184 | 🔱 [**geogram**](https://github.com/GizzZmo/geogram) | a programming library with geometric algorithms | C++ | 0 | 0 | Feb 12, 2025 |
+| 185 | 🔱 [**Incompact3d**](https://github.com/GizzZmo/Incompact3d) | Current CPU version of our solver for the Navier-Stokes equations | Fortran | 0 | 0 | Feb 25, 2025 |
+| 186 | 🔱 [**list_of_recommender_systems**](https://github.com/GizzZmo/list_of_recommender_systems) | A List of Recommender Systems and Resources | N/A | 0 | 0 | Apr 13, 2025 |
+| 187 | 🔱 [**GSL**](https://github.com/GizzZmo/GSL) | Guidelines Support Library | C++ | 0 | 0 | Mar 18, 2025 |
+| 188 | 🔱 [**semantic-kernel**](https://github.com/GizzZmo/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C# | 0 | 0 | Mar 18, 2025 |
+| 189 | 📦 [**mod-2**](https://github.com/GizzZmo/mod-2) | Anomalities | HTML | 0 | 0 | Apr 20, 2025 |
+| 190 | 📦 [**BlogSite**](https://github.com/GizzZmo/BlogSite) | creating a full-fledged PHP blog site with registration, email confirmation, and individual user blogs | PHP | 0 | 0 | May 31, 2025 |
+| 191 | 🔱 [**luarocks**](https://github.com/GizzZmo/luarocks) | LuaRocks is the package manager for the Lua programming language. | Lua | 0 | 0 | Jun 4, 2025 |
+| 192 | 📦 [**WOW**](https://github.com/GizzZmo/WOW) | This page is about the Lionheart Love Patch, a community-driven modification for World of Warcraft Classic that introduces love-themed quests, matchmaking mechanics, seasonal events, and unique romantic rewards | Lua | 0 | 0 | Jun 4, 2025 |
+| 193 | 📦 [**Samarbeidende-Super-E-Demokrati**](https://github.com/GizzZmo/Samarbeidende-Super-E-Demokrati) | Samarbeidende Super E-Demokrati - En interaktiv webside. | HTML | 0 | 0 | Jun 5, 2025 |
+| 194 | 📦 [**Gitar-DSP-Effektprosessor**](https://github.com/GizzZmo/Gitar-DSP-Effektprosessor) | Dette er et åpen kildekode-prosjekt for å bygge en frittstående gitar-effektprosessor for Windows ved hjelp av C++ og JUCE-rammeverket. | C++ | 0 | 0 | Jun 7, 2025 |
+| 195 | 📦 [**notepad-.dll**](https://github.com/GizzZmo/notepad-.dll) | plug ins for notepad++ | N/A | 0 | 0 | Jun 9, 2025 |
+| 196 | 📦 [**AI-Revolution-in-Health-Welfare**](https://github.com/GizzZmo/AI-Revolution-in-Health-Welfare) | The AI Revolution in Health & Welfare Balancing Transformative Innovation with Ethical Responsibility  Artificial Intelligence represents a frontier of innovation with profound implications for health and social services. Its capacity to interpret complex medical scans, enhance surgical precision, and streamline administrative tasks | HTML | 0 | 0 | Jun 9, 2025 |
+| 197 | 📦 [**CyberPrompt2.0**](https://github.com/GizzZmo/CyberPrompt2.0) | Interaktiv KI-generativ "CyberPrompt"" med cyberpunk stil. | Python | 0 | 0 | Jun 9, 2025 |
+| 198 | 🔱 [**LUA-Lapse**](https://github.com/GizzZmo/LUA-Lapse) | No description | Lua | 0 | 0 | May 3, 2026 |
+| 199 | 📦 [**StockView**](https://github.com/GizzZmo/StockView) | StockView is a concept for the finance sector in form of a Stock and Market Share visualizer | Python | 0 | 0 | Jun 18, 2025 |
+| 200 | 📦 [**InnerSelf**](https://github.com/GizzZmo/InnerSelf) | Creative Visualization | HTML | 0 | 0 | Jun 18, 2025 |
+| 201 | 📦 [**NaturaLens**](https://github.com/GizzZmo/NaturaLens) | The Strategic Vision: A "Social Lens" on the Natural World | HTML | 0 | 0 | Jun 20, 2025 |
+| 202 | 📦 [**Codename-Kaito**](https://github.com/GizzZmo/Codename-Kaito) | ai driven multi tool | Python | 0 | 0 | Jun 26, 2025 |
+| 203 | 📦 [**Windows-11-pentest**](https://github.com/GizzZmo/Windows-11-pentest) | Windows 11 Penetration test | N/A | 0 | 0 | Jun 26, 2025 |
+| 204 | 📦 [**HMK**](https://github.com/GizzZmo/HMK) | HMK | N/A | 0 | 0 | Jun 28, 2025 |
+| 205 | 📦 [**Cyber_Suduko**](https://github.com/GizzZmo/Cyber_Suduko) | Antoher suduko alternative | HTML | 0 | 0 | Jul 3, 2025 |
+| 206 | 📦 [**Cybersjakk**](https://github.com/GizzZmo/Cybersjakk) | Cybersjakk | JavaScript | 0 | 0 | Jul 4, 2025 |
+| 207 | 📦 [**Project-Chimera**](https://github.com/GizzZmo/Project-Chimera) | No description | TypeScript | 0 | 0 | Jul 7, 2025 |
+| 208 | 📦 [**satellite-tracker**](https://github.com/GizzZmo/satellite-tracker) | Satellittsporing og Visualiseringssystem Dette prosjektet er et komplett system for sanntidssporing og 3D-visualisering av satellitter i bane rundt jorden. Det er bygget på en tre-lags arkitektur. | Python | 0 | 0 | Jul 12, 2025 |
+| 209 | 📦 [**SimpleCyberEditor**](https://github.com/GizzZmo/SimpleCyberEditor) | simply ai text edit | N/A | 0 | 0 | Jul 14, 2025 |
+| 210 | 📦 [**harmonia_nexus**](https://github.com/GizzZmo/harmonia_nexus) | No description | N/A | 0 | 0 | Jul 21, 2025 |
+| 211 | 📦 [**ToDo**](https://github.com/GizzZmo/ToDo) | The repository serves as a comprehensive implementation of a To-Do List application. According to the README, it is designed using React for building the user interface, TypeScript for ensuring type safety, and Tailwind CSS for styling. The app stores data persistently using the browser's local storage. | N/A | 0 | 0 | Jul 22, 2025 |
+| 212 | 📦 [**Cyber-Sudoku---iOS**](https://github.com/GizzZmo/Cyber-Sudoku---iOS) | Programmed in Swift | Swift | 0 | 0 | Jul 27, 2025 |
+| 213 | 📦 [**Cyber-Sudoku-win-x64**](https://github.com/GizzZmo/Cyber-Sudoku-win-x64) | Cyber Suduko for Windows  | C# | 0 | 0 | Jul 27, 2025 |
+| 214 | 🔱 [**PS4JbEmu**](https://github.com/GizzZmo/PS4JbEmu) | PS4 9.00, 10.0x & 11.00 PPPwn auto jailbreak using Raspberry Pi. PS4 Webkit exploit host and USB Emulator on Raspberry Pi for PS4 9.00 | N/A | 0 | 0 | May 3, 2026 |
+| 215 | 🔱 [**BD-JB-1250**](https://github.com/GizzZmo/BD-JB-1250) | BD-JB for up to PS4 12.50 | Java | 0 | 0 | May 6, 2026 |
+| 216 | 📦 [**CyberEditor-AI_**](https://github.com/GizzZmo/CyberEditor-AI_) | This project, "CyberEditor AI", is a web-based, AI-powered integrated development environment (IDE) that allows users to create, modify, and manage code projects. It leverages Google's Gemini AI for code generation, explanation, refactoring, and debugging, and integrates with GitHub for version control. | TypeScript | 0 | 0 | Aug 27, 2025 |
+| 217 | 🔱 [**Megatron-LM**](https://github.com/GizzZmo/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 0 | Sep 6, 2025 |
+| 218 | 🔱 [**CyberSentinel-AI**](https://github.com/GizzZmo/CyberSentinel-AI) | CyberSentinel AI 是一个自动化安全监控与AI分析系统 | N/A | 0 | 0 | Sep 17, 2025 |
+| 219 | 📦 [**Renewable-Energy**](https://github.com/GizzZmo/Renewable-Energy) | Renewable Energy | HTML | 0 | 0 | Sep 21, 2025 |
+| 220 | 🔱 [**pm2**](https://github.com/GizzZmo/pm2) | Node.js Production Process Manager with a built-in Load Balancer. | JavaScript | 0 | 0 | Oct 14, 2025 |
+| 221 | 📦 [**Mysteries-and-the-known**](https://github.com/GizzZmo/Mysteries-and-the-known) | "Mysteries and the Known" is a captivating exploration of eight of history's most enduring unsolved puzzles. This novel takes readers on a journey through time and across the globe, from the disappearance of pioneering aviator Amelia Earhart to the ancient enigma of Stonehenge, from the chilling murders of Jack the Ripper to the legendary lost city | N/A | 0 | 0 | Sep 26, 2025 |
+| 222 | 📦 [**Socialmedia_API**](https://github.com/GizzZmo/Socialmedia_API) | Crafting a Modern Social Media API: A Blueprint for Developers In an increasingly connected world, the backbone of any successful social media platform is a robust and scalable Application Programming Interface (API). This document outlines a comprehensive API design for a hypothetical social media platform. | JavaScript | 0 | 0 | Aug 21, 2025 |
+| 223 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 0 | 0 | Sep 3, 2025 |
+| 224 | 🔱 [**ipfs-companion**](https://github.com/GizzZmo/ipfs-companion) | Browser extension that simplifies access to IPFS resources on the web | JavaScript | 0 | 0 | Aug 22, 2025 |
+| 225 | 📦 [**Gemini-95**](https://github.com/GizzZmo/Gemini-95) | Retro UI | TypeScript | 0 | 0 | Aug 24, 2025 |
+| 226 | 🔱 [**cccatalog-api**](https://github.com/GizzZmo/cccatalog-api) | Note: Project is discontinued. The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media. | Python | 0 | 0 | May 19, 2021 |
+| 227 | 📦 [**CyberShip**](https://github.com/GizzZmo/CyberShip) | Romskips spill **under utvikling** | C# | 0 | 0 | Sep 30, 2025 |
+| 228 | 📦 [**BlueHat-Security**](https://github.com/GizzZmo/BlueHat-Security) | No description | Python | 0 | 0 | Oct 8, 2025 |
+| 229 | 🔱 [**TypeScript**](https://github.com/GizzZmo/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 0 | 0 | Apr 10, 2024 |
+| 230 | 🔱 [**frontend**](https://github.com/GizzZmo/frontend) | :lollipop: Frontend for Home Assistant | TypeScript | 0 | 0 | Feb 16, 2025 |
+| 231 | 🔱 [**core**](https://github.com/GizzZmo/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 0 | 0 | Feb 16, 2025 |
+| 232 | 📦 [**Tutorial-**](https://github.com/GizzZmo/Tutorial-) | template | Python | 0 | 0 | Oct 22, 2025 |
+| 233 | 🔱 [**agent-zero**](https://github.com/GizzZmo/agent-zero) | Agent Zero AI framework | Python | 0 | 0 | Sep 12, 2025 |
+| 234 | 📦 [**Kaleidoscope-**](https://github.com/GizzZmo/Kaleidoscope-) | just another eye candy | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 235 | 📦 [**AI-Chess-Set-Generator**](https://github.com/GizzZmo/AI-Chess-Set-Generator) | Envision a theme, and let AI craft a unique, consistent set of chess pices for you.  | TypeScript | 0 | 0 | Oct 27, 2025 |
+| 236 | 📦 [**Mercurial-AI-Browser**](https://github.com/GizzZmo/Mercurial-AI-Browser) | AI driven web browser | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 237 | 📦 [**Nmap-Visualizer-AI**](https://github.com/GizzZmo/Nmap-Visualizer-AI) | AI driven Nmap visualizer | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 238 | 🔱 [**backstage**](https://github.com/GizzZmo/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | 0 | Nov 4, 2025 |
+| 239 | 🔱 [**django-sandbox**](https://github.com/GizzZmo/django-sandbox) | A simple Django sandbox leveraging importd. | Python | 0 | 0 | Jan 11, 2022 |
+| 240 | 🔱 [**vaas**](https://github.com/GizzZmo/vaas) | VaaS | Python | 0 | 0 | Feb 16, 2025 |
+| 241 | 🔱 [**jupyterlab**](https://github.com/GizzZmo/jupyterlab) | JupyterLab computational environment. | TypeScript | 0 | 0 | Oct 20, 2025 |
+| 242 | 🔱 [**web3modal**](https://github.com/GizzZmo/web3modal) | A single Web3 provider solution for all Wallets | TypeScript | 0 | 0 | Sep 17, 2024 |
+| 243 | 🔱 [**content**](https://github.com/GizzZmo/content) | The content behind MDN Web Docs | Markdown | 0 | 0 | Nov 20, 2023 |
+| 244 | 🔱 [**get-version-action**](https://github.com/GizzZmo/get-version-action) | A GitHub Action which extracts the version from github.ref | JavaScript | 0 | 0 | Mar 3, 2024 |
+| 245 | 🔱 [**developers.home-assistant**](https://github.com/GizzZmo/developers.home-assistant) | Developers website for Home Assistant. | JavaScript | 0 | 0 | Feb 16, 2025 |
+| 246 | 🔱 [**move**](https://github.com/GizzZmo/move) | No description | Rust | 0 | 0 | May 12, 2025 |
+| 247 | 🔱 [**Avalonia**](https://github.com/GizzZmo/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. | C# | 0 | 0 | Dec 16, 2023 |
+| 248 | 🔱 [**vscode-cpptools**](https://github.com/GizzZmo/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 0 | 0 | Sep 30, 2025 |
+| 249 | 🔱 [**vscode-python**](https://github.com/GizzZmo/vscode-python) | Python extension for Visual Studio Code | TypeScript | 0 | 0 | Mar 19, 2025 |
+| 250 | 🔱 [**runner**](https://github.com/GizzZmo/runner) | The Runner for GitHub Actions :rocket: | C# | 0 | 0 | Jan 11, 2022 |
+| 251 | 🔱 [**aws-api-gateway-developer-portal**](https://github.com/GizzZmo/aws-api-gateway-developer-portal) | This application provides a reference implementation that presents APIs on API Gateway as a catalog for 3rd party access | JavaScript | 0 | 0 | Jul 6, 2023 |
+| 252 | 🔱 [**tracee**](https://github.com/GizzZmo/tracee) | Linux Runtime Security and Forensics using eBPF | Go | 0 | 0 | Nov 17, 2025 |
+| 253 | 📦 [**3d-Matrix-Sudoku**](https://github.com/GizzZmo/3d-Matrix-Sudoku) | Transform your mind with 3D Sudoku Matrix - a next-generation puzzle game that combines the classic logic of Sudoku with cutting-edge cyberpunk aesthetics and modern software architecture. Built with a multi-language microservices architecture following OSI model principles, this Progressive Web App delivers an immersive gaming experience with offl | TypeScript | 0 | 0 | Oct 29, 2025 |
+| 254 | 📦 [**Cybernetic-Navigator**](https://github.com/GizzZmo/Cybernetic-Navigator) | AI driven webbrowser | TypeScript | 0 | 0 | Oct 31, 2025 |
+| 255 | 📦 [**data_analytics**](https://github.com/GizzZmo/data_analytics) | No description | Jupyter Notebook | 0 | 0 | Nov 20, 2025 |
+| 256 | 🔱 [**actions-gh-pages**](https://github.com/GizzZmo/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | TypeScript | 0 | 0 | Dec 21, 2025 |
+| 257 | 🔱 [**cookbook**](https://github.com/GizzZmo/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 0 | 0 | Jun 28, 2025 |
+| 258 | 🔱 [**Ai-pentester**](https://github.com/GizzZmo/Ai-pentester) | AI Penetration Testing Assistant License: GPL v3 Python 3.8+  An intelligent desktop application that assists security professionals with penetration testing by leveraging Large Language Models (LLMs) to interpret high-level security goals and suggest specific commands for execution. | Python | 0 | 0 | Dec 7, 2025 |
+| 259 | 📦 [**Marvel-Universe-Idea-Creator-Tool**](https://github.com/GizzZmo/Marvel-Universe-Idea-Creator-Tool) | cartoon generator | TypeScript | 0 | 0 | Dec 13, 2025 |
+| 260 | 🔱 [**crypto_trader**](https://github.com/GizzZmo/crypto_trader) | Crypto trading bot, enhanced with llm | Python | 0 | 0 | Dec 13, 2025 |
+| 261 | 📦 [**Fibonoku**](https://github.com/GizzZmo/Fibonoku) | Sudoku clone | TypeScript | 0 | 0 | Dec 17, 2025 |
+| 262 | 🔱 [**KratosKnife**](https://github.com/GizzZmo/KratosKnife) | KratosKnife is a Advanced BOTNET Written in python 3 for Windows OS. Comes With Lot of Advanced Features such as Persistence & VM Detection Methods, Built-in Binder, etc | Python | 0 | 0 | Dec 21, 2025 |
+| 263 | 📦 [**Omni-Grid**](https://github.com/GizzZmo/Omni-Grid) | No description | Jupyter Notebook | 0 | 0 | Dec 21, 2025 |
+| 264 | 📦 [**literate-octo-pancake**](https://github.com/GizzZmo/literate-octo-pancake) | https://omni-grid-2-0-architect-256533412071.us-west1.run.app | Python | 0 | 0 | Dec 28, 2025 |
+| 265 | 📦 [**Arena**](https://github.com/GizzZmo/Arena) | This script implements a chess game where Stockfish plays against the Gemini AI. It includes functionality for move generation, game play, and saving the game data in PGN format. | Python | 0 | 0 | Jan 3, 2026 |
+| 266 | 📦 [**the-terminal**](https://github.com/GizzZmo/the-terminal) | python script | HTML | 0 | 0 | Jan 4, 2026 |
+| 267 | 📦 [**GM-3000**](https://github.com/GizzZmo/GM-3000) | Chess | TypeScript | 0 | 0 | Jan 4, 2026 |
+| 268 | 📦 [**Circse-of-Fifths**](https://github.com/GizzZmo/Circse-of-Fifths) | Music Theory | TypeScript | 0 | 0 | Jan 11, 2026 |
+| 269 | 📦 [**Lumina**](https://github.com/GizzZmo/Lumina) | Din AI assistent koblet til verdenskunnskapen | TypeScript | 0 | 0 | Jan 11, 2026 |
+| 270 | 📦 [**AI-KING**](https://github.com/GizzZmo/AI-KING) | AI KING is a comprehensive generative general intelligence platform powered by Large Language Models (LLM). The system features trained AI agents coordinated by an intelligent orchestrator, supported by a rich ecosystem of helpers and tools. | HTML | 0 | 0 | Jan 14, 2026 |
+| 271 | 🔱 [**gemma_pytorch**](https://github.com/GizzZmo/gemma_pytorch) | The official PyTorch implementation of Google's Gemma models | Python | 0 | 0 | Feb 23, 2024 |
+| 272 | 🔱 [**cua**](https://github.com/GizzZmo/cua) | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | Python | 0 | 0 | Jan 25, 2026 |
+| 273 | 🔱 [**fossology**](https://github.com/GizzZmo/fossology) | FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. | PHP | 0 | 0 | Dec 22, 2023 |
+| 274 | 📦 [**Sentinel**](https://github.com/GizzZmo/Sentinel) | Project Sentinel is a browser-based, AI-powered security analysis platform. It features real-time face and emotion recognition, device clustering, GPS mapping, and predictive analytics using the Gemini API. The system builds a persistent, cloud-backed database of individuals, enabling advanced situational awareness and threat prediction.  | HTML | 0 | 0 | Sep 16, 2025 |
+| 275 | 🔱 [**glasnost**](https://github.com/GizzZmo/glasnost) | Parsing and working with the data from the glasnost measurement lab test. | Python | 0 | 0 | Apr 20, 2025 |
+| 276 | 📦 [**AI-Task-Manager**](https://github.com/GizzZmo/AI-Task-Manager) | Windows AI Task Manager | TypeScript | 0 | 0 | Mar 22, 2026 |
+| 277 | 🔱 [**etcher**](https://github.com/GizzZmo/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | TypeScript | 0 | 0 | Mar 23, 2026 |
+| 278 | 📦 [**PR**](https://github.com/GizzZmo/PR) | Simply PR | HTML | 0 | 0 | Mar 26, 2026 |
+| 279 | 🔱 [**chromium**](https://github.com/GizzZmo/chromium) | The official GitHub mirror of the Chromium source | C++ | 0 | 0 | Aug 14, 2025 |
+| 280 | 🔱 [**maven**](https://github.com/GizzZmo/maven) | Apache Maven core | Java | 0 | 0 | Jul 7, 2024 |
 | 281 | 🔱 [**mitreattack-python**](https://github.com/GizzZmo/mitreattack-python) | A python module for working with ATT&CK | HTML | 0 | 0 | Apr 1, 2026 |
 | 282 | 📦 [**Codex**](https://github.com/GizzZmo/Codex) | No description | HTML | 0 | 0 | Apr 8, 2026 |
 | 283 | 📦 [**Ledger_Mechanics**](https://github.com/GizzZmo/Ledger_Mechanics) | Lumina Ledger is a decentralised impact-accounting system that lets users submit verifiable sustainability actions (energy saved, capital redirected, behaviour changes) to the blockchain and receive an on-chain reputation score via a soulbound NFT. | JavaScript | 0 | 0 | Apr 8, 2026 |
@@ -972,16 +972,16 @@ Here are some of the most popular repositories:
    - 💻 Language: TypeScript
    - ⭐ Stars: 12
 
-2. **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** - Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar.
+2. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
+   - 💻 Language: JavaScript
+   - ⭐ Stars: 5
+
+3. **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** - Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar.
    - 💻 Language: C++
    - ⭐ Stars: 5
 
-3. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
+4. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
    - 💻 Language: TypeScript
-   - ⭐ Stars: 4
-
-4. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
-   - 💻 Language: JavaScript
    - ⭐ Stars: 4
 
 5. **[CIA-HACKING-TOOLS-Rev-2](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2)** - CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA
