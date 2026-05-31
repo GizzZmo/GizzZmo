@@ -54,7 +54,17 @@ I bridge human creativity and machine intelligence — building AI systems, prof
 | **Creative**    | Logic Pro, FastTracker 2, Sound Design, Digital Art |
 
 ---
+### About Me
+I build software across AI, automation, security, creative technology, and strategy systems.
 
+My projects range from multi-agent platforms and intelligent interfaces to cybersecurity tooling, audio software, and experimental game systems. I like building things that feel both practical and visionary — tools you can use today, shaped like systems that could grow into something much bigger.
+
+Focus
+Agentic AI — assistants, orchestration, autonomous workflows
+Security Engineering — monitoring, threat analysis, defensive automation
+Creative Software — DSP, generative workflows, interactive tools
+Strategy Systems — chess, training loops, game logic, experimentation
+Developer Tooling — utilities, shells, interfaces, productivity systems
 ---
 
 ### ⚡ **FLAGSHIP** → Omni-Grid 2.0
