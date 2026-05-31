@@ -61,10 +61,15 @@ My projects range from multi-agent platforms and intelligent interfaces to cyber
 
 Focus
 Agentic AI — assistants, orchestration, autonomous workflows
+
 Security Engineering — monitoring, threat analysis, defensive automation
+
 Creative Software — DSP, generative workflows, interactive tools
+
 Strategy Systems — chess, training loops, game logic, experimentation
+
 Developer Tooling — utilities, shells, interfaces, productivity systems
+
 ---
 
 ### ⚡ **FLAGSHIP** → Omni-Grid 2.0
