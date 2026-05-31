@@ -54,7 +54,7 @@ I bridge human creativity and machine intelligence — building AI systems, prof
 | **Creative**    | Logic Pro, FastTracker 2, Sound Design, Digital Art |
 
 ---
-### About Me
+About Me
 I build software across AI, automation, security, creative technology, and strategy systems.
 
 My projects range from multi-agent platforms and intelligent interfaces to cybersecurity tooling, audio software, and experimental game systems. I like building things that feel both practical and visionary — tools you can use today, shaped like systems that could grow into something much bigger.
