@@ -227,4 +227,4 @@ And decide what to do with the VST3-Public-SDK reference.
 
 ---
 
-*Generated: October 19, 2025*
+*Generated: June 28, 2026*

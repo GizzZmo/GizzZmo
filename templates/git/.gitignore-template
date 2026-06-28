@@ -173,7 +173,6 @@ go.work
 # ===========================
 
 # Dependency directories
-node_modules/
 jspm_packages/
 bower_components/
 

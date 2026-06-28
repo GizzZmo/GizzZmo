@@ -20,7 +20,7 @@ const PINNED_REPOS_END = '<!-- DYNAMIC_REPOS_END -->';
  */
 async function fetchPinnedRepositories() {
   console.log('📌 Fetching pinned repositories from GitHub...');
-  
+
   const query = `
     query {
       user(login: "${USERNAME}") {
@@ -40,17 +40,17 @@ async function fetchPinnedRepositories() {
       }
     }
   `;
-  
+
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-  
+
   if (!token) {
     console.log('⚠️ No GitHub token found, using REST API fallback...');
     return await fetchPinnedReposRestAPI();
   }
-  
+
   return new Promise((resolve, reject) => {
     const data = JSON.stringify({ query });
-    
+
     const options = {
       hostname: 'api.github.com',
       path: '/graphql',
@@ -62,31 +62,31 @@ async function fetchPinnedRepositories() {
         'Authorization': `Bearer ${token}`
       }
     };
-    
+
     const req = https.request(options, (res) => {
       let responseData = '';
-      
+
       res.on('data', (chunk) => {
         responseData += chunk;
       });
-      
+
       res.on('end', () => {
         try {
           const response = JSON.parse(responseData);
-          
+
           if (response.errors) {
             console.error('❌ GraphQL errors:', response.errors);
             console.log('⚠️ Falling back to REST API...');
             resolve(fetchPinnedReposRestAPI());
             return;
           }
-          
+
           if (!response.data || !response.data.user || !response.data.user.pinnedItems) {
             console.error('❌ Invalid response structure');
             resolve(fetchPinnedReposRestAPI());
             return;
           }
-          
+
           const pinnedRepos = response.data.user.pinnedItems.nodes;
           console.log(`✅ Fetched ${pinnedRepos.length} pinned repositories`);
           resolve(pinnedRepos);
@@ -96,12 +96,12 @@ async function fetchPinnedRepositories() {
         }
       });
     });
-    
+
     req.on('error', (error) => {
       console.error('❌ Error fetching pinned repos:', error.message);
       resolve(fetchPinnedReposRestAPI());
     });
-    
+
     req.write(data);
     req.end();
   });
@@ -112,7 +112,7 @@ async function fetchPinnedRepositories() {
  */
 async function fetchPinnedReposRestAPI() {
   console.log('📚 Using REST API fallback for pinned repositories...');
-  
+
   return new Promise((resolve, reject) => {
     const options = {
       hostname: 'api.github.com',
@@ -122,24 +122,24 @@ async function fetchPinnedReposRestAPI() {
         'User-Agent': 'GizzZmo-Profile-Generator'
       }
     };
-    
+
     const req = https.request(options, (res) => {
       let data = '';
-      
+
       res.on('data', (chunk) => {
         data += chunk;
       });
-      
+
       res.on('end', () => {
         try {
           const repos = JSON.parse(data);
-          
+
           if (!Array.isArray(repos)) {
             console.error('❌ Invalid response from GitHub API');
             resolve([]);
             return;
           }
-          
+
           // Get top 6 starred repos that aren't forks or archived
           const topRepos = repos
             .filter(repo => !repo.private && !repo.fork && !repo.archived)
@@ -152,7 +152,7 @@ async function fetchPinnedReposRestAPI() {
               stargazerCount: repo.stargazers_count,
               primaryLanguage: repo.language ? { name: repo.language } : null
             }));
-          
+
           console.log(`✅ Using top ${topRepos.length} starred repos as pinned repos`);
           resolve(topRepos);
         } catch (error) {
@@ -161,12 +161,12 @@ async function fetchPinnedReposRestAPI() {
         }
       });
     });
-    
+
     req.on('error', (error) => {
       console.error('❌ Error fetching from REST API:', error.message);
       resolve([]);
     });
-    
+
     req.end();
   });
 }
@@ -176,7 +176,7 @@ async function fetchPinnedReposRestAPI() {
  */
 function getLanguageBadge(language) {
   if (!language) return '![N/A](https://img.shields.io/badge/N/A-gray?style=flat-square)';
-  
+
   const languageColors = {
     'JavaScript': { color: 'F7DF1E', logo: 'javascript', logoColor: 'black' },
     'TypeScript': { color: '3178C6', logo: 'typescript', logoColor: 'white' },
@@ -200,7 +200,7 @@ function getLanguageBadge(language) {
     'Clojure': { color: '5881D8', logo: 'clojure', logoColor: 'white' },
     'Lua': { color: '2C2D72', logo: 'lua', logoColor: 'white' }
   };
-  
+
   const config = languageColors[language] || { color: 'gray', logo: 'code', logoColor: 'white' };
   return `![${language}](https://img.shields.io/badge/${encodeURIComponent(language)}-${config.color}?style=flat-square&logo=${config.logo}&logoColor=${config.logoColor})`;
 }
@@ -210,18 +210,18 @@ function getLanguageBadge(language) {
  */
 function generatePinnedReposMarkdown(repos) {
   console.log('📝 Generating pinned repositories markdown...');
-  
+
   if (!repos || repos.length === 0) {
     console.log('⚠️ No pinned repositories found');
     return `| Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
 | *No pinned repositories* | Update your pinned repositories on GitHub | - | - |`;
   }
-  
+
   let markdown = `| Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
 `;
-  
+
   repos.forEach(repo => {
     const name = repo.name;
     const description = (repo.description || 'No description')
@@ -232,10 +232,10 @@ function generatePinnedReposMarkdown(repos) {
     const language = repo.primaryLanguage ? getLanguageBadge(repo.primaryLanguage.name) : '![N/A](https://img.shields.io/badge/N/A-gray?style=flat-square)';
     const stars = `![Stars](https://img.shields.io/github/stars/${USERNAME}/${name}?style=flat-square)`;
     const url = repo.url;
-    
+
     markdown += `| 📝 **[${name}](${url})** | ${description} | ${language} | ${stars} |\n`;
   });
-  
+
   return markdown;
 }
 
@@ -244,28 +244,28 @@ function generatePinnedReposMarkdown(repos) {
  */
 function updateReadme(pinnedReposMarkdown) {
   console.log('📄 Updating README with pinned repositories...');
-  
+
   try {
     let readmeContent = fs.readFileSync(README_PATH, 'utf8');
-    
+
     if (!readmeContent.includes(PINNED_REPOS_START) || !readmeContent.includes(PINNED_REPOS_END)) {
       console.error('❌ Pinned repos markers not found in README');
       return false;
     }
-    
+
     const regex = new RegExp(
       `${PINNED_REPOS_START}[\\s\\S]*?${PINNED_REPOS_END}`,
       'g'
     );
-    
+
     readmeContent = readmeContent.replace(
       regex,
       `${PINNED_REPOS_START}\n${pinnedReposMarkdown}\n${PINNED_REPOS_END}`
     );
-    
+
     fs.writeFileSync(README_PATH, readmeContent);
     console.log('✅ README updated successfully with pinned repositories');
-    
+
     return true;
   } catch (error) {
     console.error('❌ Error updating README:', error.message);
@@ -278,22 +278,22 @@ function updateReadme(pinnedReposMarkdown) {
  */
 async function main() {
   console.log('🚀 Starting pinned repositories update...\n');
-  
+
   // Fetch pinned repositories
   const pinnedRepos = await fetchPinnedRepositories();
-  
+
   if (!pinnedRepos || pinnedRepos.length === 0) {
     console.log('⚠️ No pinned repositories found');
     console.log('ℹ️  Make sure you have pinned repositories on your GitHub profile');
     console.log('ℹ️  Or ensure GH_TOKEN is set for authenticated API access');
   }
-  
+
   // Generate markdown
   const markdown = generatePinnedReposMarkdown(pinnedRepos);
-  
+
   // Update README
   const success = updateReadme(markdown);
-  
+
   if (success) {
     console.log('\n🎉 Pinned repositories update completed successfully!');
     process.exit(0);
