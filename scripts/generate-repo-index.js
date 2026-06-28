@@ -35,30 +35,30 @@ function execCommand(command) {
  */
 async function fetchRepositories() {
   console.log('📚 Fetching repositories from GitHub...');
-  
+
   try {
     // Check if GH_TOKEN is available
     if (!process.env.GH_TOKEN && !process.env.GITHUB_TOKEN) {
       console.log('⚠️ GH_TOKEN not found, using GitHub API fallback...');
       return await fetchRepositoriesViaAPI();
     }
-    
+
     // Use gh CLI to fetch repositories
     const command = `gh repo list ${USERNAME} --limit 1000 --json name,description,url,stargazerCount,forkCount,primaryLanguage,isPrivate,isFork,isArchived,updatedAt,createdAt,pushedAt --jq 'sort_by(.stargazerCount) | reverse'`;
     const output = execCommand(command);
-    
+
     if (!output) {
       console.log('⚠️ gh CLI failed, trying API fallback...');
       return await fetchRepositoriesViaAPI();
     }
-    
+
     const repos = JSON.parse(output);
     console.log(`✅ Fetched ${repos.length} repositories`);
-    
+
     // Filter out private repos and return
     const publicRepos = repos.filter(repo => !repo.isPrivate);
     console.log(`📊 ${publicRepos.length} public repositories`);
-    
+
     return publicRepos;
   } catch (error) {
     console.error('❌ Error fetching repositories:', error.message);
@@ -72,7 +72,7 @@ async function fetchRepositories() {
  */
 async function fetchRepositoriesViaAPI() {
   console.log('📚 Fetching repositories via GitHub API...');
-  
+
   const https = require('https');
 
   function fetchPage(page) {
@@ -157,7 +157,7 @@ async function fetchRepositoriesViaAPI() {
  */
 function calculateStats(repos) {
   console.log('📊 Calculating statistics...');
-  
+
   const stats = {
     totalRepos: repos.length,
     totalStars: repos.reduce((sum, repo) => sum + (repo.stargazerCount || 0), 0),
@@ -167,7 +167,7 @@ function calculateStats(repos) {
     archivedRepos: repos.filter(repo => repo.isArchived).length,
     languages: {}
   };
-  
+
   // Count languages
   repos.forEach(repo => {
     if (repo.primaryLanguage && repo.primaryLanguage.name) {
@@ -175,17 +175,17 @@ function calculateStats(repos) {
       stats.languages[lang] = (stats.languages[lang] || 0) + 1;
     }
   });
-  
+
   // Get most used language
   const sortedLanguages = Object.entries(stats.languages)
     .sort((a, b) => b[1] - a[1]);
-  
+
   stats.topLanguage = sortedLanguages.length > 0 ? sortedLanguages[0][0] : 'N/A';
   stats.topLanguageCount = sortedLanguages.length > 0 ? sortedLanguages[0][1] : 0;
-  
+
   console.log(`✅ Total: ${stats.totalRepos} repos, ${stats.totalStars} stars, ${stats.totalForks} forks`);
   console.log(`✅ Top language: ${stats.topLanguage} (${stats.topLanguageCount} repos)`);
-  
+
   return stats;
 }
 
@@ -194,7 +194,7 @@ function calculateStats(repos) {
  */
 function generateStatsBadges(stats) {
   console.log('🎨 Generating statistics badges...');
-  
+
   const badges = `
 #### 📊 Vital Signs
 
@@ -221,7 +221,7 @@ ${Object.entries(stats.languages)
   .map(([lang, count]) => `- **${lang}**: ${count} ${count === 1 ? 'repository' : 'repositories'}`)
   .join('\n')}
 `;
-  
+
   return badges;
 }
 
@@ -230,7 +230,7 @@ ${Object.entries(stats.languages)
  */
 function generateRepoIndex(repos) {
   console.log('📝 Generating repository index...');
-  
+
   let indexMd = `
 ## 📚 Complete Repository Index
 
@@ -254,12 +254,12 @@ function generateRepoIndex(repos) {
     const stars = repo.stargazerCount || 0;
     const forks = repo.forkCount || 0;
     const url = repo.url;
-    const updatedDate = new Date(repo.updatedAt).toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'short', 
-      day: 'numeric' 
+    const updatedDate = new Date(repo.updatedAt).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
     });
-    
+
     // Add emoji for special repos
     let emoji = '📦';
     if (repo.isFork) emoji = '🔱';
@@ -267,10 +267,10 @@ function generateRepoIndex(repos) {
     if (stars > 10) emoji = '⭐';
     if (stars > 50) emoji = '🌟';
     if (stars > 100) emoji = '✨';
-    
+
     indexMd += `| ${index + 1} | ${emoji} [**${name}**](${url}) | ${description} | ${language} | ${stars} | ${forks} | ${updatedDate} |\n`;
   });
-  
+
   indexMd += `
 </details>
 
@@ -284,19 +284,19 @@ Here are some of the most popular repositories:
   const topRepos = repos
     .filter(repo => !repo.isArchived)
     .slice(0, 5);
-  
+
   topRepos.forEach((repo, index) => {
     const name = repo.name;
     const description = repo.description || 'No description';
     const language = repo.primaryLanguage ? repo.primaryLanguage.name : 'N/A';
     const stars = repo.stargazerCount || 0;
     const url = repo.url;
-    
+
     indexMd += `${index + 1}. **[${name}](${url})** - ${description}\n`;
     indexMd += `   - 💻 Language: ${language}\n`;
     indexMd += `   - ⭐ Stars: ${stars}\n\n`;
   });
-  
+
   return indexMd;
 }
 
@@ -305,10 +305,10 @@ Here are some of the most popular repositories:
  */
 function updateReadme(statsBadges, repoIndex) {
   console.log('📄 Updating README...');
-  
+
   try {
     let readmeContent = fs.readFileSync(README_PATH, 'utf8');
-    
+
     // Update stats badges section
     if (readmeContent.includes(STATS_BADGES_START) && readmeContent.includes(STATS_BADGES_END)) {
       const statsRegex = new RegExp(
@@ -331,7 +331,7 @@ function updateReadme(statsBadges, repoIndex) {
         );
       }
     }
-    
+
     // Update repo index section
     if (readmeContent.includes(REPO_INDEX_START) && readmeContent.includes(REPO_INDEX_END)) {
       const indexRegex = new RegExp(
@@ -354,10 +354,10 @@ function updateReadme(statsBadges, repoIndex) {
         );
       }
     }
-    
+
     fs.writeFileSync(README_PATH, readmeContent);
     console.log('✅ README updated successfully');
-    
+
     return true;
   } catch (error) {
     console.error('❌ Error updating README:', error.message);
@@ -370,7 +370,7 @@ function updateReadme(statsBadges, repoIndex) {
  */
 async function main() {
   console.log('🚀 Starting repository index generation...\n');
-  
+
   // Fetch repositories
   const repos = await fetchRepositories();
   if (!repos || repos.length === 0) {
@@ -379,17 +379,17 @@ async function main() {
     console.log('ℹ️  The script will work correctly in GitHub Actions with GH_TOKEN set.');
     process.exit(0); // Exit gracefully instead of with error
   }
-  
+
   // Calculate statistics
   const stats = calculateStats(repos);
-  
+
   // Generate content
   const statsBadges = generateStatsBadges(stats);
   const repoIndex = generateRepoIndex(repos);
-  
+
   // Update README
   const success = updateReadme(statsBadges, repoIndex);
-  
+
   if (success) {
     console.log('\n🎉 Repository index generation completed successfully!');
     process.exit(0);

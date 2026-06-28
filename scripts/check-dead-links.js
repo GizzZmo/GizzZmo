@@ -92,10 +92,15 @@ function extractUrls(filePath) {
   let match;
 
   while ((match = URL_REGEX.exec(content)) !== null) {
-    const url = match[1].replace(/[.,;:]$/, ''); // Remove trailing punctuation
+    let url = match[1];
+    if (url.endsWith('M.A.V.E.R.I.C.K.')) {
+      // Preserve the trailing dot for this specific repo
+    } else {
+      url = url.replace(/[.,;:]$/, ''); // Remove trailing punctuation
+    }
     urls.push(url);
     results.uniqueUrls.add(url);
-    
+
     // Track which files contain which URLs
     if (!results.urlToFiles.has(url)) {
       results.urlToFiles.set(url, []);
@@ -122,7 +127,7 @@ function checkUrl(url, redirectCount = 0) {
 
     // Skip certain hostnames that are known to block automated checks
     const hostname = urlObj.hostname;
-    if (hostname === 'shields.io' || 
+    if (hostname === 'shields.io' ||
         hostname === 'img.shields.io' ||
         hostname === 'komarev.com' ||
         hostname === 'github-readme-stats.vercel.app' ||
@@ -327,7 +332,7 @@ async function interactiveFix() {
             let content = fs.readFileSync(file, 'utf-8');
             const originalContent = content;
             content = content.split(deadLink.url).join(newUrl.trim());
-            
+
             if (content !== originalContent) {
               fs.writeFileSync(file, content, 'utf-8');
               filesUpdated++;
@@ -367,35 +372,48 @@ async function main() {
 
   console.log(`Found ${colors.blue}${results.totalUrls}${colors.reset} total URLs (${colors.blue}${results.uniqueUrls.size}${colors.reset} unique).\n`);
 
-  // Check each unique URL
+  // Check each unique URL in parallel with concurrency limit
   console.log('Checking URLs...\n');
   const urlArray = Array.from(results.uniqueUrls);
-  
-  for (let i = 0; i < urlArray.length; i++) {
-    const url = urlArray[i];
-    process.stdout.write(`\rChecking ${i + 1}/${urlArray.length}: ${url.substring(0, 60)}...`);
+  const CONCURRENCY = 25;
+  let completed = 0;
 
-    try {
-      const result = await checkUrl(url);
+  async function worker(queue) {
+    while (queue.length > 0) {
+      const url = queue.shift();
+      if (!url) continue;
 
-      if (result.status === 'ok') {
-        results.workingLinks.push(result);
-      } else if (result.status === 'skipped') {
-        results.skippedLinks.push(result);
-      } else {
-        results.deadLinks.push(result);
+      try {
+        const result = await checkUrl(url);
+
+        if (result.status === 'ok') {
+          results.workingLinks.push(result);
+        } else if (result.status === 'skipped') {
+          results.skippedLinks.push(result);
+        } else {
+          results.deadLinks.push(result);
+        }
+      } catch (error) {
+        results.deadLinks.push({
+          url,
+          status: 'error',
+          reason: error.message,
+        });
       }
-    } catch (error) {
-      results.deadLinks.push({
-        url,
-        status: 'error',
-        reason: error.message,
-      });
-    }
 
-    // Small delay to avoid overwhelming servers
-    await new Promise(resolve => setTimeout(resolve, 100));
+      completed++;
+      process.stdout.write(`\rChecking ${completed}/${urlArray.length}: ${url.substring(0, 40)}...${' '.repeat(20)}`);
+      // Small delay to avoid overwhelming servers
+      await new Promise(resolve => setTimeout(resolve, 50));
+    }
   }
+
+  const queue = [...urlArray];
+  const workers = [];
+  for (let i = 0; i < Math.min(CONCURRENCY, queue.length); i++) {
+    workers.push(worker(queue));
+  }
+  await Promise.all(workers);
 
   console.log('\n');
   printSummary();

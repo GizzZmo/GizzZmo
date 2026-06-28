@@ -241,4 +241,4 @@ If you encounter issues with any scripts:
 
 ---
 
-*Last updated: October 19, 2025*
+*Last updated: June 28, 2026*
