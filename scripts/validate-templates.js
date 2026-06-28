@@ -33,7 +33,9 @@ function validateGitignore(filePath, content) {
   const issues = [];
   
   // Check for common issues
-  if (content.includes('node_modules/') && content.includes('node_modules')) {
+  const lines = content.split('\n');
+  const nodeModulesLines = lines.filter(line => !line.trim().startsWith('#') && line.includes('node_modules'));
+  if (nodeModulesLines.length > 1) {
     issues.push('Redundant node_modules entries');
   }
   
@@ -41,7 +43,12 @@ function validateGitignore(filePath, content) {
     issues.push('No comments found - consider adding section headers');
   }
   
-  if (content.includes('secret') || content.includes('password') || content.includes('key')) {
+  // Check for generic placeholder patterns
+  const hasGenericSensitives = lines.some(line => {
+    const trimmed = line.trim();
+    return !trimmed.startsWith('#') && (trimmed === 'secret' || trimmed === 'secrets' || trimmed === 'password' || trimmed === 'passwords' || trimmed === 'key' || trimmed === 'keys');
+  });
+  if (hasGenericSensitives) {
     issues.push('Consider adding more specific patterns for sensitive files');
   }
   
@@ -273,12 +280,12 @@ function generateReport(results) {
       });
   }
   
-  const successRate = ((validFiles / totalFiles) * 100).toFixed(1);
-  console.log(`\nSuccess rate: ${successRate}%`);
+  const successRate = ((validFiles / totalFiles) * 100);
+  console.log(`\nSuccess rate: ${successRate.toFixed(1)}%`);
   
-  if (successRate === '100.0') {
+  if (successRate === 100) {
     console.log('\n🎉 All templates are valid!');
-  } else if (successRate >= '80.0') {
+  } else if (successRate >= 80) {
     console.log('\n👍 Most templates are valid, minor issues found');
   } else {
     console.log('\n⚠️ Several issues found, please review templates');
