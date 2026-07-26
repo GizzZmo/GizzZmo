@@ -166,7 +166,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-312-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-313-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-169-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-32-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-Python-red?style=for-the-badge&logo=code)
@@ -175,7 +175,7 @@ When I'm not writing code, I'm composing soundscapes:
 
 ##### Repository Breakdown
 
-- **Original Repositories**: 124
+- **Original Repositories**: 125
 - **Forked Repositories**: 188
 - **Archived Repositories**: 0
 
@@ -676,7 +676,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (312 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (313 repositories)</summary>
 
 ### All Public Repositories
 
@@ -694,7 +694,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 10 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 2 | Apr 22, 2026 |
 | 11 | 📦 [**ps4**](https://github.com/GizzZmo/ps4) | **PS4 Mach-O Loader** is a proof-of-concept that demonstrates how a Mach-O 64-bit binary — normally only executable on macOS/Darwin — can be mapped and run on the PS4's FreeBSD-based kernel. It is intended purely for educational and research purposes, showing how binary loaders work at the OS level and how CPU-architecture compatibility works. | C | 2 | 0 | Jul 2, 2026 |
 | 12 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 2 | 1 | Jul 24, 2026 |
-| 13 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Jul 24, 2026 |
+| 13 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Jul 25, 2026 |
 | 14 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 15 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 16 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -809,7 +809,7 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 125 | 📦 [**Hi-World**](https://github.com/GizzZmo/Hi-World) | letter to the world | N/A | 1 | 0 | Jun 20, 2026 |
 | 126 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
 | 127 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Jul 9, 2026 |
-| 128 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jul 24, 2026 |
+| 128 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jul 25, 2026 |
 | 129 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 130 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 131 | 🔱 [**p2p-adb**](https://github.com/GizzZmo/p2p-adb) | Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones. | Shell | 0 | 0 | Jul 12, 2026 |
@@ -992,8 +992,9 @@ DSP ──────── Custom VST/AU • Real-time Processing
 | 308 | 📦 [**Infiniti**](https://github.com/GizzZmo/Infiniti) | Infiniti A UCI chess engine written in C++20, featuring bitboard-based move generation, a tapered hand-crafted evaluator with NNUE support, and an alpha-beta search with modern pruning techniques. | C++ | 0 | 0 | May 31, 2026 |
 | 309 | 📦 [**Omnigrid-mk4-**](https://github.com/GizzZmo/Omnigrid-mk4-) | The system is divided into four isolated operational planes:  1. **The Audio Bus (Core DSP):** Bare-metal C++ executing SIMD instructions. Runs on a dedicated hardware interrupt with a strict 0.66ms processing budget (64 samples @ 96kHz). Zero mutexes. Zero system calls. 2. **The DMZ (HAL):** Lock-free ring buffers (`hal_dmz/lock_free_queue.h`) fac | Makefile | 0 | 0 | Jul 3, 2026 |
 | 310 | 🔱 [**recon-modular**](https://github.com/GizzZmo/recon-modular) | 🛡️ AI-powered reconnaissance framework unifying 130+ security tools — subdomain enum, vuln scanning, cloud/IoT recon, dark web monitoring & blockchain-audited reporting. GAN-driven subdomain prediction, distributed execution post-quantum encryption. Built for bug bounty, red team & DevSecOps. | Shell | 0 | 0 | Jul 24, 2026 |
-| 311 | 🔱 [**mufifa-2026**](https://github.com/GizzZmo/mufifa-2026) | The intersection of open-source collaboration, gamified education, and large-scale technical tournaments presents unique engineering challenges that require robust, scalable, and secure infrastructures. The μFIFA World Cup 2026 initiative, spearheaded by the μLearn Foundation, represents an ambitious attempt to channel the competitive energy | HTML | 0 | 0 | Jul 24, 2026 |
-| 312 | 📦 [**World-Peace**](https://github.com/GizzZmo/World-Peace) | Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd. | N/A | 0 | 0 | Jul 24, 2026 |
+| 311 | 📦 [**World-Peace**](https://github.com/GizzZmo/World-Peace) | Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd. | N/A | 0 | 0 | Jul 24, 2026 |
+| 312 | 🔱 [**mufifa-2026**](https://github.com/GizzZmo/mufifa-2026) | The intersection of open-source collaboration, gamified education, and large-scale technical tournaments presents unique engineering challenges that require robust, scalable, and secure infrastructures. The μFIFA World Cup 2026 initiative, spearheaded by the μLearn Foundation, represents an ambitious attempt to channel the competitive energy | HTML | 0 | 0 | Jul 25, 2026 |
+| 313 | 📦 [**DSP4Guitar-USB-Studio-Android**](https://github.com/GizzZmo/DSP4Guitar-USB-Studio-Android) | **DSP4Guitar USB Studio** transforms your Android device into a portable, professional-grade guitar rig and multi-effect processing studio. Built on top of the high-performance C++ **DSP4Guitar** engine and engineered for mobile workflows, it bridges real-time studio audio processing with plug-and-play USB hardware integration. | Kotlin | 0 | 0 | Jul 25, 2026 |
 
 </details>
 
