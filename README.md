@@ -13,6 +13,9 @@
   <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml">
     <img src="https://github.com/GizzZmo/GizzZmo/actions/workflows/config.yml/badge.svg?branch=main&label=Update%20Profile%20README&style=for-the-badge" alt="Update Profile README workflow status" />
   </a>
+  <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/update-trophies.yml">
+    <img src="https://github.com/GizzZmo/GizzZmo/actions/workflows/update-trophies.yml/badge.svg?branch=main&label=Trophies&style=for-the-badge" alt="Update profile trophies workflow status" />
+  </a>
 </p>
 
 ---
@@ -113,15 +116,14 @@ Discussions and issues on the projects above are the preferred contact path.
 
 ### 🏆 GitHub Trophies
 
-<!--
-  Self-host: fork https://github.com/GizzZmo/github-profile-trophy
-  Deploy steps: https://github.com/GizzZmo/github-profile-trophy/blob/master/DEPLOY.md
-  After Vercel deploy, replace the src below with your app URL, e.g.:
-  https://gizzzmo-trophy.vercel.app/?username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true
--->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<!-- Generated daily by .github/workflows/update-trophies.yml (Option B: static SVG in-repo) -->
+<img src="./assets/trophy.svg" alt="GitHub Trophies" />
 
-<p><sub>Self-host fork: <a href="https://github.com/GizzZmo/github-profile-trophy">GizzZmo/github-profile-trophy</a> · interim volunteer mirror until personal Vercel endpoint is live</sub></p>
+<p><sub>
+  Refreshed by <a href="https://github.com/GizzZmo/GizzZmo/actions/workflows/update-trophies.yml">Update profile trophies</a>
+  · <a href="https://github.com/marketplace/actions/profile-trophy-action">soulteary/github-profile-trophy-action</a>
+  · Run workflow manually after merge to generate the first SVG
+</sub></p>
 
 ### 📊 Stats
 
