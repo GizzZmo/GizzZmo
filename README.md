@@ -113,20 +113,20 @@ Discussions and issues on the projects above are the preferred contact path.
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GizzZmo&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&text_color=00FFFF&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GizzZmo&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzZmo&layout=compact&theme=neon&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=GizzZmo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GizzZmo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
