@@ -1,0 +1,41 @@
+name: Update profile trophies
+
+on:
+  schedule:
+    # Daily 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-trophies
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true"
+          path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets
+          git add assets/trophy.svg
+          if git diff --cached --quiet; then
+            echo "No trophy changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh profile trophies"
+          git push
