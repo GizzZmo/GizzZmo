@@ -2,19 +2,14 @@
 
 /**
  * README Update Script
- * Automatically updates dynamic content in README.md
+ * Updates only dynamic markers in README.md — does not rewrite curated content.
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// Configuration
 const README_PATH = path.join(__dirname, '..', 'README.md');
-const GITHUB_API = 'https://api.github.com';
 
-/**
- * Update the date placeholder in README
- */
 function updateDate() {
   console.log('📅 Updating date in README...');
 
@@ -30,7 +25,11 @@ function updateDate() {
       timeZoneName: 'short'
     });
 
-    // Replace the date placeholder
+    if (!readmeContent.includes('<!-- DYNAMIC_DATE -->')) {
+      console.log('⚠️ DYNAMIC_DATE markers not found — skipping');
+      return true;
+    }
+
     readmeContent = readmeContent.replace(
       /<!-- DYNAMIC_DATE -->.*?<!-- \/DYNAMIC_DATE -->/s,
       `<!-- DYNAMIC_DATE -->${currentDate}<!-- /DYNAMIC_DATE -->`
@@ -38,7 +37,6 @@ function updateDate() {
 
     fs.writeFileSync(README_PATH, readmeContent);
     console.log('✅ Date updated successfully');
-
     return true;
   } catch (error) {
     console.error('❌ Error updating date:', error.message);
@@ -46,86 +44,76 @@ function updateDate() {
   }
 }
 
-/**
- * Validate README structure
- */
 function validateReadme() {
   console.log('🔍 Validating README structure...');
 
   try {
     const readmeContent = fs.readFileSync(README_PATH, 'utf8');
 
-    // Check for required sections
-    const requiredSections = [
-      '## 📖 Introduction',
-      '## ✨ Features',
-      '## 🛠️ Tech Stack & Skills',
-      '## 🚀 Usage',
-      '## 🌟 Future Plans',
-      '## 🤝 Connect With Me'
+    // Markers required for automation (curated README relies on these)
+    const requiredMarkers = [
+      '<!-- DYNAMIC_DATE -->',
+      '<!-- STATS_BADGES_START -->',
+      '<!-- STATS_BADGES_END -->',
+      '<!-- DYNAMIC_REPOS_START -->',
+      '<!-- DYNAMIC_REPOS_END -->',
+      '<!-- REPO_INDEX_START -->',
+      '<!-- REPO_INDEX_END -->'
     ];
 
-    let allSectionsPresent = true;
-    requiredSections.forEach(section => {
-      if (!readmeContent.includes(section)) {
-        console.log(`❌ Missing section: ${section}`);
-        allSectionsPresent = false;
+    let ok = true;
+    requiredMarkers.forEach((marker) => {
+      if (!readmeContent.includes(marker)) {
+        console.log(`❌ Missing marker: ${marker}`);
+        ok = false;
+      } else {
+        console.log(`✅ ${marker}`);
       }
     });
 
-    if (allSectionsPresent) {
-      console.log('✅ All required sections present');
-    }
+    // Soft checks for curated identity (do not fail the job)
+    const softSections = ['Who I am', 'Flagship projects', 'Connect'];
+    softSections.forEach((s) => {
+      if (!readmeContent.includes(s)) {
+        console.log(`⚠️ Soft section missing: ${s}`);
+      }
+    });
 
-    // Check README length
     const wordCount = readmeContent.split(/\s+/).length;
-    console.log(`📊 README stats: ${wordCount} words, ${readmeContent.length} characters`);
+    console.log(`📊 README: ${wordCount} words, ${readmeContent.length} characters`);
 
-    if (wordCount < 100) {
-      console.log('⚠️ README might be too short');
-    } else if (wordCount > 2000) {
-      console.log('⚠️ README might be too long - consider breaking into sections');
-    } else {
-      console.log('✅ README length is appropriate');
+    if (readmeContent.length > 200000) {
+      console.log('⚠️ README is very large');
     }
 
-    return allSectionsPresent;
+    return ok;
   } catch (error) {
     console.error('❌ Error validating README:', error.message);
     return false;
   }
 }
 
-/**
- * Check for broken links in README
- */
 function checkLinks() {
   console.log('🔗 Checking for potential link issues...');
 
   try {
     const readmeContent = fs.readFileSync(README_PATH, 'utf8');
-
-    // Find all markdown links
     const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
     const links = [];
     let match;
 
     while ((match = linkRegex.exec(readmeContent)) !== null) {
-      links.push({
-        text: match[1],
-        url: match[2]
-      });
+      links.push({ text: match[1], url: match[2] });
     }
 
     console.log(`📊 Found ${links.length} links in README`);
 
-    // Check for common issues
-    links.forEach(link => {
+    links.forEach((link) => {
       if (link.url.includes('localhost') || link.url.includes('127.0.0.1')) {
-        console.log(`⚠️ Potential localhost link: ${link.text} -> ${link.url}`);
+        console.log(`⚠️ localhost link: ${link.text} -> ${link.url}`);
       }
       if (link.url.includes('example.com') || link.url.includes('placeholder')) {
-        console.log(`⚠️ Potential placeholder link: ${link.text} -> ${link.url}`);
+        console.log(`⚠️ placeholder link: ${link.text} -> ${link.url}`);
       }
     });
 
@@ -137,9 +125,6 @@ function checkLinks() {
   }
 }
 
-/**
- * Main function
- */
 function main() {
   console.log('🚀 Starting README update process...\n');
 
@@ -154,7 +139,7 @@ function main() {
   console.log(`Validation: ${results.validation ? '✅' : '❌'}`);
   console.log(`Link check: ${results.linkCheck ? '✅' : '❌'}`);
 
-  const allSuccessful = Object.values(results).every(result => result);
+  const allSuccessful = Object.values(results).every(Boolean);
 
   if (allSuccessful) {
     console.log('\n🎉 README update completed successfully!');
@@ -165,7 +150,6 @@ function main() {
   }
 }
 
-// Run if called directly
 if (require.main === module) {
   main();
 }

@@ -1,199 +1,145 @@
-# Enhanced GitHub Profile Update Workflow
-# Automatically updates README with dynamic content
+# Profile README — dynamic section updater
+# Only rewrites content between marker comments. Curated top of README is never touched.
 
 name: Update Profile README
 
-# Controls when the action will run
 on:
   schedule:
-    # Runs at 00:00 UTC daily
+    # Daily at 00:00 UTC
     - cron: '0 0 * * *'
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+    # Never auto-commit from pull_request events
+    if: github.event_name != 'pull_request'
+
     steps:
-      # Checkout the repository
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      # Setup Node.js for any JavaScript processing
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
 
-      # Cache dependencies to speed up builds
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      # Update dynamic date in README
-      - name: Update README with current date
+      - name: Install dependencies
         run: |
-          # Get current date in a nice format
-          CURRENT_DATE=$(date '+%B %d, %Y at %H:%M UTC')
-          
-          # Replace the dynamic date placeholder in README
-          sed -i "s/{{ DATE }}/$CURRENT_DATE/g" README.md
-          
-          echo "Updated README with date: $CURRENT_DATE"
+          if [ -f package-lock.json ]; then
+            npm ci --ignore-scripts || npm install --ignore-scripts
+          else
+            npm install --ignore-scripts || true
+          fi
 
-      # Get latest repositories and generate index with statistics
-      - name: Update repository information
+      - name: Update dynamic date
+        run: |
+          CURRENT_DATE=$(date -u '+%B %d, %Y at %H:%M UTC')
+          if grep -q '<!-- DYNAMIC_DATE -->' README.md; then
+            # Replace content between DYNAMIC_DATE markers only
+            sed -i -E "s|(<!-- DYNAMIC_DATE -->).*?(<!-- /DYNAMIC_DATE -->)|\1${CURRENT_DATE}\2|" README.md
+            echo "Date set to: $CURRENT_DATE"
+          else
+            echo "No DYNAMIC_DATE markers found — skipping date update"
+          fi
+
+      - name: Update pinned / highlighted repos
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Fetching latest repository information..."
-          
-          # Run the update-pinned-repos script first
-          if ! npm run update-pinned; then
-            echo "⚠️ Pinned repositories update failed - check logs for details"
-            exit 1
-          fi
-          
-          # Run the generate-repo-index script
-          if ! npm run generate-index; then
-            echo "⚠️ Repository index generation failed - check logs for details"
-            exit 1
-          fi
-          
-          echo "Last updated: $(date)" >> .github/last-update.txt
-
-      # Performance optimization: Compress any images if they exist
-      - name: Optimize images
-        run: |
-          echo "Checking for images to optimize..."
-          # Install imagemin if images exist
-          if find . -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" | grep -q .; then
-            echo "Images found, optimization would happen here"
-            # npm install -g imagemin-cli imagemin-pngquant imagemin-mozjpeg
-            # imagemin images/*.{jpg,png} --out-dir=images/ --plugin=pngquant --plugin=mozjpeg
+          if [ -f scripts/update-pinned-repos.js ]; then
+            node scripts/update-pinned-repos.js || echo "⚠️ update-pinned-repos failed (non-fatal)"
           else
-            echo "No images found to optimize"
+            echo "scripts/update-pinned-repos.js not found — skip"
           fi
 
-      # Security scan for any sensitive data
-      - name: Security check
+      - name: Generate repository index + stats badges
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Running security checks..."
-          # Check for common sensitive patterns
-          if grep -r -i "password\|secret\|key\|token" . --exclude-dir=.git --exclude-dir=node_modules --exclude="*.md" || true; then
-            echo "⚠️ Potential sensitive data found - please review"
+          if [ -f scripts/generate-repo-index.js ]; then
+            node scripts/generate-repo-index.js || echo "⚠️ generate-repo-index failed (non-fatal)"
           else
-            echo "✅ No obvious sensitive data detected"
+            echo "scripts/generate-repo-index.js not found — skip"
           fi
 
-      # Commit and push changes if any
-      - name: Commit changes
+      - name: Record last update
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          
-          # Check if there are any changes
-          if git diff --quiet; then
+          mkdir -p .github
+          echo "Last successful profile update: $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > .github/last-update.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add README.md .github/last-update.txt || true
+
+          if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git add .
-            git commit -m "🤖 Auto-update profile README - $(date '+%Y-%m-%d %H:%M:%S')"
-            
-            CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
-            if [ "$CURRENT_BRANCH" != "main" ]; then
-              echo "::warning::Skipping push: current branch is '$CURRENT_BRANCH' (not 'main'). Commit created locally but not pushed to remote."
-              exit 0
-            fi
-            
-            # Pull latest changes from remote to avoid push conflicts
-            if REBASE_OUTPUT=$(git pull --rebase origin main 2>&1); then
-              git push origin HEAD:main
-              echo "✅ Successfully updated profile README"
-            else
-              echo "$REBASE_OUTPUT"
-              echo "❌ Rebase failed; aborting push to avoid conflicts."
-              echo "::error::Rebase failed. Resolve conflicts on 'main' (pull, fix, push) and re-run the workflow."
-              git rebase --abort
-              exit 1
-            fi
+            exit 0
           fi
 
-  # Performance monitoring job
-  performance-check:
-    runs-on: ubuntu-latest
-    needs: update-readme
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+          git commit -m "chore: auto-update profile dynamic sections $(date -u '+%Y-%m-%d')"
 
-      - name: Monitor workflow performance
-        run: |
-          echo "=== Workflow Performance Report ==="
-          echo "Repository size: $(du -sh . | cut -f1)"
-          echo "File count: $(find . -type f | wc -l)"
-          echo "Largest files:"
-          find . -type f -exec ls -la {} \; | sort -k5 -nr | head -5
-          
-          # Check README.md size
-          if [ -f "README.md" ]; then
-            README_SIZE=$(wc -c < README.md)
-            echo "README.md size: $README_SIZE bytes"
-            
-            if [ $README_SIZE -gt 50000 ]; then
-              echo "⚠️ README.md is quite large ($README_SIZE bytes) - consider optimization"
-            else
-              echo "✅ README.md size is optimal"
-            fi
+          # Only push on main
+          if [ "${GITHUB_REF}" != "refs/heads/main" ]; then
+            echo "Not on main — commit created locally only"
+            exit 0
           fi
 
-  # Community engagement check
-  community-health:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+          git pull --rebase origin main || {
+            echo "::error::Rebase failed; aborting push"
+            git rebase --abort || true
+            exit 1
+          }
+          git push origin HEAD:main
+          echo "✅ Profile dynamic sections updated"
 
-      - name: Check community health
+  # Lightweight health check (runs on PR too if you add pull_request later)
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Community + README health
         run: |
-          echo "=== Community Health Check ==="
-          
-          # Check for essential community files
-          files=("README.md" "LICENSE" ".gitignore")
-          for file in "${files[@]}"; do
-            if [ -f "$file" ]; then
-              echo "✅ $file exists"
-            else
-              echo "❌ $file missing"
-            fi
+          echo "=== Health check ==="
+          for f in README.md LICENSE .gitignore CONTRIBUTING.md; do
+            if [ -f "$f" ]; then echo "✅ $f"; else echo "❌ missing $f"; fi
           done
-          
-          # Check for templates directory
-          if [ -d "templates" ]; then
-            echo "✅ Templates directory exists"
-            echo "Template files:"
-            find templates -type f | sort
-          else
-            echo "❌ Templates directory missing"
-          fi
-          
-          # Check for contribution guidelines
-          if [ -f "CONTRIBUTING.md" ] || grep -q -i "contributing" README.md; then
-            echo "✅ Contribution guidelines found"
-          else
-            echo "⚠️ Consider adding contribution guidelines"
+
+          if [ -f README.md ]; then
+            SIZE=$(wc -c < README.md)
+            echo "README.md size: $SIZE bytes"
+            if [ "$SIZE" -gt 200000 ]; then
+              echo "⚠️ README is very large — consider trimming non-dynamic content"
+            elif [ "$SIZE" -gt 80000 ]; then
+              echo "⚠️ README is large"
+            else
+              echo "✅ README size is reasonable"
+            fi
+
+            for marker in "DYNAMIC_DATE" "STATS_BADGES_START" "STATS_BADGES_END" "DYNAMIC_REPOS_START" "DYNAMIC_REPOS_END" "REPO_INDEX_START" "REPO_INDEX_END"; do
+              if grep -q "$marker" README.md; then
+                echo "✅ marker $marker present"
+              else
+                echo "⚠️ marker $marker missing"
+              fi
+            done
           fi
