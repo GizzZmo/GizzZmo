@@ -113,10 +113,15 @@ Discussions and issues on the projects above are the preferred contact path.
 
 ### 🏆 GitHub Trophies
 
-<!-- Primary volunteer mirror (official vercel.app often returns 402) -->
+<!--
+  Self-host: fork https://github.com/GizzZmo/github-profile-trophy
+  Deploy steps: https://github.com/GizzZmo/github-profile-trophy/blob/master/DEPLOY.md
+  After Vercel deploy, replace the src below with your app URL, e.g.:
+  https://gizzzmo-trophy.vercel.app/?username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true
+-->
 <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=GizzZmo&theme=radical&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 
-<!-- Fallback mirrors if primary is down: gh-trophy.cdnsoft.net · trophy.ryglcloud.net · github-profile-trophy-kannan.vercel.app -->
+<p><sub>Self-host fork: <a href="https://github.com/GizzZmo/github-profile-trophy">GizzZmo/github-profile-trophy</a> · interim volunteer mirror until personal Vercel endpoint is live</sub></p>
 
 ### 📊 Stats
 
