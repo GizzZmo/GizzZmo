@@ -137,8 +137,8 @@ Discussions and issues on the projects above are the preferred contact path.
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-313-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-169-yellow?style=for-the-badge&logo=star)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-315-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total_Stars-170-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-32-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-Python-red?style=for-the-badge&logo=code)
 
@@ -146,16 +146,16 @@ Discussions and issues on the projects above are the preferred contact path.
 
 ##### Repository Breakdown
 
-- **Original Repositories**: 125
-- **Forked Repositories**: 188
+- **Original Repositories**: 126
+- **Forked Repositories**: 189
 - **Archived Repositories**: 0
 
 ##### Language Distribution
 
 - **Python**: 51 repositories
-- **TypeScript**: 48 repositories
+- **TypeScript**: 49 repositories
 - **C++**: 39 repositories
-- **HTML**: 32 repositories
+- **HTML**: 33 repositories
 - **JavaScript**: 24 repositories
 - **C#**: 18 repositories
 - **Java**: 11 repositories
@@ -173,9 +173,9 @@ Discussions and issues on the projects above are the preferred contact path.
 | 📝 **[AutoSec](https://github.com/GizzZmo/AutoSec)** | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network d... | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Stars](https://img.shields.io/github/stars/GizzZmo/AutoSec?style=flat-square) |
 | 📝 **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing. ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/DSP4Guitar?style=flat-square) |
 | 📝 **[Face-Recon](https://github.com/GizzZmo/Face-Recon)** | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple a... | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Face-Recon?style=flat-square) |
-| 📝 **[Ai_shell](https://github.com/GizzZmo/Ai_shell)** | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural ... | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Ai_shell?style=flat-square) |
 | 📝 **[Cassanova](https://github.com/GizzZmo/Cassanova)** | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of... | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Cassanova?style=flat-square) |
-| 📝 **[Enhanced-Botnet-Implementation](https://github.com/GizzZmo/Enhanced-Botnet-Implementation)** | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypti... | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Enhanced-Botnet-Implementation?style=flat-square) |
+| 📝 **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comp... | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/Master-Prompt-Editor?style=flat-square) |
+| 📝 **[NAW](https://github.com/GizzZmo/NAW)** | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates sta... | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Stars](https://img.shields.io/github/stars/GizzZmo/NAW?style=flat-square) |
 
 <!-- DYNAMIC_REPOS_END -->
 
@@ -186,7 +186,7 @@ Discussions and issues on the projects above are the preferred contact path.
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (313 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (315 repositories)</summary>
 
 ### All Public Repositories
 
@@ -194,7 +194,7 @@ Discussions and issues on the projects above are the preferred contact path.
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
 | 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 18 | 20 | Jul 20, 2026 |
 | 2 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 7 | 1 | Jul 24, 2026 |
-| 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 6 | 3 | Jun 21, 2026 |
+| 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 7 | 3 | Jul 30, 2026 |
 | 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 4 | 2 | Jul 24, 2026 |
 | 5 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
 | 6 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
@@ -318,7 +318,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 124 | 📦 [**Hi-World**](https://github.com/GizzZmo/Hi-World) | letter to the world | N/A | 1 | 0 | Jun 20, 2026 |
 | 125 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 1 | 0 | Mar 31, 2026 |
 | 126 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Jul 9, 2026 |
-| 127 | 📦 [**martial_arts**](https://github.com/GizzZmo/martial_arts) | The pursuit of knowledge in the martial arts is a journey enriched by its vast and varied literary landscape. This project maps the key resources available to practitioners, researchers, and historians. | HTML | 1 | 0 | Jul 29, 2026 |
+| 127 | 📦 [**martial_arts**](https://github.com/GizzZmo/martial_arts) | The pursuit of knowledge in the martial arts is a journey enriched by its vast and varied literary landscape. This project maps the key resources available to practitioners, researchers, and historians. | HTML | 1 | 0 | Jul 30, 2026 |
 | 128 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Jul 30, 2026 |
 | 129 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 130 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
@@ -505,6 +505,8 @@ Discussions and issues on the projects above are the preferred contact path.
 | 311 | 📦 [**World-Peace**](https://github.com/GizzZmo/World-Peace) | Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd. | N/A | 0 | 0 | Jul 24, 2026 |
 | 312 | 🔱 [**mufifa-2026**](https://github.com/GizzZmo/mufifa-2026) | The intersection of open-source collaboration, gamified education, and large-scale technical tournaments presents unique engineering challenges that require robust, scalable, and secure infrastructures. The μFIFA World Cup 2026 initiative, spearheaded by the μLearn Foundation, represents an ambitious attempt to channel the competitive energy | HTML | 0 | 0 | Jul 25, 2026 |
 | 313 | 📦 [**DSP4Guitar-USB-Studio-Android**](https://github.com/GizzZmo/DSP4Guitar-USB-Studio-Android) | **DSP4Guitar USB Studio** transforms your Android device into a portable, professional-grade guitar rig and multi-effect processing studio. Built on top of the high-performance C++ **DSP4Guitar** engine and engineered for mobile workflows, it bridges real-time studio audio processing with plug-and-play USB hardware integration. | Kotlin | 0 | 0 | Jul 30, 2026 |
+| 314 | 🔱 [**github-profile-trophy**](https://github.com/GizzZmo/github-profile-trophy) | 🏆 Add dynamically generated GitHub Stat Trophies  on your readme | TypeScript | 0 | 0 | Jul 30, 2026 |
+| 315 | 📦 [**cyberid-nexus**](https://github.com/GizzZmo/cyberid-nexus) | CYBERID NEXUS — Future Identity Generator 2184. Fully offline-first cyberpunk identity synthesizer with pluggable AI providers (Gemini + Imagen, OpenAI, local/Ollama-compatible). Norwegian UI. | HTML | 0 | 0 | Jul 30, 2026 |
 
 </details>
 
@@ -522,7 +524,7 @@ Here are some of the most popular repositories:
 
 3. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
    - 💻 Language: JavaScript
-   - ⭐ Stars: 6
+   - ⭐ Stars: 7
 
 4. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
    - 💻 Language: TypeScript
