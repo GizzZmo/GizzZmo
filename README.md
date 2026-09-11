@@ -137,7 +137,7 @@ Discussions and issues on the projects above are the preferred contact path.
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-323-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-324-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-191-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-38-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
@@ -146,13 +146,13 @@ Discussions and issues on the projects above are the preferred contact path.
 
 ##### Repository Breakdown
 
-- **Original Repositories**: 133
+- **Original Repositories**: 134
 - **Forked Repositories**: 190
 - **Archived Repositories**: 0
 
 ##### Language Distribution
 
-- **TypeScript**: 54 repositories
+- **TypeScript**: 55 repositories
 - **Python**: 51 repositories
 - **C++**: 39 repositories
 - **HTML**: 34 repositories
@@ -186,7 +186,7 @@ Discussions and issues on the projects above are the preferred contact path.
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (323 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (324 repositories)</summary>
 
 ### All Public Repositories
 
@@ -206,7 +206,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 12 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 2 | 0 | Aug 3, 2026 |
 | 13 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 3 | Sep 6, 2026 |
 | 14 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 2 | 1 | Sep 7, 2026 |
-| 15 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 9, 2026 |
+| 15 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 10, 2026 |
 | 16 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 17 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 18 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -330,7 +330,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 136 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 1 | 0 | Aug 5, 2026 |
 | 137 | 🔱 [**monkey365**](https://github.com/GizzZmo/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews. | PowerShell | 1 | 0 | Aug 20, 2023 |
 | 138 | 📦 [**autofix-engine**](https://github.com/GizzZmo/autofix-engine) | AutoFix: The Self-Healing Web Layer - eliminates 404s and broken external links using Cloudflare Workers, Go healer, and client runtime with Wayback Machine integration. | HTML | 1 | 0 | Sep 6, 2026 |
-| 139 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 9, 2026 |
+| 139 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 10, 2026 |
 | 140 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 141 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 142 | 🔱 [**p2p-adb**](https://github.com/GizzZmo/p2p-adb) | Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones. | Shell | 0 | 0 | Jul 12, 2026 |
@@ -515,6 +515,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 321 | 📦 [**fjordhopp**](https://github.com/GizzZmo/fjordhopp) | Fjordhopp — 2D-plattformspill gjennom mosegrodde norske klipper. Løp, hopp og nå flagget. | TypeScript | 0 | 0 | Aug 23, 2026 |
 | 322 | 📦 [**CyberKey-iOS**](https://github.com/GizzZmo/CyberKey-iOS) | iOS 26 real-time musical key (toneart) & chord recognizer using microphone or external audio input. Cyberpunk UIX by Cybergroup Incorporated. Optimized for iPhone 17 Pro. | Swift | 0 | 0 | Aug 24, 2026 |
 | 323 | 📦 [**16**](https://github.com/GizzZmo/16) | Pax Atlas An independent editorial guide to the missions, treaties, and people building peace. Not affiliated with the United Nations or the organizations profiled. | TypeScript | 0 | 0 | Aug 27, 2026 |
+| 324 | 📦 [**marvel-fandom**](https://github.com/GizzZmo/marvel-fandom) | Marvel fandom-wiki bygget med Next.js App Router, Markdown/Frontmatter (gray-matter), Tailwind CSS og lokal fuzzy-søk. | TypeScript | 0 | 0 | Sep 10, 2026 |
 
 </details>
 
