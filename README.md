@@ -137,16 +137,16 @@ Discussions and issues on the projects above are the preferred contact path.
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-327-blue?style=for-the-badge&logo=github)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-328-blue?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total_Stars-195-yellow?style=for-the-badge&logo=star)
-![Total Forks](https://img.shields.io/badge/Total_Forks-38-green?style=for-the-badge&logo=git)
+![Total Forks](https://img.shields.io/badge/Total_Forks-39-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
 </div>
 
 ##### Repository Breakdown
 
-- **Original Repositories**: 137
+- **Original Repositories**: 138
 - **Forked Repositories**: 190
 - **Archived Repositories**: 0
 
@@ -156,7 +156,7 @@ Discussions and issues on the projects above are the preferred contact path.
 - **Python**: 51 repositories
 - **C++**: 39 repositories
 - **HTML**: 35 repositories
-- **JavaScript**: 25 repositories
+- **JavaScript**: 26 repositories
 - **C#**: 18 repositories
 - **Java**: 11 repositories
 - **C**: 9 repositories
@@ -186,13 +186,13 @@ Discussions and issues on the projects above are the preferred contact path.
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (327 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (328 repositories)</summary>
 
 ### All Public Repositories
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 24 | 23 | Sep 5, 2026 |
+| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 24 | 24 | Sep 5, 2026 |
 | 2 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 8 | 1 | Sep 19, 2026 |
 | 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 8 | 3 | Aug 17, 2026 |
 | 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 5 | 2 | Aug 25, 2026 |
@@ -207,7 +207,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 13 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 2 | 0 | Aug 3, 2026 |
 | 14 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 3 | Sep 6, 2026 |
 | 15 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 2 | 1 | Sep 14, 2026 |
-| 16 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 19, 2026 |
+| 16 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 20, 2026 |
 | 17 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 18 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 19 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -311,28 +311,28 @@ Discussions and issues on the projects above are the preferred contact path.
 | 117 | 📦 [**FIG---Future-Idenity-Generator**](https://github.com/GizzZmo/FIG---Future-Idenity-Generator) | Choose only Region and sex and it will generate a new Identity every time | TypeScript | 1 | 0 | May 22, 2026 |
 | 118 | 🔱 [**Learn-React-with-TypeScript-2nd-Edition**](https://github.com/GizzZmo/Learn-React-with-TypeScript-2nd-Edition) | This repository contains all the code examples and exercises from the book "Learn React with TypeScript - Second Edition" by Carl Rippon, published by Packt Publishing. It serves as a comprehensive learning resource for developers who want to build modern, type-safe web applications using React 18 and TypeScript. | TypeScript | 1 | 0 | Oct 19, 2025 |
 | 119 | 🔱 [**superset**](https://github.com/GizzZmo/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 1 | 0 | Dec 13, 2023 |
-| 120 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | May 23, 2026 |
-| 121 | 📦 [**Mr_Agent_AI**](https://github.com/GizzZmo/Mr_Agent_AI) | The repository "Mr. Agent AI" is a conceptual project that aims to explore and demonstrate the principles of **Agentic AI** using TypeScript. It simulates an AI agent capable of perceiving inputs, reasoning, planning, acting, and learning. The README highlights a structured approach to designing such an agent. | TypeScript | 1 | 0 | Jul 23, 2025 |
-| 122 | 📦 [**Hi-World**](https://github.com/GizzZmo/Hi-World) | letter to the world | N/A | 1 | 0 | Jun 20, 2026 |
-| 123 | 🔱 [**recon-modular**](https://github.com/GizzZmo/recon-modular) | 🛡️ AI-powered reconnaissance framework unifying 130+ security tools — subdomain enum, vuln scanning, cloud/IoT recon, dark web monitoring & blockchain-audited reporting. GAN-driven subdomain prediction, distributed execution post-quantum encryption. Built for bug bounty, red team & DevSecOps. | Shell | 1 | 0 | Aug 5, 2026 |
-| 124 | 📦 [**martial_arts**](https://github.com/GizzZmo/martial_arts) | The pursuit of knowledge in the martial arts is a journey enriched by its vast and varied literary landscape. This project maps the key resources available to practitioners, researchers, and historians. | HTML | 1 | 0 | Jul 30, 2026 |
-| 125 | 📦 [**cyberid-nexus**](https://github.com/GizzZmo/cyberid-nexus) | CYBERID NEXUS — Future Identity Generator 2184. Fully offline-first cyberpunk identity synthesizer with pluggable AI providers (Gemini + Imagen, OpenAI, local/Ollama-compatible). Norwegian UI. | HTML | 1 | 0 | Aug 8, 2026 |
-| 126 | 📦 [**DSP4Guitar-USB-Studio-Android**](https://github.com/GizzZmo/DSP4Guitar-USB-Studio-Android) | **DSP4Guitar USB Studio** transforms your Android device into a portable, professional-grade guitar rig and multi-effect processing studio. Built on top of the high-performance C++ **DSP4Guitar** engine and engineered for mobile workflows, it bridges real-time studio audio processing with plug-and-play USB hardware integration. | Kotlin | 1 | 0 | Aug 8, 2026 |
-| 127 | 📦 [**Infiniti**](https://github.com/GizzZmo/Infiniti) | Infiniti A UCI chess engine written in C++20, featuring bitboard-based move generation, a tapered hand-crafted evaluator with NNUE support, and an alpha-beta search with modern pruning techniques. | C++ | 1 | 0 | Aug 8, 2026 |
-| 128 | 📦 [**InkSync**](https://github.com/GizzZmo/InkSync) | The Modern Tattoo Workshop Platform.  InkSync is a comprehensive digital ecosystem designed to bridge the gap between tattoo artists and clients. It combines creative portfolio management with clinical-grade scheduling and health compliance.  features, move them to a "Completed" section or check them off to keep stakeholders informed. | TypeScript | 1 | 0 | Aug 3, 2026 |
-| 129 | 🔱 [**Stockfish**](https://github.com/GizzZmo/Stockfish) | This repository is a public fork of the official Stockfish project, reimagined to include a complete cyberpunk-themed GUI built with Electron and React.  It serves as a dynamic development environment for creating and optimizing user interfaces for the Stockfish chess engine. The project's main features include:  A full-featured, visually striking  | C++ | 1 | 0 | Aug 5, 2026 |
-| 130 | 🔱 [**locally-uncensored**](https://github.com/GizzZmo/locally-uncensored) | Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud. | TypeScript | 1 | 0 | Aug 8, 2026 |
-| 131 | 🔱 [**distribution-macOS**](https://github.com/GizzZmo/distribution-macOS) | No description | N/A | 1 | 0 | Aug 15, 2026 |
-| 132 | 📦 [**CyberAsio-Core**](https://github.com/GizzZmo/CyberAsio-Core) | Cyberpunk simulated ASIO control panel for low-latency audio settings, device management & local file playback with real-time visualizations (Angular + Web Audio). | HTML | 1 | 0 | Aug 15, 2026 |
-| 133 | 📦 [**autofix-polyglot**](https://github.com/GizzZmo/autofix-polyglot) | Multi-language, multi-paradigm self-healing web layer (ISO-style layers): TypeScript Edge, Go Healer, JS Client | JavaScript | 1 | 0 | Aug 26, 2026 |
-| 134 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 1 | 0 | Aug 5, 2026 |
-| 135 | 🔱 [**monkey365**](https://github.com/GizzZmo/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews. | PowerShell | 1 | 0 | Aug 20, 2023 |
-| 136 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Sep 13, 2026 |
-| 137 | 📦 [**oslo-codex-ios**](https://github.com/GizzZmo/oslo-codex-ios) | iOS 27 companion app for the album Oslo Codex by Jon Arve Ovesen (Cybergroup Incorporated®). Nordic rap noir. SwiftUI + Liquid Glass. | Swift | 1 | 0 | Sep 16, 2026 |
-| 138 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Sep 16, 2026 |
-| 139 | 📦 [**StompEngine**](https://github.com/GizzZmo/StompEngine) | Low-latency iOS guitar stomp: AVAudioEngine sink+source, USB-C interface, overdrive + delay, SwiftUI controls. | Swift | 1 | 0 | Sep 17, 2026 |
-| 140 | 📦 [**autofix-engine**](https://github.com/GizzZmo/autofix-engine) | AutoFix: The Self-Healing Web Layer - eliminates 404s and broken external links using Cloudflare Workers, Go healer, and client runtime with Wayback Machine integration. | HTML | 1 | 0 | Sep 6, 2026 |
-| 141 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 19, 2026 |
+| 120 | 📦 [**Mr_Agent_AI**](https://github.com/GizzZmo/Mr_Agent_AI) | The repository "Mr. Agent AI" is a conceptual project that aims to explore and demonstrate the principles of **Agentic AI** using TypeScript. It simulates an AI agent capable of perceiving inputs, reasoning, planning, acting, and learning. The README highlights a structured approach to designing such an agent. | TypeScript | 1 | 0 | Jul 23, 2025 |
+| 121 | 📦 [**Hi-World**](https://github.com/GizzZmo/Hi-World) | letter to the world | N/A | 1 | 0 | Jun 20, 2026 |
+| 122 | 🔱 [**recon-modular**](https://github.com/GizzZmo/recon-modular) | 🛡️ AI-powered reconnaissance framework unifying 130+ security tools — subdomain enum, vuln scanning, cloud/IoT recon, dark web monitoring & blockchain-audited reporting. GAN-driven subdomain prediction, distributed execution post-quantum encryption. Built for bug bounty, red team & DevSecOps. | Shell | 1 | 0 | Aug 5, 2026 |
+| 123 | 📦 [**martial_arts**](https://github.com/GizzZmo/martial_arts) | The pursuit of knowledge in the martial arts is a journey enriched by its vast and varied literary landscape. This project maps the key resources available to practitioners, researchers, and historians. | HTML | 1 | 0 | Jul 30, 2026 |
+| 124 | 📦 [**cyberid-nexus**](https://github.com/GizzZmo/cyberid-nexus) | CYBERID NEXUS — Future Identity Generator 2184. Fully offline-first cyberpunk identity synthesizer with pluggable AI providers (Gemini + Imagen, OpenAI, local/Ollama-compatible). Norwegian UI. | HTML | 1 | 0 | Aug 8, 2026 |
+| 125 | 📦 [**DSP4Guitar-USB-Studio-Android**](https://github.com/GizzZmo/DSP4Guitar-USB-Studio-Android) | **DSP4Guitar USB Studio** transforms your Android device into a portable, professional-grade guitar rig and multi-effect processing studio. Built on top of the high-performance C++ **DSP4Guitar** engine and engineered for mobile workflows, it bridges real-time studio audio processing with plug-and-play USB hardware integration. | Kotlin | 1 | 0 | Aug 8, 2026 |
+| 126 | 📦 [**Infiniti**](https://github.com/GizzZmo/Infiniti) | Infiniti A UCI chess engine written in C++20, featuring bitboard-based move generation, a tapered hand-crafted evaluator with NNUE support, and an alpha-beta search with modern pruning techniques. | C++ | 1 | 0 | Aug 8, 2026 |
+| 127 | 📦 [**InkSync**](https://github.com/GizzZmo/InkSync) | The Modern Tattoo Workshop Platform.  InkSync is a comprehensive digital ecosystem designed to bridge the gap between tattoo artists and clients. It combines creative portfolio management with clinical-grade scheduling and health compliance.  features, move them to a "Completed" section or check them off to keep stakeholders informed. | TypeScript | 1 | 0 | Aug 3, 2026 |
+| 128 | 🔱 [**Stockfish**](https://github.com/GizzZmo/Stockfish) | This repository is a public fork of the official Stockfish project, reimagined to include a complete cyberpunk-themed GUI built with Electron and React.  It serves as a dynamic development environment for creating and optimizing user interfaces for the Stockfish chess engine. The project's main features include:  A full-featured, visually striking  | C++ | 1 | 0 | Aug 5, 2026 |
+| 129 | 🔱 [**locally-uncensored**](https://github.com/GizzZmo/locally-uncensored) | Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud. | TypeScript | 1 | 0 | Aug 8, 2026 |
+| 130 | 🔱 [**distribution-macOS**](https://github.com/GizzZmo/distribution-macOS) | No description | N/A | 1 | 0 | Aug 15, 2026 |
+| 131 | 📦 [**CyberAsio-Core**](https://github.com/GizzZmo/CyberAsio-Core) | Cyberpunk simulated ASIO control panel for low-latency audio settings, device management & local file playback with real-time visualizations (Angular + Web Audio). | HTML | 1 | 0 | Aug 15, 2026 |
+| 132 | 📦 [**autofix-polyglot**](https://github.com/GizzZmo/autofix-polyglot) | Multi-language, multi-paradigm self-healing web layer (ISO-style layers): TypeScript Edge, Go Healer, JS Client | JavaScript | 1 | 0 | Aug 26, 2026 |
+| 133 | 📦 [**VerseFlow**](https://github.com/GizzZmo/VerseFlow) | Complete Suite for the #verseflow Artist | TypeScript | 1 | 0 | Aug 5, 2026 |
+| 134 | 🔱 [**monkey365**](https://github.com/GizzZmo/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews. | PowerShell | 1 | 0 | Aug 20, 2023 |
+| 135 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 1 | 1 | Sep 13, 2026 |
+| 136 | 📦 [**oslo-codex-ios**](https://github.com/GizzZmo/oslo-codex-ios) | iOS 27 companion app for the album Oslo Codex by Jon Arve Ovesen (Cybergroup Incorporated®). Nordic rap noir. SwiftUI + Liquid Glass. | Swift | 1 | 0 | Sep 16, 2026 |
+| 137 | 📦 [**Enhanced-Botnet-Implementation**](https://github.com/GizzZmo/Enhanced-Botnet-Implementation) | Command & Control (C&C) server, which includes functionalities for managing connected bots, encrypting communication, and tracking execution history. The repository also discusses ethical recommendations, suggesting its intent may lie in educational or research purposes rather than malicious use. | Python | 1 | 0 | Sep 16, 2026 |
+| 138 | 📦 [**StompEngine**](https://github.com/GizzZmo/StompEngine) | Low-latency iOS guitar stomp: AVAudioEngine sink+source, USB-C interface, overdrive + delay, SwiftUI controls. | Swift | 1 | 0 | Sep 17, 2026 |
+| 139 | 📦 [**autofix-engine**](https://github.com/GizzZmo/autofix-engine) | AutoFix: The Self-Healing Web Layer - eliminates 404s and broken external links using Cloudflare Workers, Go healer, and client runtime with Wayback Machine integration. | HTML | 1 | 0 | Sep 6, 2026 |
+| 140 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 20, 2026 |
+| 141 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | May 23, 2026 |
 | 142 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 143 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 144 | 🔱 [**p2p-adb**](https://github.com/GizzZmo/p2p-adb) | Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones. | Shell | 0 | 0 | Jul 12, 2026 |
@@ -519,6 +519,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 325 | 📦 [**marvel-fandom**](https://github.com/GizzZmo/marvel-fandom) | Marvel fandom-wiki bygget med Next.js App Router, Markdown/Frontmatter (gray-matter), Tailwind CSS og lokal fuzzy-søk. | TypeScript | 0 | 0 | Sep 10, 2026 |
 | 326 | 📦 [**16**](https://github.com/GizzZmo/16) | Pax Atlas An independent editorial guide to the missions, treaties, and people building peace. Not affiliated with the United Nations or the organizations profiled. | TypeScript | 0 | 0 | Aug 27, 2026 |
 | 327 | 📦 [**web-rig-guitar-pedalboard**](https://github.com/GizzZmo/web-rig-guitar-pedalboard) | Browser multi-FX guitar pedalboard using the Web Audio API (Core Audio on macOS, WASAPI on Windows). | HTML | 0 | 0 | Sep 17, 2026 |
+| 328 | 📦 [**live-fotball**](https://github.com/GizzZmo/live-fotball) | LiveFotball – norske live fotballresultater som oppdateres fortløpende | JavaScript | 0 | 0 | Sep 20, 2026 |
 
 </details>
 
