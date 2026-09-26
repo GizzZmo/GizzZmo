@@ -138,7 +138,7 @@ Discussions and issues on the projects above are the preferred contact path.
 <div align="center">
 
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-328-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-198-yellow?style=for-the-badge&logo=star)
+![Total Stars](https://img.shields.io/badge/Total_Stars-200-yellow?style=for-the-badge&logo=star)
 ![Total Forks](https://img.shields.io/badge/Total_Forks-39-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
@@ -192,9 +192,9 @@ Discussions and issues on the projects above are the preferred contact path.
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 25 | 24 | Sep 21, 2026 |
-| 2 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 8 | 1 | Sep 19, 2026 |
-| 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 8 | 3 | Aug 17, 2026 |
+| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 26 | 24 | Sep 25, 2026 |
+| 2 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 9 | 3 | Sep 25, 2026 |
+| 3 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 8 | 1 | Sep 19, 2026 |
 | 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 5 | 2 | Aug 25, 2026 |
 | 5 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
 | 6 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
@@ -209,7 +209,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 15 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 3 | Sep 6, 2026 |
 | 16 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 2 | 1 | Sep 21, 2026 |
 | 17 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 2 | 1 | Sep 21, 2026 |
-| 18 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 24, 2026 |
+| 18 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 25, 2026 |
 | 19 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 20 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 21 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -332,7 +332,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 138 | 📦 [**StompEngine**](https://github.com/GizzZmo/StompEngine) | Low-latency iOS guitar stomp: AVAudioEngine sink+source, USB-C interface, overdrive + delay, SwiftUI controls. | Swift | 1 | 0 | Sep 17, 2026 |
 | 139 | 📦 [**autofix-engine**](https://github.com/GizzZmo/autofix-engine) | AutoFix: The Self-Healing Web Layer - eliminates 404s and broken external links using Cloudflare Workers, Go healer, and client runtime with Wayback Machine integration. | HTML | 1 | 0 | Sep 6, 2026 |
 | 140 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Sep 21, 2026 |
-| 141 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 24, 2026 |
+| 141 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 25, 2026 |
 | 142 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 143 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 144 | 🔱 [**p2p-adb**](https://github.com/GizzZmo/p2p-adb) | Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones. | Shell | 0 | 0 | Jul 12, 2026 |
@@ -529,14 +529,14 @@ Here are some of the most popular repositories:
 
 1. **[Cassanova](https://github.com/GizzZmo/Cassanova)** - Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more
    - 💻 Language: TypeScript
-   - ⭐ Stars: 25
+   - ⭐ Stars: 26
 
-2. **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** - Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar.
-   - 💻 Language: C++
-   - ⭐ Stars: 8
-
-3. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
+2. **[Tattoo-Workshop](https://github.com/GizzZmo/Tattoo-Workshop)** - A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more.
    - 💻 Language: JavaScript
+   - ⭐ Stars: 9
+
+3. **[DSP4Guitar](https://github.com/GizzZmo/DSP4Guitar)** - Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar.
+   - 💻 Language: C++
    - ⭐ Stars: 8
 
 4. **[Master-Prompt-Editor](https://github.com/GizzZmo/Master-Prompt-Editor)** - Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system. 
