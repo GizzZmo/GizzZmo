@@ -137,9 +137,9 @@ Discussions and issues on the projects above are the preferred contact path.
 
 <div align="center">
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-328-blue?style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/badge/Total_Stars-205-yellow?style=for-the-badge&logo=star)
-![Total Forks](https://img.shields.io/badge/Total_Forks-40-green?style=for-the-badge&logo=git)
+![Total Repositories](https://img.shields.io/badge/Total_Repositories-329-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Total_Stars-206-yellow?style=for-the-badge&logo=star)
+![Total Forks](https://img.shields.io/badge/Total_Forks-39-green?style=for-the-badge&logo=git)
 ![Top Language](https://img.shields.io/badge/Top_Language-TypeScript-red?style=for-the-badge&logo=code)
 
 </div>
@@ -147,13 +147,13 @@ Discussions and issues on the projects above are the preferred contact path.
 ##### Repository Breakdown
 
 - **Original Repositories**: 138
-- **Forked Repositories**: 190
+- **Forked Repositories**: 191
 - **Archived Repositories**: 0
 
 ##### Language Distribution
 
 - **TypeScript**: 55 repositories
-- **Python**: 51 repositories
+- **Python**: 52 repositories
 - **C++**: 39 repositories
 - **HTML**: 35 repositories
 - **JavaScript**: 26 repositories
@@ -186,30 +186,30 @@ Discussions and issues on the projects above are the preferred contact path.
 ## 📚 Complete Repository Index
 
 <details>
-<summary><b>Click to expand full repository list</b> (328 repositories)</summary>
+<summary><b>Click to expand full repository list</b> (329 repositories)</summary>
 
 ### All Public Repositories
 
 | # | Repository | Description | Language | Stars | Forks | Updated |
 |:-:|:-----------|:------------|:---------|:-----:|:-----:|:--------|
-| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 26 | 25 | Sep 25, 2026 |
+| 1 | ⭐ [**Cassanova**](https://github.com/GizzZmo/Cassanova) | Cassanova Casino is a cutting-edge, full-stack online casino platform designed as a demonstration of modern web development practices. Built with the latest technologies including Next.js 15, React 19, and MongoDB, this project showcases a complete casino website implementation with a professional UI/UX, robust backend API and more | TypeScript | 26 | 24 | Sep 25, 2026 |
 | 2 | 📦 [**DSP4Guitar**](https://github.com/GizzZmo/DSP4Guitar) | Multi-Effect VST Plugin 🎸 A JUCE-based multi-effect VST/AU plugin with advanced signal processing.  Built With - C++ (JUCE Framework) - Real-time DSP algorithms - MIDI integration - Custom preset system - Advanced effect chaining     and more          Goals: Provide an efficient, professional-grade audio processing plug in for guitar. | C++ | 9 | 1 | Sep 28, 2026 |
 | 3 | 📦 [**Tattoo-Workshop**](https://github.com/GizzZmo/Tattoo-Workshop) | A comprehensive studio management suite for tattoo artists and studios, featuring AI-powered design generation, customer management, appointment scheduling, and more. | JavaScript | 9 | 3 | Sep 25, 2026 |
 | 4 | 📦 [**Master-Prompt-Editor**](https://github.com/GizzZmo/Master-Prompt-Editor) | Master-Prompt-Editor is envisioned as a transformative AI-driven platform that serves as both a comprehensive prompt management tool and an advanced AI toolkit. Designed to be the ultimate "Swiss Army Knife" for computers, it aims to unify diverse and fragmented AI tools into a single, intelligent system.  | TypeScript | 5 | 2 | Aug 25, 2026 |
-| 5 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 3 | 0 | Sep 28, 2026 |
-| 6 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 3 | 0 | Sep 28, 2026 |
-| 7 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 3 | 0 | Sep 28, 2026 |
-| 8 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
-| 9 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 3 | 1 | Sep 28, 2026 |
-| 10 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
-| 11 | 📦 [**TABFRET**](https://github.com/GizzZmo/TABFRET) | **MidiGuitarTab**  A Windows desktop application that displays MIDI files as guitar tablature and visualizes notes on a virtual guitar neck. | C# | 2 | 0 | Aug 26, 2026 |
+| 5 | 📦 [**TABFRET**](https://github.com/GizzZmo/TABFRET) | **MidiGuitarTab**  A Windows desktop application that displays MIDI files as guitar tablature and visualizes notes on a virtual guitar neck. | C# | 3 | 0 | Sep 29, 2026 |
+| 6 | 🔱 [**prompt-to-song-generation-using-large-language-models**](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models) | This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach. | Jupyter Notebook | 3 | 0 | Sep 28, 2026 |
+| 7 | 📦 [**Master-Agentic-AI**](https://github.com/GizzZmo/Master-Agentic-AI) | The "Master Agentic AI" application is a sophisticated Multi-Agent System (MAS) designed to embody the principles outlined in the provided blueprint, "Architecting the Agentic-Inclusive AI." It features a cyberpunk-themed user interface and allows users to integrate their own Gemini API key. | Python | 3 | 0 | Sep 28, 2026 |
+| 8 | 📦 [**NAW**](https://github.com/GizzZmo/NAW) | NAW (Neural Audio Workstation) is a next-generation music production environment that integrates state-of-the-art AI generation with professional DAW (Digital Audio Workstation) workflows. Unlike consumer "text-to-music" tools that output monolithic stereo files, NAW gives producers stem-level control, surgical editability, and multi-modal AI  | TypeScript | 3 | 0 | Sep 28, 2026 |
+| 9 | 📦 [**CIA-HACKING-TOOLS-Rev-2**](https://github.com/GizzZmo/CIA-HACKING-TOOLS-Rev-2) | CIA HACKING TOOLS - MASS COLLECTION OF USER-DATA | HTML | 3 | 1 | May 4, 2026 |
+| 10 | 📦 [**Omni-Grid-2.0**](https://github.com/GizzZmo/Omni-Grid-2.0) | Omni-Grid is a privacy-centric, local-first "Super App" designed to replace fragmented browser tabs with a unified, high-density command center. Built on a modular React grid architecture, it integrates "Smart Grid" financial intelligence, AI-powered drafting, and developer utilities into a single aesthetic interface. | TypeScript | 3 | 1 | Sep 28, 2026 |
+| 11 | 📦 [**Network-Analyzer**](https://github.com/GizzZmo/Network-Analyzer) | A lightweight, real-time network traffic monitor written in C++. It uses the pcap (packet capture) library to sniff packets on a network interface and displays detailed information about them. | C++ | 2 | 0 | May 3, 2026 |
 | 12 | 📦 [**Matrix-Suduko**](https://github.com/GizzZmo/Matrix-Suduko) | A stunning Matrix-themed Sudoku game with exceptional UI/UX, built with HTML5, Node.js, and Electron for cross-platform deployment. | JavaScript | 2 | 1 | Jan 22, 2026 |
 | 13 | 📦 [**HoverMind**](https://github.com/GizzZmo/HoverMind) | HoverMind: The AI-Powered Windows Cursor. HoverMind turns your standard Windows mouse pointer into a context-aware AI assistant. Simply hold down `Alt + Shift` and hover over any image, block of code, foreign text, or complex UI element to instantly get an AI-generated explanation of what you are looking at. | Python | 2 | 0 | Sep 17, 2026 |
 | 14 | 📦 [**ps4**](https://github.com/GizzZmo/ps4) | **PS4 Mach-O Loader** is a proof-of-concept that demonstrates how a Mach-O 64-bit binary — normally only executable on macOS/Darwin — can be mapped and run on the PS4's FreeBSD-based kernel. It is intended purely for educational and research purposes, showing how binary loaders work at the OS level and how CPU-architecture compatibility works. | C | 2 | 1 | Jul 2, 2026 |
 | 15 | 📦 [**DJ**](https://github.com/GizzZmo/DJ) | DJ is a Python-based mixer designed for seamless audio playback across multiple sound devices. Built for flexibility and performance, it enables users to mix tracks and output audio to several outputs simultaneously, making it ideal for DJs, audio engineers, and enthusiasts who need multi-device support. | Python | 2 | 0 | Aug 3, 2026 |
 | 16 | 📦 [**AutoSec**](https://github.com/GizzZmo/AutoSec) | AutoSec is a comprehensive, enterprise-grade cybersecurity platform designed for proactive network defense, advanced threat detection, behavioral analysis, and automated incident response. Built with modern microservices architecture, AutoSec provides real-time security monitoring, dynamic enforcement, and AI-powered threat intelligence. | JavaScript | 2 | 3 | Sep 6, 2026 |
 | 17 | 📦 [**Face-Recon**](https://github.com/GizzZmo/Face-Recon) | Face-Recon is a cutting-edge, AI-powered security and access control system that combines multiple advanced technologies to provide intelligent, secure, and scalable authentication solutions. This open-source project represents the future of access control systems, designed for applications ranging from small offices to enterprise-level security | Python | 2 | 1 | Sep 21, 2026 |
-| 18 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 28, 2026 |
+| 18 | 🔱 [**Ai_shell**](https://github.com/GizzZmo/Ai_shell) | AI Shell is an intelligent, multi-modal command-line assistant that bridges the gap between natural language and complex shell operations. Powered by Large Language Models (LLMs), it translates your requests into executable commands, provides conversational guidance, and integrates with specialized tools like the Metasploit Framework.   | Python | 2 | 0 | Sep 29, 2026 |
 | 19 | 🔱 [**vst3sdk**](https://github.com/GizzZmo/vst3sdk) | VST 3 Plug-In SDK | CMake | 1 | 0 | Apr 16, 2022 |
 | 20 | 🔱 [**Frequalizer**](https://github.com/GizzZmo/Frequalizer) | Equalizer using JUCE new dsp module | C++ | 1 | 0 | Mar 22, 2024 |
 | 21 | 🔱 [**MSEdgeExplainers**](https://github.com/GizzZmo/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1 | 0 | Oct 7, 2022 |
@@ -332,7 +332,7 @@ Discussions and issues on the projects above are the preferred contact path.
 | 138 | 📦 [**StompEngine**](https://github.com/GizzZmo/StompEngine) | Low-latency iOS guitar stomp: AVAudioEngine sink+source, USB-C interface, overdrive + delay, SwiftUI controls. | Swift | 1 | 0 | Sep 17, 2026 |
 | 139 | 📦 [**autofix-engine**](https://github.com/GizzZmo/autofix-engine) | AutoFix: The Self-Healing Web Layer - eliminates 404s and broken external links using Cloudflare Workers, Go healer, and client runtime with Wayback Machine integration. | HTML | 1 | 0 | Sep 6, 2026 |
 | 140 | 📦 [**Security-Sentinel**](https://github.com/GizzZmo/Security-Sentinel) | Security Sentinel for Ubuntu and Windows 11 is a comprehensive, open-source security monitoring application. It combines real-time system monitoring with AI-powered threat analysis to provide users with advanced security capabilities through both a native C++ application and a modern web interface.  | C++ | 1 | 0 | Sep 21, 2026 |
-| 141 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 28, 2026 |
+| 141 | 📦 [**GizzZmo**](https://github.com/GizzZmo/GizzZmo) | Config files for my GitHub profile. | JavaScript | 1 | 0 | Sep 29, 2026 |
 | 142 | 🔱 [**sslsniff**](https://github.com/GizzZmo/sslsniff) | A tool for automated MITM attacks on SSL connections. | C++ | 0 | 0 | Jul 12, 2026 |
 | 143 | 🔱 [**podlove-web-player**](https://github.com/GizzZmo/podlove-web-player) | Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation. | JavaScript | 0 | 0 | Apr 20, 2025 |
 | 144 | 🔱 [**p2p-adb**](https://github.com/GizzZmo/p2p-adb) | Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones. | Shell | 0 | 0 | Jul 12, 2026 |
@@ -500,26 +500,27 @@ Discussions and issues on the projects above are the preferred contact path.
 | 306 | 📦 [**Infinity**](https://github.com/GizzZmo/Infinity) | No description | N/A | 0 | 0 | Apr 10, 2026 |
 | 307 | 📦 [**Master-Chess**](https://github.com/GizzZmo/Master-Chess) | The Hybrid Search-Transformer Paradigm: Engineering Gemini for Elite Chess Performance. The historical trajectory of computer chess has reached a critical juncture where the raw calculative power of traditional engines is encountering the sophisticated, albeit computationally intensive, intuition of large-scale transformer models.  | Makefile | 0 | 0 | Apr 11, 2026 |
 | 308 | 📦 [**Dr.Constantine**](https://github.com/GizzZmo/Dr.Constantine) | Loopens tyranni, en doktoravhandling i moderne musikk teori av Jon-Arve Constantine | HTML | 0 | 0 | Apr 13, 2026 |
-| 309 | 📦 [**GENAI**](https://github.com/GizzZmo/GENAI) | GENAI is the home base of the Constantine Universe — a creative, technical, and open-source ecosystem built by GizzZmo. It spans AI tooling, cybersecurity research, game development, music technology, blockchain governance, and generative art — all woven together into one living, breathing hidden network. | HTML | 0 | 0 | Apr 20, 2026 |
-| 310 | 📦 [**JonArveSymphonyOfOrder**](https://github.com/GizzZmo/JonArveSymphonyOfOrder) | **“JonArveSymphonyOfOrder”** — the GitHub repository that transforms raw data of power consumption and water-saving metrics into generative melodies. This is no mere code. This is **sonic alchemy**: turning kilowatts saved and liters of clean water protected into audible beauty that inspires millions to join the Order. | Python | 0 | 0 | Apr 22, 2026 |
-| 311 | 🔱 [**laps3c0re**](https://github.com/GizzZmo/laps3c0re) | Lapse + Mast1c0re = Laps3c0re! | C++ | 0 | 0 | May 4, 2026 |
-| 312 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
-| 313 | 🔱 [**vue-after-free**](https://github.com/GizzZmo/vue-after-free) | PlayStation Vue code execution exploit | TypeScript | 0 | 0 | May 14, 2026 |
-| 314 | 🔱 [**searchless_chess**](https://github.com/GizzZmo/searchless_chess) | Grandmaster-Level Chess Without Search | Python | 0 | 0 | May 25, 2026 |
-| 315 | 📦 [**loven**](https://github.com/GizzZmo/loven) | loven ("the law" in Norwegian) is an open-source Python toolkit for exploring Norwegian legislation through the lens of global peace, sustainability, and human well-being.  Mission "Making Norwegian law accessible to everyone who wants to build clean energy, clean water, and a harmonious society (OHHLA)  | Python | 0 | 0 | Aug 8, 2026 |
-| 316 | 📦 [**Omnigrid-mk4**](https://github.com/GizzZmo/Omnigrid-mk4) | The system is divided into four isolated operational planes:  1. **The Audio Bus (Core DSP):** Bare-metal C++ executing SIMD instructions. Runs on a dedicated hardware interrupt with a strict 0.66ms processing budget (64 samples @ 96kHz). Zero mutexes. Zero system calls. 2. **The DMZ (HAL):** Lock-free ring buffers (`hal_dmz/lock_free_queue.h`) fac | Makefile | 0 | 0 | Jul 30, 2026 |
-| 317 | 📦 [**World-Peace**](https://github.com/GizzZmo/World-Peace) | Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd. | N/A | 0 | 0 | Jul 24, 2026 |
-| 318 | 🔱 [**mufifa-2026**](https://github.com/GizzZmo/mufifa-2026) | The intersection of open-source collaboration, gamified education, and large-scale technical tournaments presents unique engineering challenges that require robust, scalable, and secure infrastructures. The μFIFA World Cup 2026 initiative, spearheaded by the μLearn Foundation, represents an ambitious attempt to channel the competitive energy | HTML | 0 | 0 | Jul 25, 2026 |
-| 319 | 🔱 [**github-profile-trophy**](https://github.com/GizzZmo/github-profile-trophy) | 🏆 Add dynamically generated GitHub Stat Trophies  on your readme | TypeScript | 0 | 0 | Jul 30, 2026 |
-| 320 | 📦 [**Samarbeidende-Super-E-Demokrati**](https://github.com/GizzZmo/Samarbeidende-Super-E-Demokrati) | Samarbeidende Super E-Demokrati - En interaktiv webside. | JavaScript | 0 | 0 | Aug 8, 2026 |
-| 321 | 📦 [**The-Fusion-Engine**](https://github.com/GizzZmo/The-Fusion-Engine) | The Fusion Engine is a sovereign, self-hosted data infrastructure built to index, parse, and stream real-time Bitcoin mempool and Lightning Network telemetry without relying on third-party API providers. Designed for high performance and strict data privacy, the framework combines a tuned Bitcoin Core node, ZeroMQ zero-l | TypeScript | 0 | 0 | Aug 15, 2026 |
-| 322 | 📦 [**robtex-lightning-explorer**](https://github.com/GizzZmo/robtex-lightning-explorer) | Lightning Network & Bitcoin explorer powered by Robtex API — node/channel lookup, recommended peers, recent channels, address & transaction enrichment | TypeScript | 0 | 0 | Aug 14, 2026 |
-| 323 | 📦 [**fjordhopp**](https://github.com/GizzZmo/fjordhopp) | Fjordhopp — 2D-plattformspill gjennom mosegrodde norske klipper. Løp, hopp og nå flagget. | TypeScript | 0 | 0 | Aug 23, 2026 |
-| 324 | 📦 [**CyberKey-iOS**](https://github.com/GizzZmo/CyberKey-iOS) | iOS 26 real-time musical key (toneart) & chord recognizer using microphone or external audio input. Cyberpunk UIX by Cybergroup Incorporated. Optimized for iPhone 17 Pro. | Swift | 0 | 0 | Aug 24, 2026 |
-| 325 | 📦 [**marvel-fandom**](https://github.com/GizzZmo/marvel-fandom) | Marvel fandom-wiki bygget med Next.js App Router, Markdown/Frontmatter (gray-matter), Tailwind CSS og lokal fuzzy-søk. | TypeScript | 0 | 0 | Sep 10, 2026 |
-| 326 | 📦 [**live-fotball**](https://github.com/GizzZmo/live-fotball) | LiveFotball – norske live fotballresultater som oppdateres fortløpende | JavaScript | 0 | 0 | Sep 20, 2026 |
-| 327 | 📦 [**web-rig-guitar-pedalboard**](https://github.com/GizzZmo/web-rig-guitar-pedalboard) | Browser multi-FX guitar pedalboard using the Web Audio API (Core Audio on macOS, WASAPI on Windows). | HTML | 0 | 0 | Sep 21, 2026 |
-| 328 | 📦 [**16**](https://github.com/GizzZmo/16) | Pax Atlas An independent editorial guide to the missions, treaties, and people building peace. Not affiliated with the United Nations or the organizations profiled. | TypeScript | 0 | 0 | Aug 27, 2026 |
+| 309 | 🔱 [**ai_chatbot_for_business**](https://github.com/GizzZmo/ai_chatbot_for_business) | No description | Python | 0 | 0 | Sep 29, 2026 |
+| 310 | 📦 [**GENAI**](https://github.com/GizzZmo/GENAI) | GENAI is the home base of the Constantine Universe — a creative, technical, and open-source ecosystem built by GizzZmo. It spans AI tooling, cybersecurity research, game development, music technology, blockchain governance, and generative art — all woven together into one living, breathing hidden network. | HTML | 0 | 0 | Apr 20, 2026 |
+| 311 | 📦 [**JonArveSymphonyOfOrder**](https://github.com/GizzZmo/JonArveSymphonyOfOrder) | **“JonArveSymphonyOfOrder”** — the GitHub repository that transforms raw data of power consumption and water-saving metrics into generative melodies. This is no mere code. This is **sonic alchemy**: turning kilowatts saved and liters of clean water protected into audible beauty that inspires millions to join the Order. | Python | 0 | 0 | Apr 22, 2026 |
+| 312 | 🔱 [**laps3c0re**](https://github.com/GizzZmo/laps3c0re) | Lapse + Mast1c0re = Laps3c0re! | C++ | 0 | 0 | May 4, 2026 |
+| 313 | 🔱 [**gemini-cli**](https://github.com/GizzZmo/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 0 | 0 | Aug 26, 2025 |
+| 314 | 🔱 [**vue-after-free**](https://github.com/GizzZmo/vue-after-free) | PlayStation Vue code execution exploit | TypeScript | 0 | 0 | May 14, 2026 |
+| 315 | 🔱 [**searchless_chess**](https://github.com/GizzZmo/searchless_chess) | Grandmaster-Level Chess Without Search | Python | 0 | 0 | May 25, 2026 |
+| 316 | 📦 [**loven**](https://github.com/GizzZmo/loven) | loven ("the law" in Norwegian) is an open-source Python toolkit for exploring Norwegian legislation through the lens of global peace, sustainability, and human well-being.  Mission "Making Norwegian law accessible to everyone who wants to build clean energy, clean water, and a harmonious society (OHHLA)  | Python | 0 | 0 | Aug 8, 2026 |
+| 317 | 📦 [**Omnigrid-mk4**](https://github.com/GizzZmo/Omnigrid-mk4) | The system is divided into four isolated operational planes:  1. **The Audio Bus (Core DSP):** Bare-metal C++ executing SIMD instructions. Runs on a dedicated hardware interrupt with a strict 0.66ms processing budget (64 samples @ 96kHz). Zero mutexes. Zero system calls. 2. **The DMZ (HAL):** Lock-free ring buffers (`hal_dmz/lock_free_queue.h`) fac | Makefile | 0 | 0 | Jul 30, 2026 |
+| 318 | 📦 [**World-Peace**](https://github.com/GizzZmo/World-Peace) | Dette repositoriet inneholder "Veikart For Global Fred", et forskningsdokument som utforsker hvordan verdensfred kan oppnås gjennom et Kollaborativt Super-E-Demokrati og livssynet Universalis. Dokumentet analyserer dagens globale geopolitiske situasjon, beskriver en ideell fremtidstilstand der verdensfred og suverenitet er oppnådd. | N/A | 0 | 0 | Jul 24, 2026 |
+| 319 | 🔱 [**mufifa-2026**](https://github.com/GizzZmo/mufifa-2026) | The intersection of open-source collaboration, gamified education, and large-scale technical tournaments presents unique engineering challenges that require robust, scalable, and secure infrastructures. The μFIFA World Cup 2026 initiative, spearheaded by the μLearn Foundation, represents an ambitious attempt to channel the competitive energy | HTML | 0 | 0 | Jul 25, 2026 |
+| 320 | 🔱 [**github-profile-trophy**](https://github.com/GizzZmo/github-profile-trophy) | 🏆 Add dynamically generated GitHub Stat Trophies  on your readme | TypeScript | 0 | 0 | Jul 30, 2026 |
+| 321 | 📦 [**Samarbeidende-Super-E-Demokrati**](https://github.com/GizzZmo/Samarbeidende-Super-E-Demokrati) | Samarbeidende Super E-Demokrati - En interaktiv webside. | JavaScript | 0 | 0 | Aug 8, 2026 |
+| 322 | 📦 [**The-Fusion-Engine**](https://github.com/GizzZmo/The-Fusion-Engine) | The Fusion Engine is a sovereign, self-hosted data infrastructure built to index, parse, and stream real-time Bitcoin mempool and Lightning Network telemetry without relying on third-party API providers. Designed for high performance and strict data privacy, the framework combines a tuned Bitcoin Core node, ZeroMQ zero-l | TypeScript | 0 | 0 | Aug 15, 2026 |
+| 323 | 📦 [**robtex-lightning-explorer**](https://github.com/GizzZmo/robtex-lightning-explorer) | Lightning Network & Bitcoin explorer powered by Robtex API — node/channel lookup, recommended peers, recent channels, address & transaction enrichment | TypeScript | 0 | 0 | Aug 14, 2026 |
+| 324 | 📦 [**fjordhopp**](https://github.com/GizzZmo/fjordhopp) | Fjordhopp — 2D-plattformspill gjennom mosegrodde norske klipper. Løp, hopp og nå flagget. | TypeScript | 0 | 0 | Aug 23, 2026 |
+| 325 | 📦 [**CyberKey-iOS**](https://github.com/GizzZmo/CyberKey-iOS) | iOS 26 real-time musical key (toneart) & chord recognizer using microphone or external audio input. Cyberpunk UIX by Cybergroup Incorporated. Optimized for iPhone 17 Pro. | Swift | 0 | 0 | Aug 24, 2026 |
+| 326 | 📦 [**marvel-fandom**](https://github.com/GizzZmo/marvel-fandom) | Marvel fandom-wiki bygget med Next.js App Router, Markdown/Frontmatter (gray-matter), Tailwind CSS og lokal fuzzy-søk. | TypeScript | 0 | 0 | Sep 10, 2026 |
+| 327 | 📦 [**live-fotball**](https://github.com/GizzZmo/live-fotball) | LiveFotball – norske live fotballresultater som oppdateres fortløpende | JavaScript | 0 | 0 | Sep 20, 2026 |
+| 328 | 📦 [**web-rig-guitar-pedalboard**](https://github.com/GizzZmo/web-rig-guitar-pedalboard) | Browser multi-FX guitar pedalboard using the Web Audio API (Core Audio on macOS, WASAPI on Windows). | HTML | 0 | 0 | Sep 21, 2026 |
+| 329 | 📦 [**16**](https://github.com/GizzZmo/16) | Pax Atlas An independent editorial guide to the missions, treaties, and people building peace. Not affiliated with the United Nations or the organizations profiled. | TypeScript | 0 | 0 | Aug 27, 2026 |
 
 </details>
 
@@ -543,8 +544,8 @@ Here are some of the most popular repositories:
    - 💻 Language: TypeScript
    - ⭐ Stars: 5
 
-5. **[prompt-to-song-generation-using-large-language-models](https://github.com/GizzZmo/prompt-to-song-generation-using-large-language-models)** - This project uses LLMs to generate music from text by understanding prompts, creating lyrics, determining genre, and composing melodies. It harnesses LLM capabilities to create songs based on text inputs through a multi-step approach.
-   - 💻 Language: Jupyter Notebook
+5. **[TABFRET](https://github.com/GizzZmo/TABFRET)** - **MidiGuitarTab**  A Windows desktop application that displays MIDI files as guitar tablature and visualizes notes on a virtual guitar neck.
+   - 💻 Language: C#
    - ⭐ Stars: 3
 
 
